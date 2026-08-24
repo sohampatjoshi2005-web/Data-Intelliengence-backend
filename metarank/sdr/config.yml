@@ -1,0 +1,59 @@
+core:
+  clickthrough:
+    maxSessionLength: 24h
+    maxParallelSessions: 10000
+  tracking:
+    anonymous: false
+
+state:
+  type: memory
+
+api:
+  port: 8081
+  host: 0.0.0.0
+
+# SDR-only learning-to-rank configuration. Keep it separate from product models.
+features:
+  - name: intent_probability
+    type: number
+    scope: item
+    source: item.intent_probability
+    ttl: 365d
+  - name: reply_probability
+    type: number
+    scope: item
+    source: item.reply_probability
+    ttl: 365d
+  - name: meeting_probability
+    type: number
+    scope: item
+    source: item.meeting_probability
+    ttl: 365d
+  - name: qualification_probability
+    type: number
+    scope: item
+    source: item.qualification_probability
+    ttl: 365d
+
+models:
+  sdr-prospect-ranker:
+    type: lambdamart
+    backend:
+      type: xgboost
+      iterations: 100
+    weights:
+      bounced: 0
+      unsubscribe: 0
+      opened: 1
+      clicked: 2
+      replied: 3
+      interested: 4
+      pricing_request: 5
+      qualified: 6
+      meeting_request: 7
+      meeting_booked: 8
+    features:
+      - intent_probability
+      - reply_probability
+      - meeting_probability
+      - qualification_probability

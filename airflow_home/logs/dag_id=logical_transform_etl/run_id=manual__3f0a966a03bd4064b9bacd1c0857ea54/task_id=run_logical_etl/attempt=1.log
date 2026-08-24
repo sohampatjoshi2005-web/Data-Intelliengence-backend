@@ -1,0 +1,16 @@
+[2026-07-11T09:16:27.874+0530] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-07-11T09:16:27.879+0530] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: logical_transform_etl.run_logical_etl manual__3f0a966a03bd4064b9bacd1c0857ea54 [queued]>
+[2026-07-11T09:16:27.880+0530] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: logical_transform_etl.run_logical_etl manual__3f0a966a03bd4064b9bacd1c0857ea54 [queued]>
+[2026-07-11T09:16:27.880+0530] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2026-07-11T09:16:27.885+0530] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): run_logical_etl> on 2026-07-11 03:46:25+00:00
+[2026-07-11T09:16:27.890+0530] {standard_task_runner.py:72} INFO - Started process 13888 to run task
+[2026-07-11T09:16:27.895+0530] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'logical_transform_etl', 'run_logical_etl', 'manual__3f0a966a03bd4064b9bacd1c0857ea54', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/logical_transform_etl_dag.py', '--cfg-path', '/var/folders/ms/szcbv48978zc0qrst4r9jhsh0000gp/T/tmpw0pjf_kc']
+[2026-07-11T09:16:27.897+0530] {standard_task_runner.py:105} INFO - Job 4: Subtask run_logical_etl
+[2026-07-11T09:21:15.249+0530] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2026-07-11T09:21:15.257+0530] {process_utils.py:132} INFO - Sending 15 to group 13888. PIDs of all processes in the group: [13888]
+[2026-07-11T09:21:15.258+0530] {process_utils.py:87} INFO - Sending the signal 15 to group 13888
+[2026-07-11T09:21:15.260+0530] {process_utils.py:80} INFO - Process psutil.Process(pid=13888, status='terminated', exitcode=<Negsignal.SIGTERM: -15>) (13888) terminated with exit code -15
+[2026-07-11T09:21:17.953+0530] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-07-11T09:21:17.956+0530] {taskinstance.py:2604} INFO - Dependencies not met for <TaskInstance: logical_transform_etl.run_logical_etl manual__3f0a966a03bd4064b9bacd1c0857ea54 [running]>, dependency 'Task Instance Not Running' FAILED: Task is in the running state
+[2026-07-11T09:21:17.957+0530] {taskinstance.py:2604} INFO - Dependencies not met for <TaskInstance: logical_transform_etl.run_logical_etl manual__3f0a966a03bd4064b9bacd1c0857ea54 [running]>, dependency 'Task Instance State' FAILED: Task is in the 'running' state.
+[2026-07-11T09:21:17.958+0530] {local_task_job_runner.py:166} INFO - Task is not able to be run

@@ -1,0 +1,599 @@
+[2026-07-11T08:30:09.113+0530] {processor.py:186} INFO - Started process (PID=29377) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:30:09.113+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:30:09.113+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:09.113+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:30:17.964+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:30:18.071+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.071+0530] {override.py:1930} INFO - Created Permission View: can edit on DAG:logical_transform_etl
+[2026-07-11T08:30:18.075+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.075+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG:logical_transform_etl
+[2026-07-11T08:30:18.077+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.077+0530] {override.py:1930} INFO - Created Permission View: can read on DAG:logical_transform_etl
+[2026-07-11T08:30:18.080+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.080+0530] {override.py:1930} INFO - Created Permission View: menu access on DAG Run:logical_transform_etl
+[2026-07-11T08:30:18.081+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.081+0530] {override.py:1930} INFO - Created Permission View: can create on DAG Run:logical_transform_etl
+[2026-07-11T08:30:18.083+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.083+0530] {override.py:1930} INFO - Created Permission View: can delete on DAG Run:logical_transform_etl
+[2026-07-11T08:30:18.085+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.085+0530] {override.py:1930} INFO - Created Permission View: can read on DAG Run:logical_transform_etl
+[2026-07-11T08:30:18.085+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.085+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:30:18.089+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.089+0530] {dag.py:3262} INFO - Creating ORM DAG for logical_transform_etl
+[2026-07-11T08:30:18.089+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:18.089+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:30:18.095+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 8.986 seconds
+[2026-07-11T08:30:49.412+0530] {processor.py:186} INFO - Started process (PID=30589) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:30:49.413+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:30:49.414+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:49.414+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:30:49.811+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:30:49.845+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:49.845+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:30:49.850+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:30:49.850+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:30:49.857+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.446 seconds
+[2026-07-11T08:31:21.043+0530] {processor.py:186} INFO - Started process (PID=31910) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:31:21.044+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:31:21.045+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:31:21.045+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:31:21.446+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:31:21.479+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:31:21.479+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:31:21.484+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:31:21.484+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:31:21.491+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.449 seconds
+[2026-07-11T08:31:52.718+0530] {processor.py:186} INFO - Started process (PID=33332) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:31:52.720+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:31:52.720+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:31:52.720+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:31:53.156+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:31:53.189+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:31:53.189+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:31:53.194+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:31:53.194+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:31:53.202+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.485 seconds
+[2026-07-11T08:32:24.333+0530] {processor.py:186} INFO - Started process (PID=34299) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:32:24.334+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:32:24.335+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:32:24.335+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:32:24.721+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:32:24.754+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:32:24.754+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:32:24.759+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:32:24.759+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:32:24.765+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.433 seconds
+[2026-07-11T08:32:55.863+0530] {processor.py:186} INFO - Started process (PID=35239) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:32:55.864+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:32:55.864+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:32:55.864+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:32:56.241+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:32:56.275+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:32:56.274+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:32:56.279+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:32:56.279+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:32:56.287+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.425 seconds
+[2026-07-11T08:33:27.473+0530] {processor.py:186} INFO - Started process (PID=36188) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:33:27.475+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:33:27.475+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:33:27.475+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:33:27.873+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:33:27.906+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:33:27.906+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:33:27.912+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:33:27.911+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:33:27.919+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.447 seconds
+[2026-07-11T08:33:58.963+0530] {processor.py:186} INFO - Started process (PID=37147) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:33:58.964+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:33:58.965+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:33:58.965+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:33:59.300+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:33:59.333+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:33:59.333+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:33:59.337+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:33:59.337+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:33:59.344+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.382 seconds
+[2026-07-11T08:34:30.454+0530] {processor.py:186} INFO - Started process (PID=38102) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:34:30.456+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:34:30.456+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:34:30.456+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:34:30.822+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:34:30.855+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:34:30.855+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:34:30.860+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:34:30.860+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:34:30.868+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.415 seconds
+[2026-07-11T08:35:01.996+0530] {processor.py:186} INFO - Started process (PID=39058) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:35:01.997+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:35:01.998+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:35:01.997+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:35:02.381+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:35:02.416+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:35:02.416+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:35:02.421+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:35:02.421+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:35:02.428+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.433 seconds
+[2026-07-11T08:35:33.677+0530] {processor.py:186} INFO - Started process (PID=40018) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:35:33.678+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:35:33.679+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:35:33.679+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:35:34.067+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:35:34.102+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:35:34.102+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:35:34.107+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:35:34.106+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:35:34.115+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.439 seconds
+[2026-07-11T08:36:05.430+0530] {processor.py:186} INFO - Started process (PID=41111) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:36:05.432+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:36:05.432+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:36:05.432+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:36:05.826+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:36:05.865+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:36:05.864+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:36:05.869+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:36:05.869+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:36:05.876+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.447 seconds
+[2026-07-11T08:36:37.208+0530] {processor.py:186} INFO - Started process (PID=42168) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:36:37.210+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:36:37.210+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:36:37.210+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:36:37.608+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:36:37.645+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:36:37.644+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:36:37.649+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:36:37.649+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:36:37.657+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.449 seconds
+[2026-07-11T08:37:08.995+0530] {processor.py:186} INFO - Started process (PID=43200) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:37:08.996+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:37:08.997+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:37:08.997+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:37:09.432+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:37:09.468+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:37:09.468+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:37:09.473+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:37:09.473+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:37:09.480+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.487 seconds
+[2026-07-11T08:37:40.742+0530] {processor.py:186} INFO - Started process (PID=44231) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:37:40.744+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:37:40.744+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:37:40.744+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:37:41.151+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:37:41.189+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:37:41.189+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:37:41.194+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:37:41.194+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:37:41.202+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.460 seconds
+[2026-07-11T08:38:12.326+0530] {processor.py:186} INFO - Started process (PID=45191) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:38:12.328+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:38:12.328+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:38:12.328+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:38:12.691+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:38:12.724+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:38:12.724+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:38:12.728+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:38:12.728+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:38:12.734+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.408 seconds
+[2026-07-11T08:38:43.832+0530] {processor.py:186} INFO - Started process (PID=46166) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:38:43.833+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:38:43.834+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:38:43.834+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:38:44.203+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:38:44.237+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:38:44.237+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:38:44.242+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:38:44.242+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:38:44.248+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.418 seconds
+[2026-07-11T08:39:15.405+0530] {processor.py:186} INFO - Started process (PID=47107) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:39:15.406+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:39:15.406+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:39:15.406+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:39:15.772+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:39:15.806+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:39:15.806+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:39:15.810+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:39:15.810+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:39:15.816+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.413 seconds
+[2026-07-11T08:39:46.882+0530] {processor.py:186} INFO - Started process (PID=48068) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:39:46.883+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:39:46.884+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:39:46.883+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:39:47.258+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:39:47.296+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:39:47.295+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:39:47.301+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:39:47.300+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:39:47.307+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.426 seconds
+[2026-07-11T08:40:18.515+0530] {processor.py:186} INFO - Started process (PID=49054) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:40:18.516+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:40:18.516+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:40:18.516+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:40:18.987+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:40:19.023+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:40:19.023+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:40:19.028+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:40:19.028+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:40:19.035+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.522 seconds
+[2026-07-11T08:40:50.335+0530] {processor.py:186} INFO - Started process (PID=50007) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:40:50.336+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:40:50.337+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:40:50.336+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:40:50.728+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:40:50.762+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:40:50.762+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:40:50.766+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:40:50.766+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:40:50.772+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.439 seconds
+[2026-07-11T08:41:21.935+0530] {processor.py:186} INFO - Started process (PID=50968) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:41:21.937+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:41:21.937+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:41:21.937+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:41:22.307+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:41:22.341+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:41:22.341+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:41:22.346+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:41:22.345+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:41:22.352+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.419 seconds
+[2026-07-11T08:41:53.549+0530] {processor.py:186} INFO - Started process (PID=51931) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:41:53.550+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:41:53.551+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:41:53.551+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:41:53.929+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:41:53.963+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:41:53.963+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:41:53.968+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:41:53.968+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:41:53.975+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.427 seconds
+[2026-07-11T08:42:25.269+0530] {processor.py:186} INFO - Started process (PID=52965) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:42:25.271+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:42:25.271+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:42:25.271+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:42:25.644+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:42:25.678+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:42:25.678+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:42:25.683+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:42:25.683+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:42:25.688+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.420 seconds
+[2026-07-11T08:42:56.789+0530] {processor.py:186} INFO - Started process (PID=53931) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:42:56.791+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:42:56.791+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:42:56.791+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:42:57.165+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:42:57.197+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:42:57.197+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:42:57.202+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:42:57.201+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:42:57.207+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.419 seconds
+[2026-07-11T08:43:28.317+0530] {processor.py:186} INFO - Started process (PID=54898) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:43:28.318+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:43:28.319+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:43:28.319+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:43:28.690+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:43:28.726+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:43:28.726+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:43:28.730+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:43:28.730+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:43:28.736+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.420 seconds
+[2026-07-11T08:43:59.960+0530] {processor.py:186} INFO - Started process (PID=55861) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:43:59.962+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:43:59.963+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:43:59.963+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:44:00.417+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:44:00.452+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:44:00.452+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:44:00.457+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:44:00.457+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:44:00.463+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.504 seconds
+[2026-07-11T08:44:31.635+0530] {processor.py:186} INFO - Started process (PID=56893) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:44:31.636+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:44:31.637+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:44:31.637+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:44:32.015+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:44:32.049+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:44:32.049+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:44:32.054+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:44:32.054+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:44:32.060+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.427 seconds
+[2026-07-11T08:45:03.442+0530] {processor.py:186} INFO - Started process (PID=57905) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:45:03.443+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:45:03.444+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:45:03.444+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:45:03.862+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:45:03.900+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:45:03.900+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:45:03.906+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:45:03.906+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:45:03.916+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.475 seconds
+[2026-07-11T08:45:35.167+0530] {processor.py:186} INFO - Started process (PID=58925) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:45:35.168+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:45:35.169+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:45:35.169+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:45:35.534+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:45:35.567+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:45:35.567+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:45:35.572+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:45:35.572+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:45:35.580+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.413 seconds
+[2026-07-11T08:46:06.661+0530] {processor.py:186} INFO - Started process (PID=59876) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:46:06.663+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:46:06.663+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:46:06.663+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:46:07.011+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:46:07.045+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:46:07.044+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:46:07.049+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:46:07.049+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:46:07.056+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.395 seconds
+[2026-07-11T08:46:38.424+0530] {processor.py:186} INFO - Started process (PID=60839) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:46:38.426+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:46:38.427+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:46:38.426+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:46:38.843+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:46:38.877+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:46:38.877+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:46:38.881+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:46:38.881+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:46:38.889+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.466 seconds
+[2026-07-11T08:47:10.093+0530] {processor.py:186} INFO - Started process (PID=61791) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:47:10.095+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:47:10.095+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:47:10.095+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:47:10.462+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:47:10.494+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:47:10.494+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:47:10.498+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:47:10.498+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:47:10.504+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.412 seconds
+[2026-07-11T08:47:41.646+0530] {processor.py:186} INFO - Started process (PID=62736) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:47:41.648+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:47:41.648+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:47:41.648+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:47:42.011+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:47:42.045+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:47:42.044+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:47:42.049+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:47:42.049+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:47:42.055+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.410 seconds
+[2026-07-11T08:48:13.185+0530] {processor.py:186} INFO - Started process (PID=63708) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:48:13.186+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:48:13.186+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:48:13.186+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:48:13.551+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:48:13.586+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:48:13.586+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:48:13.590+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:48:13.590+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:48:13.596+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.413 seconds
+[2026-07-11T08:48:44.717+0530] {processor.py:186} INFO - Started process (PID=64692) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:48:44.718+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:48:44.718+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:48:44.718+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:48:45.087+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:48:45.120+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:48:45.120+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:48:45.125+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:48:45.124+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:48:45.131+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.415 seconds
+[2026-07-11T08:49:16.252+0530] {processor.py:186} INFO - Started process (PID=65649) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:49:16.253+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:49:16.253+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:49:16.253+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:49:16.609+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:49:16.643+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:49:16.643+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:49:16.648+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:49:16.648+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:49:16.655+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.404 seconds
+[2026-07-11T08:49:48.292+0530] {processor.py:186} INFO - Started process (PID=66620) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:49:48.293+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:49:48.294+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:49:48.294+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:49:48.667+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:49:48.700+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:49:48.700+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:49:48.705+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:49:48.705+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:49:48.711+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.420 seconds
+[2026-07-11T08:50:19.810+0530] {processor.py:186} INFO - Started process (PID=67599) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:50:19.811+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:50:19.811+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:50:19.811+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:50:20.176+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:50:20.209+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:50:20.209+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:50:20.214+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:50:20.214+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:50:20.220+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.412 seconds
+[2026-07-11T08:50:51.508+0530] {processor.py:186} INFO - Started process (PID=68604) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:50:51.510+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:50:51.510+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:50:51.510+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:50:51.891+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:50:51.925+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:50:51.925+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:50:51.929+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:50:51.929+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:50:51.935+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.428 seconds
+[2026-07-11T08:51:23.078+0530] {processor.py:186} INFO - Started process (PID=69582) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:51:23.079+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:51:23.080+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:51:23.079+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:51:23.439+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:51:23.473+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:51:23.472+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:51:23.477+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:51:23.477+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:51:23.483+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.407 seconds
+[2026-07-11T08:51:54.654+0530] {processor.py:186} INFO - Started process (PID=70559) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:51:54.655+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:51:54.656+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:51:54.656+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:51:55.036+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:51:55.072+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:51:55.072+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:51:55.076+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:51:55.076+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:51:55.083+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.430 seconds
+[2026-07-11T08:52:26.467+0530] {processor.py:186} INFO - Started process (PID=71588) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:52:26.469+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:52:26.470+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:52:26.470+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:52:26.868+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:52:26.904+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:52:26.904+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:52:26.908+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:52:26.908+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:52:26.915+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.449 seconds
+[2026-07-11T08:52:58.046+0530] {processor.py:186} INFO - Started process (PID=72552) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:52:58.047+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:52:58.047+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:52:58.047+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:52:58.460+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:52:58.495+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:52:58.495+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:52:58.499+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:52:58.499+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:52:58.505+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.461 seconds
+[2026-07-11T08:53:29.710+0530] {processor.py:186} INFO - Started process (PID=73524) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:53:29.712+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:53:29.712+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:53:29.712+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:53:30.121+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:53:30.156+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:53:30.156+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:53:30.161+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:53:30.161+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:53:30.167+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.458 seconds
+[2026-07-11T08:54:01.317+0530] {processor.py:186} INFO - Started process (PID=74498) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:54:01.318+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:54:01.319+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:54:01.318+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:54:01.707+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:54:01.741+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:54:01.741+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:54:01.746+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:54:01.746+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:54:01.752+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.437 seconds
+[2026-07-11T08:54:32.927+0530] {processor.py:186} INFO - Started process (PID=75439) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:54:32.927+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:54:32.928+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:54:32.928+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:54:33.297+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:54:33.330+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:54:33.330+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:54:33.334+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:54:33.334+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:54:33.340+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.414 seconds
+[2026-07-11T08:55:04.401+0530] {processor.py:186} INFO - Started process (PID=76407) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:55:04.402+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:55:04.402+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:55:04.402+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:55:04.769+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:55:04.807+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:55:04.807+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:55:04.812+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:55:04.812+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:55:04.820+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.420 seconds
+[2026-07-11T08:55:35.982+0530] {processor.py:186} INFO - Started process (PID=77366) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:55:35.983+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:55:35.984+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:55:35.984+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:55:36.358+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:55:36.393+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:55:36.392+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:55:36.397+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:55:36.397+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:55:36.403+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.422 seconds
+[2026-07-11T08:56:07.546+0530] {processor.py:186} INFO - Started process (PID=78326) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:56:07.547+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:56:07.548+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:56:07.548+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:56:07.953+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:56:07.986+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:56:07.985+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:56:07.990+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:56:07.990+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:56:07.995+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.450 seconds
+[2026-07-11T08:56:39.324+0530] {processor.py:186} INFO - Started process (PID=79284) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:56:39.325+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:56:39.326+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:56:39.325+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:56:39.734+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:56:39.769+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:56:39.769+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:56:39.774+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:56:39.774+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:56:39.780+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.458 seconds
+[2026-07-11T08:57:10.963+0530] {processor.py:186} INFO - Started process (PID=80250) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:57:10.965+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:57:10.965+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:57:10.965+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:57:11.398+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:57:11.432+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:57:11.432+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:57:11.436+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:57:11.436+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:57:11.442+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.481 seconds
+[2026-07-11T08:57:42.625+0530] {processor.py:186} INFO - Started process (PID=81206) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:57:42.626+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:57:42.627+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:57:42.627+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:57:42.997+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:57:43.030+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:57:43.030+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:57:43.034+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:57:43.034+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:57:43.040+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.417 seconds
+[2026-07-11T08:58:13.947+0530] {processor.py:186} INFO - Started process (PID=82162) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:58:13.948+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:58:13.948+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:58:13.948+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:58:14.308+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:58:14.342+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:58:14.342+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:58:14.347+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:58:14.347+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:58:14.353+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.407 seconds
+[2026-07-11T08:58:45.465+0530] {processor.py:186} INFO - Started process (PID=83148) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:58:45.466+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:58:45.466+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:58:45.466+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:58:45.815+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:58:45.847+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:58:45.847+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:58:45.851+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:58:45.851+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:58:45.857+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.393 seconds
+[2026-07-11T08:59:16.915+0530] {processor.py:186} INFO - Started process (PID=84131) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:59:16.916+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:59:16.917+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:59:16.917+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:59:17.258+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:59:17.291+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:59:17.291+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:59:17.295+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:59:17.295+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:59:17.301+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.387 seconds
+[2026-07-11T08:59:48.382+0530] {processor.py:186} INFO - Started process (PID=85096) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:59:48.384+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T08:59:48.384+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:59:48.384+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:59:48.746+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T08:59:48.778+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:59:48.778+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T08:59:48.783+0530] {logging_mixin.py:190} INFO - [2026-07-11T08:59:48.782+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T08:59:48.788+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.407 seconds
+[2026-07-11T09:00:19.885+0530] {processor.py:186} INFO - Started process (PID=86083) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:00:19.887+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:00:19.888+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:00:19.888+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:00:20.284+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:00:20.316+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:00:20.316+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:00:20.320+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:00:20.320+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:00:20.326+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.442 seconds
+[2026-07-11T09:00:51.374+0530] {processor.py:186} INFO - Started process (PID=87064) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:00:51.375+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:00:51.375+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:00:51.375+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:00:51.717+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:00:51.750+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:00:51.750+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:00:51.754+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:00:51.754+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:00:51.760+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.388 seconds
+[2026-07-11T09:01:22.798+0530] {processor.py:186} INFO - Started process (PID=88033) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:01:22.800+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:01:22.801+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:01:22.800+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:01:23.152+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:01:23.186+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:01:23.186+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:01:23.190+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:01:23.190+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:01:23.196+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.399 seconds
+[2026-07-11T09:01:54.245+0530] {processor.py:186} INFO - Started process (PID=89012) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:01:54.246+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:01:54.247+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:01:54.246+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:01:54.593+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:01:54.626+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:01:54.626+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:01:54.630+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:01:54.630+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:01:54.635+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.392 seconds
+[2026-07-11T09:02:25.703+0530] {processor.py:186} INFO - Started process (PID=89998) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:02:25.704+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:02:25.705+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:02:25.705+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:02:26.052+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:02:26.084+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:02:26.084+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:02:26.088+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:02:26.088+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:02:26.094+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.392 seconds
+[2026-07-11T09:02:57.160+0530] {processor.py:186} INFO - Started process (PID=90961) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:02:57.164+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:02:57.164+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:02:57.164+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:02:57.536+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:02:57.569+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:02:57.569+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:02:57.574+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:02:57.573+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:02:57.580+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.422 seconds
+[2026-07-11T09:03:28.675+0530] {processor.py:186} INFO - Started process (PID=91953) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:03:28.676+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:03:28.677+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:03:28.677+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:03:29.037+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:03:29.070+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:03:29.070+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:03:29.074+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:03:29.074+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:03:29.079+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.406 seconds
+[2026-07-11T09:04:00.175+0530] {processor.py:186} INFO - Started process (PID=92922) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:04:00.177+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:04:00.177+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:04:00.177+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:04:00.557+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:04:00.590+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:04:00.590+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:04:00.595+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:04:00.594+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:04:00.601+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.427 seconds
+[2026-07-11T09:04:31.635+0530] {processor.py:186} INFO - Started process (PID=93904) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:04:31.636+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:04:31.637+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:04:31.637+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:04:31.986+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:04:32.019+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:04:32.019+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:04:32.023+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:04:32.023+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:04:32.029+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.396 seconds
+[2026-07-11T09:05:03.064+0530] {processor.py:186} INFO - Started process (PID=94890) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:05:03.065+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:05:03.065+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:05:03.065+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:05:03.418+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:05:03.451+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:05:03.451+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:05:03.455+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:05:03.455+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:05:03.461+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.398 seconds
+[2026-07-11T09:05:34.520+0530] {processor.py:186} INFO - Started process (PID=95867) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:05:34.521+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:05:34.521+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:05:34.521+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:05:34.872+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:05:34.908+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:05:34.908+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:05:34.913+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:05:34.913+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:05:34.919+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.401 seconds
+[2026-07-11T09:06:05.996+0530] {processor.py:186} INFO - Started process (PID=96869) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:06:06.000+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:06:06.000+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:06:06.000+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:06:06.357+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:06:06.390+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:06:06.390+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:06:06.394+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:06:06.394+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:06:06.400+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.407 seconds
+[2026-07-11T09:06:37.497+0530] {processor.py:186} INFO - Started process (PID=97892) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:06:37.498+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:06:37.499+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:06:37.499+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:06:37.853+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:06:37.887+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:06:37.886+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:06:37.891+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:06:37.891+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:06:37.897+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.405 seconds
+[2026-07-11T09:07:08.947+0530] {processor.py:186} INFO - Started process (PID=98864) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:07:08.948+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:07:08.948+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:07:08.948+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:07:09.301+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:07:09.334+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:07:09.334+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:07:09.339+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:07:09.339+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:07:09.344+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.399 seconds
+[2026-07-11T09:07:40.213+0530] {processor.py:186} INFO - Started process (PID=99842) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:07:40.214+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:07:40.215+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:07:40.215+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:07:40.613+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:07:40.648+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:07:40.647+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:07:40.652+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:07:40.652+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:07:40.658+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.447 seconds
+[2026-07-11T09:08:11.842+0530] {processor.py:186} INFO - Started process (PID=1088) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:08:11.843+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:08:11.844+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:08:11.844+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:08:12.230+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:08:12.266+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:08:12.266+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:08:12.271+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:08:12.270+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:08:12.277+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.436 seconds
+[2026-07-11T09:08:43.362+0530] {processor.py:186} INFO - Started process (PID=2052) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:08:43.363+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:08:43.364+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:08:43.364+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:08:43.695+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:08:43.726+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:08:43.726+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:08:43.730+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:08:43.730+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:08:43.735+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.374 seconds
+[2026-07-11T09:09:14.474+0530] {processor.py:186} INFO - Started process (PID=2644) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:09:14.475+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:09:14.475+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:09:14.475+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:09:14.699+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:09:14.728+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:09:14.728+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:09:14.732+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:09:14.732+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:09:14.737+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.264 seconds
+[2026-07-11T09:09:45.573+0530] {processor.py:186} INFO - Started process (PID=3332) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:09:45.574+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:09:45.574+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:09:45.574+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:09:45.821+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:09:45.852+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:09:45.852+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:09:45.856+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:09:45.856+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:09:45.862+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.290 seconds
+[2026-07-11T09:12:25.925+0530] {processor.py:186} INFO - Started process (PID=6702) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:12:25.926+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:12:25.926+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:12:25.926+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:12:26.183+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:12:26.211+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:12:26.211+0530] {taskinstance.py:3315} ERROR - {'DAG Id': 'logical_transform_etl', 'Task Id': 'run_logical_etl', 'Run Id': 'manual__4df858c4296e4a219a8d79887be0faf4', 'Hostname': 'macbook-pro-4.local'}
+[2026-07-11T09:12:26.221+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:12:26.221+0530] {taskinstance.py:1226} INFO - Marking task as FAILED. dag_id=logical_transform_etl, task_id=run_logical_etl, run_id=manual__4df858c4296e4a219a8d79887be0faf4, execution_date=20260711T032802, start_date=20260711T034008, end_date=20260711T034226
+[2026-07-11T09:12:26.229+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:12:26.229+0530] {processor.py:876} INFO - Executed callback for <TaskInstance: logical_transform_etl.run_logical_etl manual__4df858c4296e4a219a8d79887be0faf4 [failed]> in state failed
+[2026-07-11T09:12:26.238+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:12:26.237+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:12:26.241+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:12:26.241+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:12:26.247+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.323 seconds
+[2026-07-11T09:12:57.482+0530] {processor.py:186} INFO - Started process (PID=7531) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:12:57.483+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:12:57.484+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:12:57.484+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:12:57.856+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:12:57.891+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:12:57.891+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:12:57.895+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:12:57.895+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:12:57.901+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.421 seconds
+[2026-07-11T09:13:29.748+0530] {processor.py:186} INFO - Started process (PID=8493) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:13:29.749+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:13:29.749+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:13:29.749+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:13:30.175+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:13:30.210+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:13:30.210+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:13:30.215+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:13:30.215+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:13:30.222+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.476 seconds
+[2026-07-11T09:14:01.456+0530] {processor.py:186} INFO - Started process (PID=9422) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:14:01.457+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:14:01.458+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:14:01.458+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:14:01.831+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:14:01.866+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:14:01.865+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:14:01.870+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:14:01.870+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:14:01.877+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.422 seconds
+[2026-07-11T09:14:33.230+0530] {processor.py:186} INFO - Started process (PID=10363) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:14:33.232+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:14:33.233+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:14:33.233+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:14:33.613+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:14:33.648+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:14:33.648+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:14:33.652+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:14:33.652+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:14:33.658+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.430 seconds
+[2026-07-11T09:15:04.989+0530] {processor.py:186} INFO - Started process (PID=11362) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:15:04.990+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:15:04.991+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:15:04.991+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:15:05.364+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:15:05.397+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:15:05.397+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:15:05.401+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:15:05.401+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:15:05.406+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.419 seconds
+[2026-07-11T09:15:36.471+0530] {processor.py:186} INFO - Started process (PID=12304) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:15:36.472+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:15:36.472+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:15:36.472+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:15:36.820+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:15:36.852+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:15:36.852+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:15:36.857+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:15:36.857+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:15:36.865+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.396 seconds
+[2026-07-11T09:16:07.966+0530] {processor.py:186} INFO - Started process (PID=13256) to work on /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:16:07.968+0530] {processor.py:914} INFO - Processing file /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py for tasks to queue
+[2026-07-11T09:16:07.968+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:16:07.968+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:16:08.336+0530] {processor.py:925} INFO - DAG(s) 'logical_transform_etl' retrieved from /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py
+[2026-07-11T09:16:08.369+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:16:08.369+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-07-11T09:16:08.374+0530] {logging_mixin.py:190} INFO - [2026-07-11T09:16:08.374+0530] {dag.py:4180} INFO - Setting next_dagrun for logical_transform_etl to None, run_after=None
+[2026-07-11T09:16:08.381+0530] {processor.py:208} INFO - Processing /Users/sathya/Projects/Agentic-auto-ml/airflow/dags/logical_transform_etl_dag.py took 0.416 seconds

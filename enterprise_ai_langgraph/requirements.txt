@@ -1,0 +1,10 @@
+streamlit
+pandas
+openai
+langgraph
+chromadb
+presidio-analyzer
+sib-api-v3-sdk
+streamlit-mic-recorder
+faster-whisper
+sentence-transformers

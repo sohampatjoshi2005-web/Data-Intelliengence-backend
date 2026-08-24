@@ -1,0 +1,39 @@
+core:
+  tracking:
+    anonymous: false
+
+state:
+  type: memory
+
+api:
+  port: 8080
+  host: 0.0.0.0
+
+models:
+  similar-products:
+    type: als
+    interactions: [view, click, purchase]
+    factors: 32
+    iterations: 50
+
+  trending-products:
+    type: trending
+    weights:
+      - interaction: view
+        weight: 0.25
+        decay: 0.90
+        window: 180d
+      - interaction: click
+        weight: 1.0
+        decay: 0.92
+        window: 180d
+      - interaction: purchase
+        weight: 3.0
+        decay: 0.97
+        window: 365d
+
+# Phase 2 option: when item descriptions are available, add this under `models:`
+#   semantic-products:
+#     type: semantic
+#     model: metarank/all-MiniLM-L6-v2
+#     itemField: title

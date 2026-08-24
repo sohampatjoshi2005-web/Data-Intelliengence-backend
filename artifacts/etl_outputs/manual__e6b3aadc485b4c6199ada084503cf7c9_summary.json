@@ -1,0 +1,17 @@
+{
+  "run_id": "manual__e6b3aadc485b4c6199ada084503cf7c9",
+  "row_count": 2225,
+  "warnings": [
+    "Derive skipped: new_column/expression missing."
+  ],
+  "report": {
+    "dropped_rows": 275,
+    "validation_failures": []
+  },
+  "target": {
+    "target_type": "csv",
+    "file_path": "/Users/sathya/Downloads/Agentic-auto-ml-main 2/artifacts/etl_outputs/churn_etl_output.csv",
+    "rows": 2225
+  },
+  "timestamp": "2026-05-29T12:07:22.595026Z"
+}

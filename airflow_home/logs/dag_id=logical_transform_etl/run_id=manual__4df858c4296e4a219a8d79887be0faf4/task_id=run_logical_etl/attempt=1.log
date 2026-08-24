@@ -1,0 +1,13 @@
+[2026-07-11T09:10:08.576+0530] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-07-11T09:10:08.581+0530] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: logical_transform_etl.run_logical_etl manual__4df858c4296e4a219a8d79887be0faf4 [queued]>
+[2026-07-11T09:10:08.583+0530] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: logical_transform_etl.run_logical_etl manual__4df858c4296e4a219a8d79887be0faf4 [queued]>
+[2026-07-11T09:10:08.583+0530] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2026-07-11T09:10:08.587+0530] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): run_logical_etl> on 2026-07-11 03:28:02+00:00
+[2026-07-11T09:10:08.591+0530] {standard_task_runner.py:72} INFO - Started process 3881 to run task
+[2026-07-11T09:10:08.595+0530] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'logical_transform_etl', 'run_logical_etl', 'manual__4df858c4296e4a219a8d79887be0faf4', '--job-id', '3', '--raw', '--subdir', 'DAGS_FOLDER/logical_transform_etl_dag.py', '--cfg-path', '/var/folders/ms/szcbv48978zc0qrst4r9jhsh0000gp/T/tmpsr0oe1av']
+[2026-07-11T09:10:08.597+0530] {standard_task_runner.py:105} INFO - Job 3: Subtask run_logical_etl
+[2026-07-11T09:12:19.778+0530] {local_task_job_runner.py:127} ERROR - Received SIGTERM. Terminating subprocesses
+[2026-07-11T09:12:19.780+0530] {local_task_job_runner.py:266} INFO - Task exited with return code 143
+[2026-07-11T09:12:19.784+0530] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-07-11T09:12:23.698+0530] {standard_task_runner.py:217} INFO - Process not found (most likely exited), stop collecting metrics
+[2026-07-11T09:12:23.718+0530] {local_task_job_runner.py:245} INFO - ::endgroup::

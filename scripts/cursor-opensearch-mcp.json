@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "agentic-opensearch": {
+      "command": "/Users/sathya/Projects/Agentic-auto-ml/.venv/bin/python",
+      "args": ["-m", "app.mcp.server"],
+      "cwd": "/Users/sathya/Projects/Agentic-auto-ml/backend",
+      "env": {
+        "PYTHONPATH": "/Users/sathya/Projects/Agentic-auto-ml/backend",
+        "OPENSEARCH_URL": "http://127.0.0.1:9200",
+        "WEB_SEARCH_PROVIDER": "tavily",
+        "TAVILY_API_KEY": ""
+      }
+    }
+  }
+}

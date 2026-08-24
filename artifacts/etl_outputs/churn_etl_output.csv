@@ -1,0 +1,2226 @@
+customer_id,tenure_months,monthly_charges,num_support_tickets,late_payments_last_6m,contract_type,internet_type,payment_method,region,auto_pay,streaming_tv,online_security,partner,dependents,churn
+CUST-100000,61,116.87,2,1,One year,Fiber,Electronic check,North,0,1,0,1,0,0
+CUST-100001,16,57.61,1,2,Month-to-month,DSL,Bank transfer,East,1,0,0,0,0,0
+CUST-100003,28,89.54,4,1,One year,DSL,Electronic check,West,0,0,1,1,0,0
+CUST-100004,19,20.72,2,3,Month-to-month,Fiber,Electronic check,East,0,1,1,1,0,0
+CUST-100005,57,62.31,0,0,Two year,Fiber,Mailed check,North,1,0,0,0,0,0
+CUST-100008,46,76.88,2,3,Month-to-month,DSL,Bank transfer,Central,1,1,1,0,0,0
+CUST-100009,17,66.15,4,1,Month-to-month,DSL,Mailed check,East,1,0,0,0,0,0
+CUST-100010,8,65.03,3,1,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-100011,26,93.56,1,1,Two year,Fiber,Mailed check,West,1,1,0,0,0,1
+CUST-100012,10,75.24,5,2,One year,Fiber,Electronic check,South,0,1,1,1,0,0
+CUST-100013,9,68.99,1,0,Two year,Fiber,Bank transfer,Central,1,1,0,0,0,0
+CUST-100014,3,71.55,2,1,Month-to-month,Fiber,Electronic check,West,0,1,0,0,0,1
+CUST-100015,3,112.06,1,0,Month-to-month,DSL,Electronic check,Central,0,1,1,0,1,1
+CUST-100016,4,72.14,2,0,Month-to-month,Fiber,Mailed check,West,1,1,1,0,0,0
+CUST-100017,66,55.65,1,3,Month-to-month,Fiber,Mailed check,West,1,0,0,1,0,1
+CUST-100018,4,22.18,0,0,Two year,DSL,Bank transfer,North,1,0,1,0,1,0
+CUST-100019,10,33.59,3,0,One year,Fiber,Mailed check,East,1,0,0,1,1,0
+CUST-100020,22,56.79,1,3,One year,Fiber,Credit card,North,1,0,0,0,0,1
+CUST-100021,36,65.4,0,0,Month-to-month,DSL,Credit card,West,1,0,0,0,0,0
+CUST-100022,39,54.67,1,1,Two year,Fiber,Credit card,West,1,1,0,1,0,0
+CUST-100023,13,76.43,2,0,Two year,DSL,Bank transfer,East,1,1,1,1,0,0
+CUST-100025,21,46.05,3,0,Month-to-month,Fiber,Bank transfer,North,1,1,0,0,0,0
+CUST-100028,32,41.43,0,1,Month-to-month,DSL,Bank transfer,East,1,0,0,1,1,1
+CUST-100029,15,73.85,0,0,One year,DSL,Electronic check,West,0,0,0,0,0,0
+CUST-100030,51,22.28,0,0,One year,DSL,Electronic check,West,0,0,1,1,1,0
+CUST-100031,18,32.61,1,0,Two year,DSL,Credit card,East,1,1,0,0,0,0
+CUST-100032,72,53.87,3,2,Month-to-month,DSL,Electronic check,North,0,1,1,1,1,1
+CUST-100033,16,95.24,2,1,Month-to-month,Fiber,Mailed check,Central,1,0,1,0,1,0
+CUST-100035,21,48.41,2,2,Month-to-month,DSL,Electronic check,West,0,1,1,0,0,1
+CUST-100036,25,68.87,3,0,Month-to-month,DSL,Credit card,Central,1,1,1,1,0,0
+CUST-100037,47,68.89,1,1,Month-to-month,Fiber,Electronic check,South,0,0,1,1,1,1
+CUST-100038,21,49.16,1,0,Month-to-month,Fiber,Credit card,West,1,0,1,1,0,0
+CUST-100039,9,115.67,4,0,One year,Fiber,Credit card,North,1,0,0,1,1,1
+CUST-100040,15,61.63,1,0,Month-to-month,Fiber,Electronic check,Central,0,0,0,0,1,1
+CUST-100041,21,70.73,1,0,Two year,Fiber,Electronic check,North,0,1,1,0,0,0
+CUST-100042,27,58.36,2,0,One year,Fiber,Electronic check,East,0,0,0,1,0,0
+CUST-100043,13,78.56,3,1,Month-to-month,Fiber,Mailed check,South,1,0,1,0,1,1
+CUST-100044,14,97.64,2,0,Two year,DSL,Electronic check,North,0,0,1,0,1,0
+CUST-100045,28,107.93,3,2,One year,Fiber,Credit card,East,1,0,0,0,0,1
+CUST-100047,43,94.42,0,0,Month-to-month,Fiber,Credit card,North,1,1,0,0,0,1
+CUST-100048,15,81.19,1,1,One year,Fiber,Electronic check,South,0,0,0,1,0,0
+CUST-100049,34,91.39,2,0,Month-to-month,Fiber,Credit card,North,1,1,1,1,0,0
+CUST-100050,22,65.79,2,2,Month-to-month,DSL,Electronic check,North,0,1,0,0,1,0
+CUST-100051,17,63.51,5,0,Month-to-month,Fiber,Mailed check,South,1,0,0,0,0,0
+CUST-100052,22,90.46,1,1,One year,DSL,Bank transfer,East,1,1,0,1,0,1
+CUST-100054,8,105.58,1,3,One year,Fiber,Credit card,West,1,1,0,1,1,0
+CUST-100055,9,72.77,2,1,One year,DSL,Electronic check,West,0,1,0,0,0,0
+CUST-100056,37,65.43,1,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,1,0,0
+CUST-100057,18,18.0,0,0,Month-to-month,Fiber,Bank transfer,South,1,0,0,1,0,0
+CUST-100058,27,29.33,1,0,Month-to-month,Fiber,Bank transfer,Central,1,1,0,0,0,1
+CUST-100059,36,58.54,2,2,Month-to-month,Fiber,Electronic check,North,0,0,0,1,0,0
+CUST-100060,22,41.57,2,1,One year,DSL,Electronic check,West,0,0,1,0,0,0
+CUST-100061,34,87.54,0,0,Month-to-month,DSL,Electronic check,North,0,1,1,1,0,1
+CUST-100062,24,36.56,2,0,Month-to-month,DSL,Electronic check,West,0,1,0,1,0,0
+CUST-100063,25,55.97,4,2,One year,Fiber,Electronic check,North,0,1,1,0,0,0
+CUST-100064,50,56.91,3,0,One year,DSL,Credit card,South,1,0,1,0,1,0
+CUST-100065,20,96.91,1,1,Month-to-month,Fiber,Mailed check,South,1,0,1,0,0,0
+CUST-100066,37,53.4,1,3,Month-to-month,Fiber,Bank transfer,West,1,1,1,1,1,0
+CUST-100067,7,78.86,0,1,Month-to-month,Fiber,Electronic check,North,0,1,1,1,0,0
+CUST-100068,27,72.7,0,0,Month-to-month,DSL,Electronic check,South,0,0,0,0,0,1
+CUST-100070,72,88.41,0,0,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-100071,7,67.2,0,1,Month-to-month,DSL,Electronic check,Central,0,1,0,0,0,0
+CUST-100072,18,27.29,3,0,Two year,DSL,Mailed check,West,1,0,0,0,0,0
+CUST-100073,11,62.44,0,0,Month-to-month,DSL,Mailed check,East,1,1,1,1,1,0
+CUST-100074,21,67.52,1,0,Month-to-month,DSL,Credit card,South,1,0,1,1,0,0
+CUST-100075,41,74.86,1,1,Month-to-month,DSL,Electronic check,Central,0,1,0,1,0,1
+CUST-100076,51,50.3,2,1,Month-to-month,DSL,Mailed check,North,1,1,1,1,0,0
+CUST-100077,52,95.38,2,2,One year,DSL,Electronic check,North,0,0,0,0,0,0
+CUST-100078,7,68.33,3,2,Month-to-month,Fiber,Electronic check,South,0,1,1,0,0,1
+CUST-100080,15,57.0,2,3,One year,Fiber,Electronic check,East,0,1,1,0,1,0
+CUST-100081,20,114.29,2,0,Month-to-month,DSL,Bank transfer,Central,1,0,1,1,1,0
+CUST-100082,16,83.95,2,2,One year,Fiber,Mailed check,West,1,0,1,0,0,0
+CUST-100083,7,93.16,1,0,Month-to-month,Fiber,Electronic check,South,0,1,1,0,0,1
+CUST-100084,51,43.0,3,3,Month-to-month,Fiber,Credit card,South,1,1,0,0,0,0
+CUST-100085,13,51.47,2,0,Month-to-month,Fiber,Mailed check,West,1,1,0,0,0,1
+CUST-100086,15,51.65,1,0,One year,Fiber,Credit card,South,1,1,0,1,0,0
+CUST-100087,58,72.43,4,1,Month-to-month,Fiber,Mailed check,Central,1,1,0,0,0,0
+CUST-100088,6,63.82,1,0,Month-to-month,Fiber,Credit card,East,1,1,1,1,0,0
+CUST-100089,31,56.25,2,0,Month-to-month,Fiber,Electronic check,East,0,1,0,0,1,0
+CUST-100090,45,59.26,3,0,Month-to-month,DSL,Mailed check,Central,1,0,1,1,1,0
+CUST-100091,55,48.94,1,1,One year,DSL,Bank transfer,South,1,0,0,1,1,0
+CUST-100092,30,63.68,2,1,Month-to-month,DSL,Electronic check,East,0,0,0,0,0,0
+CUST-100093,38,94.72,2,0,Month-to-month,Fiber,Mailed check,East,1,0,0,0,1,1
+CUST-100094,45,31.68,0,2,Month-to-month,Fiber,Credit card,South,1,1,0,0,0,0
+CUST-100096,11,101.12,0,2,Month-to-month,Fiber,Bank transfer,South,1,1,1,0,0,0
+CUST-100097,61,63.6,2,1,Month-to-month,Fiber,Bank transfer,North,1,0,0,0,0,0
+CUST-100100,7,44.38,2,0,Two year,Fiber,Bank transfer,South,1,0,1,0,0,0
+CUST-100102,31,43.04,0,0,Month-to-month,Fiber,Electronic check,East,0,1,0,1,0,0
+CUST-100104,24,64.35,2,1,One year,Fiber,Credit card,West,1,1,1,1,1,0
+CUST-100105,13,37.68,2,0,One year,Fiber,Mailed check,South,1,1,1,0,0,0
+CUST-100106,16,67.72,3,0,Month-to-month,DSL,Electronic check,West,0,1,0,1,1,0
+CUST-100107,52,94.76,2,0,Month-to-month,Fiber,Electronic check,South,0,1,1,1,1,1
+CUST-100108,13,112.5,2,1,Month-to-month,DSL,Mailed check,West,1,1,0,1,0,1
+CUST-100109,25,70.24,5,0,Two year,Fiber,Credit card,West,1,0,0,1,0,0
+CUST-100110,14,92.46,4,2,Month-to-month,DSL,Electronic check,Central,0,0,0,1,0,0
+CUST-100111,29,77.58,1,1,Month-to-month,DSL,Bank transfer,Central,1,1,1,1,0,0
+CUST-100112,26,58.81,3,3,Month-to-month,Fiber,Bank transfer,North,1,0,0,1,0,1
+CUST-100113,24,21.81,1,1,Month-to-month,DSL,Credit card,South,1,0,1,1,0,1
+CUST-100114,45,107.04,3,2,Month-to-month,Fiber,Electronic check,East,0,1,0,0,0,1
+CUST-100115,6,42.82,3,3,Two year,Fiber,Credit card,South,1,0,0,1,1,1
+CUST-100116,4,101.19,2,1,One year,Fiber,Bank transfer,West,1,1,0,1,1,0
+CUST-100117,9,80.88,2,1,One year,DSL,Credit card,Central,1,1,0,1,0,0
+CUST-100118,26,44.58,2,1,Month-to-month,DSL,Electronic check,South,0,0,1,1,0,0
+CUST-100122,18,55.69,2,0,Month-to-month,Fiber,Mailed check,North,1,1,0,1,1,0
+CUST-100124,31,70.4,2,0,Month-to-month,DSL,Bank transfer,North,1,1,0,0,0,0
+CUST-100125,57,64.03,0,1,Month-to-month,Fiber,Electronic check,North,0,1,1,0,0,0
+CUST-100126,51,96.79,1,2,Month-to-month,DSL,Mailed check,North,1,1,0,0,1,1
+CUST-100127,18,85.75,2,3,Month-to-month,Fiber,Electronic check,East,0,0,1,1,0,0
+CUST-100128,41,27.39,3,0,Month-to-month,Fiber,Credit card,North,1,1,1,1,0,1
+CUST-100129,18,79.01,1,3,One year,Fiber,Credit card,South,1,1,1,0,0,0
+CUST-100130,67,63.7,2,1,Month-to-month,Fiber,Electronic check,Central,0,1,0,1,0,0
+CUST-100131,19,68.89,1,2,Two year,Fiber,Electronic check,Central,0,0,0,1,0,0
+CUST-100132,33,73.97,0,0,One year,DSL,Electronic check,Central,0,1,0,1,0,1
+CUST-100133,72,96.77,2,0,Month-to-month,DSL,Mailed check,North,1,1,1,0,0,0
+CUST-100134,34,91.47,4,0,One year,DSL,Credit card,West,1,1,0,0,0,0
+CUST-100135,17,50.01,4,0,Month-to-month,Fiber,Mailed check,West,1,1,1,1,1,1
+CUST-100136,8,66.59,2,0,Two year,Fiber,Electronic check,North,0,1,1,1,1,0
+CUST-100137,6,57.24,3,0,Month-to-month,Fiber,Electronic check,Central,0,0,1,1,1,0
+CUST-100138,32,27.64,2,2,One year,DSL,Electronic check,East,0,1,0,1,0,0
+CUST-100139,22,65.38,2,0,Month-to-month,Fiber,Credit card,Central,1,1,0,0,1,0
+CUST-100140,9,112.27,1,1,Month-to-month,DSL,Bank transfer,North,1,1,1,0,1,0
+CUST-100141,38,26.91,3,0,Month-to-month,DSL,Bank transfer,West,1,1,1,1,0,1
+CUST-100142,38,67.42,1,2,Two year,DSL,Electronic check,North,0,0,1,0,0,0
+CUST-100143,22,66.65,2,1,Month-to-month,DSL,Credit card,Central,1,0,0,1,0,0
+CUST-100144,59,74.91,1,0,Month-to-month,Fiber,Electronic check,West,0,1,1,1,1,0
+CUST-100145,5,44.89,1,0,Month-to-month,DSL,Credit card,North,1,0,0,1,0,0
+CUST-100146,17,33.8,1,2,Month-to-month,DSL,Credit card,South,1,1,1,1,0,1
+CUST-100147,34,34.91,0,2,Month-to-month,DSL,Mailed check,South,1,1,0,0,1,0
+CUST-100148,10,99.94,2,1,Month-to-month,DSL,Credit card,North,1,1,0,0,1,1
+CUST-100149,41,44.42,0,2,Month-to-month,DSL,Electronic check,North,0,0,1,1,0,1
+CUST-100152,60,50.38,0,0,Month-to-month,DSL,Mailed check,East,1,0,0,0,1,0
+CUST-100153,33,76.22,3,1,Month-to-month,DSL,Electronic check,Central,0,1,1,1,0,1
+CUST-100154,16,93.53,0,0,Month-to-month,Fiber,Electronic check,West,0,1,0,0,0,0
+CUST-100156,45,36.04,1,0,Month-to-month,Fiber,Electronic check,West,0,1,0,1,1,0
+CUST-100157,8,50.88,3,1,One year,DSL,Bank transfer,North,1,1,1,0,0,0
+CUST-100158,33,75.26,2,0,One year,Fiber,Mailed check,Central,1,0,1,0,0,0
+CUST-100159,9,114.3,1,1,One year,Fiber,Electronic check,South,0,1,0,0,0,1
+CUST-100160,23,49.72,1,2,Month-to-month,DSL,Credit card,North,1,1,0,1,0,0
+CUST-100161,43,56.15,1,0,Two year,Fiber,Credit card,South,1,1,0,0,0,0
+CUST-100162,16,78.07,1,0,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,1
+CUST-100163,60,82.87,1,1,Month-to-month,Fiber,Mailed check,Central,1,1,1,0,1,1
+CUST-100164,35,84.33,2,3,Month-to-month,Fiber,Bank transfer,East,1,1,1,1,0,0
+CUST-100165,10,47.69,1,2,Month-to-month,DSL,Bank transfer,North,1,1,0,0,0,0
+CUST-100166,7,55.23,1,1,Two year,DSL,Mailed check,Central,1,1,0,1,0,0
+CUST-100167,12,73.17,1,1,One year,Fiber,Bank transfer,West,1,1,0,1,0,1
+CUST-100168,23,98.3,5,0,Month-to-month,DSL,Electronic check,East,0,0,1,1,0,0
+CUST-100169,64,62.28,0,1,Two year,Fiber,Electronic check,East,0,0,1,0,0,0
+CUST-100170,72,67.46,2,0,Month-to-month,DSL,Bank transfer,Central,1,1,0,0,0,0
+CUST-100171,15,43.38,0,0,Month-to-month,Fiber,Bank transfer,South,1,0,1,0,0,0
+CUST-100172,15,112.72,2,1,Month-to-month,Fiber,Credit card,North,1,0,1,0,0,0
+CUST-100173,39,71.7,2,1,Two year,Fiber,Electronic check,North,0,0,0,1,0,0
+CUST-100174,39,93.87,3,1,Month-to-month,DSL,Electronic check,West,0,0,0,0,0,1
+CUST-100175,54,68.72,1,0,Month-to-month,Fiber,Electronic check,Central,0,1,1,0,0,0
+CUST-100176,55,70.05,0,6,Month-to-month,Fiber,Electronic check,West,0,0,1,0,0,1
+CUST-100177,11,31.99,0,1,Two year,DSL,Electronic check,West,0,1,0,0,1,0
+CUST-100178,5,18.0,0,0,Two year,DSL,Mailed check,South,1,1,0,0,1,0
+CUST-100179,35,98.05,6,1,One year,Fiber,Mailed check,East,1,0,0,0,0,1
+CUST-100180,27,69.87,0,1,Two year,DSL,Bank transfer,North,1,0,1,1,0,0
+CUST-100181,3,72.95,0,2,Two year,DSL,Mailed check,South,1,1,0,0,0,0
+CUST-100182,5,38.02,1,0,Month-to-month,Fiber,Electronic check,West,0,0,0,0,0,0
+CUST-100183,34,46.33,1,2,Month-to-month,DSL,Bank transfer,Central,1,0,0,1,0,0
+CUST-100184,21,93.5,3,0,One year,Fiber,Electronic check,Central,0,0,1,1,1,0
+CUST-100185,35,109.76,1,0,One year,DSL,Credit card,Central,1,0,0,1,0,0
+CUST-100186,9,53.09,2,1,Month-to-month,Fiber,Electronic check,North,0,0,0,0,0,0
+CUST-100187,36,84.12,5,1,Month-to-month,DSL,Mailed check,Central,1,1,0,0,0,1
+CUST-100188,30,72.56,0,1,One year,Fiber,Credit card,South,1,0,1,0,0,0
+CUST-100189,38,65.11,5,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,1,0,1
+CUST-100191,13,57.12,2,0,Month-to-month,Fiber,Bank transfer,Central,1,0,0,0,0,1
+CUST-100192,6,97.78,2,1,Month-to-month,DSL,Electronic check,West,0,0,0,0,0,1
+CUST-100194,48,67.59,1,0,Month-to-month,DSL,Credit card,East,1,1,1,0,1,0
+CUST-100195,57,100.93,4,0,Month-to-month,Fiber,Credit card,West,1,1,1,0,0,1
+CUST-100196,8,74.96,1,1,One year,DSL,Mailed check,East,1,1,0,1,0,1
+CUST-100197,23,65.69,0,1,Two year,Fiber,Electronic check,East,0,0,0,0,1,0
+CUST-100198,64,101.11,4,0,Month-to-month,Fiber,Bank transfer,East,1,0,0,0,1,1
+CUST-100199,70,97.98,0,1,Month-to-month,DSL,Bank transfer,East,1,0,1,1,0,0
+CUST-100200,18,96.85,0,3,One year,DSL,Electronic check,North,0,1,0,0,1,1
+CUST-100201,51,18.0,2,1,Two year,DSL,Electronic check,Central,0,0,0,1,0,0
+CUST-100202,45,78.56,2,1,Month-to-month,Fiber,Electronic check,North,0,0,0,0,0,0
+CUST-100203,43,73.09,1,0,Month-to-month,DSL,Mailed check,Central,1,0,0,1,0,0
+CUST-100204,5,67.16,2,1,Month-to-month,DSL,Electronic check,North,0,1,0,0,0,0
+CUST-100205,15,82.63,0,1,Month-to-month,Fiber,Electronic check,East,0,0,1,0,1,1
+CUST-100206,21,74.25,2,0,Month-to-month,DSL,Electronic check,East,0,1,1,1,0,0
+CUST-100207,20,84.27,2,1,One year,Fiber,Credit card,East,1,1,0,1,0,1
+CUST-100208,22,61.57,0,1,Month-to-month,Fiber,Electronic check,East,0,0,0,0,0,1
+CUST-100209,72,103.96,2,0,Month-to-month,DSL,Electronic check,Central,0,0,1,0,0,0
+CUST-100211,31,81.02,0,1,One year,Fiber,Electronic check,Central,0,0,1,0,1,1
+CUST-100212,30,79.85,0,1,Month-to-month,Fiber,Credit card,West,1,0,1,1,0,1
+CUST-100213,23,95.77,3,2,One year,Fiber,Credit card,West,1,0,1,1,0,0
+CUST-100214,9,92.52,3,0,One year,DSL,Mailed check,North,1,1,1,1,0,0
+CUST-100215,25,65.29,1,0,One year,Fiber,Mailed check,North,1,1,0,0,1,0
+CUST-100216,3,91.77,0,0,Month-to-month,Fiber,Mailed check,South,1,0,0,1,0,1
+CUST-100219,31,94.35,2,0,Month-to-month,DSL,Electronic check,Central,0,1,1,0,1,0
+CUST-100220,14,52.99,2,1,Month-to-month,Fiber,Electronic check,East,0,1,1,1,0,0
+CUST-100221,10,123.94,2,0,Month-to-month,DSL,Bank transfer,West,1,1,0,1,1,1
+CUST-100222,39,18.0,2,0,One year,Fiber,Electronic check,North,0,0,0,0,0,0
+CUST-100223,17,83.3,0,0,Two year,Fiber,Electronic check,West,0,1,1,1,0,1
+CUST-100224,24,51.29,3,1,Month-to-month,Fiber,Mailed check,North,1,1,1,1,0,1
+CUST-100225,5,113.17,0,2,Two year,DSL,Mailed check,West,1,1,1,1,1,1
+CUST-100226,59,74.07,2,0,Month-to-month,DSL,Electronic check,South,0,0,0,1,1,1
+CUST-100227,26,48.95,2,1,Month-to-month,Fiber,Electronic check,East,0,1,1,0,1,1
+CUST-100228,26,61.6,1,0,One year,Fiber,Electronic check,South,0,1,1,0,0,1
+CUST-100229,33,50.87,1,1,Month-to-month,DSL,Electronic check,East,0,0,1,1,1,0
+CUST-100231,63,60.11,3,1,Month-to-month,Fiber,Credit card,Central,1,1,1,0,0,0
+CUST-100232,18,49.97,1,1,Two year,DSL,Mailed check,South,1,1,0,1,0,0
+CUST-100233,61,74.48,3,1,One year,Fiber,Mailed check,South,1,0,0,1,1,0
+CUST-100234,17,77.39,1,1,Two year,Fiber,Bank transfer,East,1,1,0,0,0,0
+CUST-100235,14,44.09,0,2,One year,Fiber,Bank transfer,West,1,0,0,0,0,0
+CUST-100236,32,28.2,0,0,Month-to-month,Fiber,Electronic check,North,0,0,1,0,0,1
+CUST-100237,72,75.46,2,0,One year,DSL,Electronic check,West,0,1,1,0,1,0
+CUST-100238,50,80.77,1,2,Month-to-month,DSL,Mailed check,Central,1,0,0,1,0,0
+CUST-100239,34,85.53,1,0,Month-to-month,DSL,Bank transfer,Central,1,0,1,0,0,0
+CUST-100240,31,81.23,2,0,Two year,Fiber,Electronic check,East,0,1,1,1,0,1
+CUST-100241,25,105.75,2,0,One year,DSL,Electronic check,South,0,1,0,0,0,0
+CUST-100242,59,91.93,3,0,Month-to-month,Fiber,Electronic check,South,0,0,1,1,0,1
+CUST-100243,40,132.32,1,1,Month-to-month,DSL,Electronic check,West,0,0,0,0,1,1
+CUST-100244,6,140.0,1,2,One year,Fiber,Mailed check,East,1,1,1,1,1,0
+CUST-100245,10,25.81,2,1,Two year,DSL,Bank transfer,North,1,1,1,0,0,0
+CUST-100246,35,18.0,3,0,One year,Fiber,Mailed check,West,1,0,0,1,0,0
+CUST-100247,9,67.82,3,2,Month-to-month,Fiber,Electronic check,North,0,1,0,0,0,1
+CUST-100248,26,80.1,2,1,Month-to-month,Fiber,Electronic check,Central,0,1,1,1,1,1
+CUST-100249,42,66.18,2,0,Month-to-month,Fiber,Credit card,East,1,1,1,0,1,1
+CUST-100250,32,84.89,2,1,One year,Fiber,Mailed check,South,1,0,0,0,0,1
+CUST-100251,7,61.51,1,0,Two year,DSL,Electronic check,North,0,0,1,1,1,0
+CUST-100252,11,51.35,2,0,Month-to-month,DSL,Electronic check,North,0,1,1,0,0,0
+CUST-100253,33,54.97,1,0,Month-to-month,Fiber,Credit card,Central,1,1,0,1,1,0
+CUST-100254,72,63.2,3,1,Month-to-month,DSL,Bank transfer,East,1,0,0,1,1,0
+CUST-100255,22,88.24,2,0,One year,DSL,Credit card,Central,1,0,0,0,0,0
+CUST-100256,43,56.32,3,1,One year,DSL,Bank transfer,Central,1,1,0,1,1,0
+CUST-100257,32,61.06,0,0,Month-to-month,DSL,Mailed check,North,1,1,0,0,0,1
+CUST-100258,14,81.69,1,3,Month-to-month,DSL,Mailed check,South,1,0,1,1,0,0
+CUST-100259,44,63.23,1,2,One year,DSL,Electronic check,Central,0,1,1,0,1,0
+CUST-100260,5,94.8,2,1,Month-to-month,DSL,Bank transfer,East,1,1,0,1,0,0
+CUST-100262,34,40.73,1,0,Month-to-month,Fiber,Electronic check,East,0,0,0,0,0,1
+CUST-100263,15,75.31,1,0,Month-to-month,Fiber,Credit card,West,1,1,1,1,0,0
+CUST-100264,9,77.7,1,0,Two year,Fiber,Mailed check,Central,1,0,1,0,1,0
+CUST-100266,13,100.25,1,1,Month-to-month,Fiber,Electronic check,West,0,0,0,0,1,0
+CUST-100267,19,114.2,1,1,Month-to-month,DSL,Credit card,East,1,0,1,0,1,0
+CUST-100268,17,52.93,3,0,Month-to-month,DSL,Credit card,South,1,0,1,0,0,0
+CUST-100270,4,18.0,1,1,Month-to-month,Fiber,Credit card,West,1,1,0,1,0,1
+CUST-100271,8,93.83,2,1,Month-to-month,DSL,Credit card,North,1,1,0,1,1,1
+CUST-100272,48,47.41,1,2,Month-to-month,DSL,Credit card,West,1,1,1,1,0,1
+CUST-100273,15,91.43,0,3,One year,Fiber,Credit card,East,1,0,0,1,0,0
+CUST-100274,19,44.93,2,0,One year,DSL,Mailed check,West,1,1,0,1,0,0
+CUST-100275,17,66.36,1,3,Month-to-month,Fiber,Bank transfer,Central,1,0,0,1,0,1
+CUST-100276,60,48.56,2,3,Month-to-month,DSL,Bank transfer,East,1,0,0,0,1,0
+CUST-100277,13,62.87,1,0,Month-to-month,Fiber,Bank transfer,East,1,1,1,1,0,0
+CUST-100278,12,111.92,2,2,Two year,Fiber,Electronic check,East,0,0,0,0,1,0
+CUST-100279,34,65.41,0,0,Two year,Fiber,Bank transfer,South,1,0,0,1,0,0
+CUST-100280,27,118.65,2,1,Month-to-month,Fiber,Credit card,North,1,0,1,0,1,1
+CUST-100281,35,58.74,1,1,Month-to-month,Fiber,Electronic check,North,0,0,1,0,0,0
+CUST-100282,33,103.8,0,2,Month-to-month,DSL,Credit card,West,1,1,0,1,1,1
+CUST-100283,44,28.98,2,0,Month-to-month,Fiber,Mailed check,Central,1,1,0,0,0,0
+CUST-100284,7,61.12,1,0,Month-to-month,Fiber,Electronic check,North,0,1,0,1,1,1
+CUST-100285,32,55.13,2,0,Month-to-month,DSL,Electronic check,South,0,1,0,1,1,1
+CUST-100286,12,104.9,3,1,Month-to-month,DSL,Credit card,West,1,1,1,1,1,1
+CUST-100287,3,72.45,1,0,Month-to-month,DSL,Bank transfer,West,1,0,1,1,1,0
+CUST-100289,32,36.56,1,0,Month-to-month,Fiber,Bank transfer,West,1,1,0,0,0,0
+CUST-100290,23,43.7,4,1,Two year,DSL,Electronic check,North,0,1,0,1,0,0
+CUST-100291,45,90.42,1,0,Month-to-month,Fiber,Mailed check,South,1,1,1,0,0,1
+CUST-100292,12,87.32,1,4,Two year,DSL,Credit card,East,1,1,0,0,0,0
+CUST-100294,21,54.84,2,0,Two year,DSL,Credit card,South,1,1,0,1,1,0
+CUST-100295,22,85.19,1,0,Two year,DSL,Bank transfer,South,1,0,1,1,1,0
+CUST-100296,3,40.89,2,1,Two year,DSL,Credit card,Central,1,0,1,0,1,1
+CUST-100297,45,78.98,3,0,One year,Fiber,Electronic check,South,0,1,0,0,0,0
+CUST-100298,31,76.94,4,0,One year,DSL,Electronic check,Central,0,0,1,1,0,0
+CUST-100299,36,61.41,2,1,One year,DSL,Electronic check,West,0,0,1,0,1,0
+CUST-100301,28,70.45,1,1,Month-to-month,Fiber,Bank transfer,Central,1,1,1,0,0,1
+CUST-100302,21,79.94,0,0,Month-to-month,Fiber,Bank transfer,Central,1,1,1,1,1,1
+CUST-100303,32,35.98,2,2,Month-to-month,DSL,Electronic check,South,0,1,0,0,0,0
+CUST-100304,28,82.75,0,2,Two year,Fiber,Electronic check,East,0,1,1,0,0,0
+CUST-100305,67,92.64,0,1,Month-to-month,Fiber,Bank transfer,East,1,0,0,1,0,0
+CUST-100306,54,75.7,2,1,Month-to-month,Fiber,Credit card,Central,1,1,0,0,1,0
+CUST-100307,19,82.43,2,2,One year,DSL,Electronic check,North,0,1,0,1,0,0
+CUST-100308,33,65.36,2,0,Month-to-month,Fiber,Electronic check,East,0,1,1,1,0,0
+CUST-100309,18,89.39,1,1,Month-to-month,Fiber,Electronic check,South,0,1,1,1,0,1
+CUST-100310,44,69.57,2,1,Month-to-month,Fiber,Mailed check,South,1,1,0,0,1,1
+CUST-100311,21,40.45,0,3,Month-to-month,DSL,Electronic check,West,0,1,0,0,1,1
+CUST-100312,16,87.69,3,4,Month-to-month,DSL,Electronic check,South,0,1,0,1,0,1
+CUST-100313,28,28.78,2,2,Month-to-month,Fiber,Bank transfer,West,1,1,1,0,1,1
+CUST-100314,52,74.79,0,0,Month-to-month,Fiber,Electronic check,Central,0,0,0,1,0,1
+CUST-100315,46,58.78,2,0,Month-to-month,DSL,Mailed check,West,1,1,1,0,0,0
+CUST-100316,17,57.24,0,0,Month-to-month,Fiber,Electronic check,North,0,0,0,1,0,1
+CUST-100317,64,72.13,3,1,One year,DSL,Credit card,North,1,0,0,0,0,0
+CUST-100318,11,50.98,0,1,Month-to-month,Fiber,Mailed check,East,1,1,0,0,1,0
+CUST-100320,43,69.36,2,0,Two year,Fiber,Electronic check,West,0,0,0,0,1,0
+CUST-100321,3,53.18,1,0,Month-to-month,DSL,Bank transfer,East,1,1,1,0,0,0
+CUST-100322,24,100.12,2,1,Month-to-month,Fiber,Credit card,North,1,0,1,0,1,1
+CUST-100325,9,102.0,2,1,One year,DSL,Electronic check,West,0,1,0,0,1,0
+CUST-100326,10,101.6,1,2,One year,Fiber,Bank transfer,West,1,0,1,1,1,1
+CUST-100327,72,81.91,1,0,Month-to-month,Fiber,Credit card,Central,1,0,1,0,1,1
+CUST-100328,19,60.74,3,2,One year,DSL,Mailed check,East,1,1,1,1,1,0
+CUST-100329,50,33.69,4,1,Month-to-month,DSL,Electronic check,North,0,0,1,0,0,0
+CUST-100330,17,72.96,0,0,One year,Fiber,Credit card,West,1,1,0,1,1,1
+CUST-100331,14,94.27,0,1,Month-to-month,Fiber,Bank transfer,East,1,0,0,1,1,0
+CUST-100332,52,76.5,4,0,One year,Fiber,Electronic check,West,0,0,0,0,1,0
+CUST-100333,72,18.0,2,0,Two year,DSL,Electronic check,West,0,1,0,0,0,0
+CUST-100334,55,88.88,2,2,Month-to-month,DSL,Electronic check,East,0,1,0,0,0,1
+CUST-100335,16,90.36,1,1,One year,DSL,Credit card,South,1,1,0,1,0,0
+CUST-100336,23,60.77,2,1,Month-to-month,DSL,Bank transfer,East,1,0,1,0,0,0
+CUST-100337,11,91.72,0,1,One year,Fiber,Bank transfer,West,1,1,1,1,1,1
+CUST-100338,12,83.07,1,3,Month-to-month,Fiber,Credit card,West,1,1,0,1,1,0
+CUST-100339,12,51.55,1,0,Two year,Fiber,Electronic check,East,0,0,1,0,1,0
+CUST-100340,17,98.51,0,1,Month-to-month,DSL,Electronic check,East,0,1,1,1,0,1
+CUST-100341,26,37.58,4,2,Two year,Fiber,Electronic check,Central,0,1,0,1,0,0
+CUST-100342,24,66.63,2,0,One year,Fiber,Credit card,South,1,0,1,0,0,0
+CUST-100343,39,64.23,1,0,One year,Fiber,Bank transfer,North,1,1,1,0,0,0
+CUST-100344,27,48.19,1,2,One year,Fiber,Electronic check,West,0,0,1,0,0,1
+CUST-100345,36,75.29,1,2,One year,DSL,Electronic check,Central,0,1,1,0,1,0
+CUST-100346,40,99.45,0,0,Two year,Fiber,Bank transfer,West,1,1,0,0,1,0
+CUST-100347,16,97.95,1,0,Month-to-month,Fiber,Bank transfer,East,1,0,1,0,1,0
+CUST-100348,21,85.37,1,1,One year,DSL,Bank transfer,South,1,1,1,1,0,0
+CUST-100349,72,27.3,3,1,Month-to-month,Fiber,Electronic check,East,0,0,1,0,0,0
+CUST-100350,15,35.94,3,1,One year,Fiber,Credit card,North,1,1,0,1,0,0
+CUST-100351,38,71.99,1,1,Month-to-month,Fiber,Bank transfer,East,1,1,1,0,0,1
+CUST-100352,8,67.18,1,2,Month-to-month,DSL,Bank transfer,South,1,0,1,0,1,0
+CUST-100353,41,56.05,1,1,Month-to-month,Fiber,Bank transfer,South,1,1,1,0,0,0
+CUST-100354,13,113.73,1,0,Month-to-month,DSL,Credit card,East,1,0,0,0,0,0
+CUST-100356,6,81.02,2,2,One year,DSL,Bank transfer,South,1,1,0,0,0,0
+CUST-100357,23,91.71,5,0,One year,Fiber,Mailed check,Central,1,1,1,1,0,0
+CUST-100358,23,69.32,2,0,Month-to-month,DSL,Mailed check,East,1,1,0,0,1,1
+CUST-100359,20,130.19,0,1,One year,Fiber,Credit card,Central,1,0,1,0,1,0
+CUST-100360,32,45.43,4,0,Two year,Fiber,Bank transfer,South,1,0,1,0,1,0
+CUST-100361,49,53.45,1,1,Month-to-month,DSL,Electronic check,Central,0,0,0,0,0,1
+CUST-100362,10,45.37,0,0,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,1
+CUST-100363,21,105.5,2,3,Month-to-month,Fiber,Credit card,West,1,1,0,0,0,1
+CUST-100364,7,87.25,2,2,One year,Fiber,Credit card,East,1,1,0,1,0,0
+CUST-100365,4,54.94,3,0,Month-to-month,Fiber,Credit card,East,1,1,0,1,0,0
+CUST-100366,27,47.27,1,0,One year,Fiber,Mailed check,East,1,1,1,1,0,0
+CUST-100367,10,101.24,1,1,One year,DSL,Credit card,Central,1,1,1,1,0,0
+CUST-100369,27,101.85,1,1,Two year,Fiber,Electronic check,North,0,0,1,0,0,0
+CUST-100370,5,66.56,1,2,One year,DSL,Electronic check,West,0,1,0,1,0,1
+CUST-100371,31,80.28,1,1,Month-to-month,Fiber,Credit card,Central,1,1,0,0,1,1
+CUST-100372,48,75.21,2,0,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-100373,35,53.02,1,0,Month-to-month,Fiber,Bank transfer,East,1,0,1,1,0,0
+CUST-100374,11,64.54,3,0,Month-to-month,Fiber,Bank transfer,South,1,0,1,1,0,0
+CUST-100375,23,39.58,1,0,Month-to-month,Fiber,Bank transfer,West,1,1,1,0,1,1
+CUST-100376,25,79.86,0,1,Two year,Fiber,Electronic check,West,0,0,0,0,0,0
+CUST-100377,21,86.27,0,0,Month-to-month,Fiber,Bank transfer,South,1,0,0,0,0,0
+CUST-100378,7,91.76,0,2,Month-to-month,DSL,Electronic check,East,0,1,0,0,0,0
+CUST-100379,12,84.0,1,0,One year,Fiber,Credit card,South,1,1,1,0,0,0
+CUST-100380,20,64.92,2,0,Month-to-month,Fiber,Electronic check,North,0,0,1,1,0,0
+CUST-100381,27,105.25,0,2,Two year,Fiber,Bank transfer,North,1,1,0,0,0,0
+CUST-100382,15,89.42,1,0,One year,DSL,Credit card,North,1,1,0,0,0,0
+CUST-100383,3,101.33,1,1,Month-to-month,Fiber,Electronic check,East,0,1,0,0,0,0
+CUST-100384,16,102.83,3,0,Month-to-month,DSL,Electronic check,East,0,1,1,1,0,1
+CUST-100385,67,64.99,1,0,Two year,Fiber,Credit card,East,1,0,0,0,0,0
+CUST-100386,31,77.31,1,0,One year,Fiber,Electronic check,Central,0,0,1,0,1,1
+CUST-100388,12,40.42,1,2,Month-to-month,Fiber,Mailed check,South,1,0,1,0,0,1
+CUST-100389,16,40.95,2,2,Two year,Fiber,Credit card,South,1,0,0,0,0,0
+CUST-100390,3,36.82,2,0,One year,Fiber,Bank transfer,South,1,1,0,0,0,1
+CUST-100392,30,60.0,1,1,One year,DSL,Credit card,South,1,1,0,1,1,0
+CUST-100393,27,33.54,1,0,One year,DSL,Mailed check,South,1,1,1,1,0,0
+CUST-100395,21,65.71,2,0,Month-to-month,Fiber,Mailed check,Central,1,0,0,1,1,1
+CUST-100397,14,116.31,3,0,Month-to-month,Fiber,Electronic check,North,0,1,0,0,0,1
+CUST-100398,32,78.95,1,0,Month-to-month,DSL,Bank transfer,South,1,1,1,0,1,1
+CUST-100399,26,51.28,0,0,Month-to-month,Fiber,Electronic check,East,0,0,0,0,0,0
+CUST-100400,17,83.52,2,0,Month-to-month,Fiber,Bank transfer,Central,1,1,0,1,0,0
+CUST-100402,16,62.24,4,0,One year,Fiber,Mailed check,North,1,1,1,0,0,0
+CUST-100404,14,56.86,1,1,Two year,Fiber,Bank transfer,Central,1,0,1,0,0,0
+CUST-100405,5,63.73,2,0,Two year,DSL,Bank transfer,East,1,0,1,1,0,0
+CUST-100407,54,80.26,1,0,Two year,Fiber,Electronic check,West,0,1,0,0,1,0
+CUST-100409,27,84.18,2,2,Two year,DSL,Credit card,East,1,1,1,1,0,0
+CUST-100410,32,78.18,1,0,One year,DSL,Electronic check,West,0,1,0,0,0,0
+CUST-100411,21,60.65,1,1,One year,Fiber,Credit card,East,1,0,0,0,0,0
+CUST-100412,29,43.1,2,1,Month-to-month,DSL,Electronic check,North,0,1,0,1,0,0
+CUST-100413,35,54.32,1,0,Two year,DSL,Electronic check,North,0,0,1,0,1,0
+CUST-100414,26,51.2,0,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,1,1,0
+CUST-100415,39,18.0,2,1,Month-to-month,Fiber,Mailed check,East,1,1,0,1,0,0
+CUST-100416,13,43.79,2,0,Month-to-month,Fiber,Electronic check,East,0,0,1,1,0,1
+CUST-100417,23,106.45,4,1,One year,DSL,Credit card,South,1,0,0,1,0,1
+CUST-100418,72,76.85,2,1,Month-to-month,Fiber,Electronic check,South,0,1,0,1,0,0
+CUST-100419,45,58.96,0,0,Two year,DSL,Electronic check,West,0,0,0,0,0,0
+CUST-100421,10,21.12,2,1,Month-to-month,Fiber,Mailed check,East,1,1,1,1,0,0
+CUST-100422,23,74.77,3,0,Month-to-month,Fiber,Credit card,South,1,1,0,0,0,0
+CUST-100423,43,98.66,1,1,Month-to-month,DSL,Electronic check,West,0,0,0,1,0,0
+CUST-100424,37,65.09,1,1,One year,Fiber,Credit card,West,1,1,0,1,0,0
+CUST-100425,4,25.47,0,0,One year,DSL,Bank transfer,East,1,1,0,1,1,0
+CUST-100426,5,58.07,2,1,Month-to-month,DSL,Credit card,South,1,1,0,0,1,0
+CUST-100427,5,98.7,1,1,Two year,DSL,Credit card,South,1,1,0,0,0,0
+CUST-100428,32,74.21,1,2,Month-to-month,Fiber,Credit card,South,1,0,0,1,1,0
+CUST-100429,6,33.96,0,1,One year,DSL,Bank transfer,South,1,1,0,1,0,0
+CUST-100430,10,124.82,0,0,Two year,DSL,Electronic check,West,0,0,0,0,0,1
+CUST-100431,20,37.91,2,2,One year,Fiber,Mailed check,North,1,0,0,0,1,0
+CUST-100432,48,62.17,1,1,One year,DSL,Bank transfer,North,1,1,1,1,1,0
+CUST-100433,33,43.1,4,0,Two year,DSL,Mailed check,East,1,0,0,0,0,1
+CUST-100434,18,43.14,1,0,Month-to-month,DSL,Bank transfer,South,1,0,1,1,0,0
+CUST-100435,40,57.15,0,1,Month-to-month,Fiber,Electronic check,Central,0,0,0,1,1,0
+CUST-100436,72,83.27,2,0,Month-to-month,Fiber,Credit card,West,1,0,0,0,0,0
+CUST-100437,24,98.97,3,1,Month-to-month,Fiber,Electronic check,West,0,1,0,1,0,0
+CUST-100438,7,58.73,1,1,One year,Fiber,Credit card,East,1,1,0,1,0,0
+CUST-100439,10,43.76,2,1,One year,Fiber,Electronic check,East,0,1,1,0,0,1
+CUST-100441,12,80.19,0,2,Month-to-month,Fiber,Credit card,North,1,1,0,1,0,0
+CUST-100442,17,73.77,2,1,One year,DSL,Credit card,East,1,0,0,1,0,0
+CUST-100443,28,74.62,1,0,Month-to-month,Fiber,Bank transfer,Central,1,0,0,1,0,0
+CUST-100444,6,65.3,2,1,Month-to-month,Fiber,Credit card,South,1,1,1,1,1,1
+CUST-100445,7,70.36,2,0,One year,Fiber,Electronic check,North,0,0,1,0,1,0
+CUST-100446,34,63.64,0,1,Two year,Fiber,Credit card,East,1,1,0,1,0,0
+CUST-100447,15,93.69,1,1,One year,DSL,Electronic check,South,0,1,0,1,0,1
+CUST-100449,19,72.31,0,1,One year,DSL,Mailed check,Central,1,1,0,0,1,0
+CUST-100450,53,67.84,0,2,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,1,0
+CUST-100451,38,74.14,0,0,Two year,DSL,Bank transfer,South,1,0,0,0,1,0
+CUST-100452,36,52.21,2,3,One year,Fiber,Bank transfer,Central,1,0,0,1,1,0
+CUST-100454,29,78.59,1,0,Month-to-month,Fiber,Credit card,South,1,1,0,0,0,0
+CUST-100455,70,57.91,2,1,Month-to-month,Fiber,Mailed check,South,1,1,1,0,0,0
+CUST-100456,72,89.65,3,2,Two year,Fiber,Electronic check,Central,0,1,1,0,0,0
+CUST-100457,6,68.46,0,1,Month-to-month,Fiber,Bank transfer,West,1,1,0,1,0,0
+CUST-100458,5,44.72,0,4,One year,Fiber,Electronic check,South,0,0,1,1,1,0
+CUST-100460,50,73.69,5,0,Month-to-month,DSL,Bank transfer,West,1,0,0,0,0,0
+CUST-100462,18,87.96,0,1,Two year,Fiber,Electronic check,Central,0,0,0,0,0,0
+CUST-100463,40,65.38,6,0,Month-to-month,DSL,Bank transfer,East,1,1,1,0,0,0
+CUST-100464,14,56.67,0,1,Month-to-month,Fiber,Electronic check,North,0,1,1,0,0,1
+CUST-100465,26,68.04,1,1,One year,DSL,Credit card,South,1,1,0,1,0,0
+CUST-100466,34,76.72,2,1,One year,Fiber,Credit card,West,1,0,0,0,0,0
+CUST-100467,10,79.61,1,1,Two year,Fiber,Electronic check,South,0,0,0,1,0,0
+CUST-100468,8,75.23,1,2,Month-to-month,DSL,Mailed check,North,1,0,1,1,0,1
+CUST-100469,24,65.82,2,0,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,0,1
+CUST-100470,26,91.92,1,0,Month-to-month,Fiber,Bank transfer,East,1,0,1,0,1,1
+CUST-100471,38,51.82,1,0,Month-to-month,DSL,Electronic check,South,0,0,0,1,0,1
+CUST-100472,9,127.51,0,0,Month-to-month,Fiber,Credit card,East,1,1,1,1,0,1
+CUST-100474,72,40.94,1,2,Month-to-month,Fiber,Bank transfer,North,1,0,1,1,1,0
+CUST-100475,44,72.45,2,4,Month-to-month,DSL,Electronic check,East,0,0,1,1,0,1
+CUST-100476,21,86.54,2,0,Month-to-month,DSL,Electronic check,South,0,0,0,1,0,0
+CUST-100477,49,59.62,1,1,One year,DSL,Mailed check,North,1,1,0,0,1,0
+CUST-100478,9,32.12,2,1,One year,DSL,Bank transfer,North,1,1,0,0,0,0
+CUST-100479,19,43.06,3,1,Month-to-month,DSL,Credit card,East,1,1,0,0,1,1
+CUST-100480,26,81.01,3,2,Month-to-month,DSL,Electronic check,East,0,1,1,0,0,1
+CUST-100481,17,25.89,1,0,Month-to-month,Fiber,Electronic check,East,0,1,0,1,1,1
+CUST-100482,18,33.22,2,3,One year,Fiber,Electronic check,West,0,1,1,0,1,0
+CUST-100483,37,80.88,0,1,Month-to-month,DSL,Mailed check,East,1,0,0,0,1,0
+CUST-100484,45,62.66,4,1,Month-to-month,Fiber,Credit card,East,1,1,1,1,1,0
+CUST-100485,16,51.3,5,1,Month-to-month,Fiber,Credit card,Central,1,0,1,1,0,0
+CUST-100486,7,56.13,0,1,Month-to-month,Fiber,Credit card,West,1,0,1,0,0,1
+CUST-100487,5,32.7,2,0,Month-to-month,DSL,Electronic check,Central,0,1,1,1,0,0
+CUST-100488,3,79.63,1,1,Month-to-month,Fiber,Mailed check,South,1,1,0,1,0,1
+CUST-100489,65,48.64,4,2,Month-to-month,DSL,Bank transfer,West,1,0,1,0,0,0
+CUST-100490,37,55.14,3,0,One year,DSL,Electronic check,West,0,0,0,0,0,0
+CUST-100491,32,76.32,1,1,One year,DSL,Bank transfer,East,1,1,0,1,0,0
+CUST-100492,14,61.84,1,0,One year,Fiber,Electronic check,North,0,0,1,1,0,1
+CUST-100493,14,51.09,2,1,Month-to-month,DSL,Electronic check,East,0,1,1,0,1,1
+CUST-100494,46,20.25,1,1,One year,DSL,Credit card,Central,1,0,1,0,1,0
+CUST-100495,5,76.82,3,0,Month-to-month,Fiber,Electronic check,West,0,0,1,1,0,0
+CUST-100496,16,69.9,0,0,Month-to-month,DSL,Credit card,North,1,1,1,0,1,0
+CUST-100497,50,55.58,1,2,One year,Fiber,Electronic check,South,0,0,1,1,0,0
+CUST-100499,36,68.31,2,1,Month-to-month,Fiber,Electronic check,Central,0,1,0,1,1,0
+CUST-100500,21,79.53,0,0,One year,DSL,Electronic check,East,0,1,0,1,0,0
+CUST-100502,21,107.31,4,2,Two year,Fiber,Electronic check,West,0,0,1,1,1,0
+CUST-100503,24,84.91,2,1,Month-to-month,DSL,Bank transfer,South,1,0,1,0,0,0
+CUST-100504,19,65.43,2,1,Month-to-month,Fiber,Credit card,North,1,0,1,1,0,0
+CUST-100505,8,85.72,2,1,One year,DSL,Mailed check,Central,1,1,1,1,0,0
+CUST-100506,20,69.17,2,1,Month-to-month,DSL,Electronic check,East,0,0,1,1,0,0
+CUST-100507,3,69.08,3,1,Two year,Fiber,Mailed check,Central,1,1,1,0,0,0
+CUST-100508,16,99.11,0,1,Month-to-month,Fiber,Credit card,Central,1,0,1,1,1,1
+CUST-100509,38,46.45,1,0,Month-to-month,DSL,Bank transfer,East,1,1,1,1,0,0
+CUST-100510,63,68.56,1,1,Month-to-month,Fiber,Electronic check,North,0,0,0,0,0,0
+CUST-100511,56,96.55,3,1,Two year,DSL,Mailed check,Central,1,0,1,1,0,0
+CUST-100512,9,75.42,1,2,Month-to-month,DSL,Mailed check,East,1,1,1,0,0,0
+CUST-100513,6,59.14,1,1,Month-to-month,DSL,Electronic check,North,0,0,1,1,0,0
+CUST-100514,26,27.05,1,2,Month-to-month,Fiber,Electronic check,East,0,0,0,1,1,0
+CUST-100515,23,18.0,1,2,Month-to-month,DSL,Credit card,North,1,1,0,0,1,0
+CUST-100517,13,75.4,1,0,One year,Fiber,Electronic check,South,0,0,1,1,0,1
+CUST-100518,23,53.98,0,1,Month-to-month,Fiber,Electronic check,East,0,1,1,0,1,1
+CUST-100519,22,76.39,1,1,Two year,Fiber,Bank transfer,East,1,1,1,0,0,0
+CUST-100520,17,45.26,1,1,Two year,Fiber,Mailed check,Central,1,0,1,0,0,0
+CUST-100521,4,60.05,1,0,Month-to-month,DSL,Electronic check,South,0,0,0,0,0,1
+CUST-100522,37,45.42,3,0,Month-to-month,Fiber,Mailed check,West,1,1,1,0,0,0
+CUST-100523,26,34.08,0,0,One year,DSL,Bank transfer,Central,1,0,0,0,1,0
+CUST-100524,39,18.0,3,0,Month-to-month,Fiber,Electronic check,West,0,0,1,1,0,0
+CUST-100525,46,29.66,1,1,Month-to-month,Fiber,Credit card,South,1,0,0,1,0,0
+CUST-100526,21,92.51,1,2,Two year,Fiber,Electronic check,West,0,1,1,1,0,0
+CUST-100527,38,44.31,1,1,Two year,DSL,Electronic check,South,0,1,0,0,1,1
+CUST-100528,64,80.84,4,3,One year,DSL,Credit card,East,1,1,0,1,0,0
+CUST-100529,72,90.96,3,0,Month-to-month,Fiber,Credit card,West,1,0,1,0,1,0
+CUST-100530,28,68.4,1,0,One year,DSL,Electronic check,South,0,0,1,1,1,0
+CUST-100531,30,60.83,1,1,One year,Fiber,Credit card,North,1,0,1,1,1,1
+CUST-100532,28,71.19,2,1,Month-to-month,Fiber,Mailed check,Central,1,1,1,0,0,0
+CUST-100533,33,58.0,2,0,One year,Fiber,Electronic check,West,0,1,1,1,1,0
+CUST-100535,27,113.04,1,1,Month-to-month,DSL,Bank transfer,South,1,1,1,0,1,1
+CUST-100536,72,102.8,1,1,Month-to-month,DSL,Electronic check,South,0,1,1,1,0,0
+CUST-100537,68,18.0,2,0,Month-to-month,Fiber,Bank transfer,Central,1,0,1,1,0,0
+CUST-100538,24,57.51,2,1,Month-to-month,Fiber,Mailed check,Central,1,0,0,0,0,0
+CUST-100539,24,68.1,0,1,Two year,DSL,Electronic check,West,0,1,1,0,1,0
+CUST-100540,16,79.11,2,0,Two year,Fiber,Credit card,East,1,0,0,1,0,0
+CUST-100542,18,26.16,0,0,Two year,DSL,Bank transfer,South,1,1,0,0,1,0
+CUST-100543,15,99.36,2,0,Two year,Fiber,Bank transfer,North,1,1,0,0,0,0
+CUST-100544,34,54.58,1,1,Month-to-month,DSL,Bank transfer,West,1,1,0,1,0,0
+CUST-100546,45,41.51,1,1,Month-to-month,Fiber,Credit card,West,1,1,1,0,1,0
+CUST-100547,35,77.37,3,0,Month-to-month,DSL,Bank transfer,Central,1,1,1,0,0,0
+CUST-100549,28,73.8,0,0,Month-to-month,Fiber,Mailed check,West,1,1,1,0,1,1
+CUST-100550,39,44.51,4,2,Month-to-month,DSL,Electronic check,Central,0,0,0,1,1,1
+CUST-100551,42,26.14,1,1,Month-to-month,Fiber,Electronic check,East,0,1,0,1,0,1
+CUST-100552,53,102.19,0,0,Month-to-month,DSL,Electronic check,East,0,1,1,1,0,0
+CUST-100553,26,77.56,0,0,Two year,DSL,Electronic check,South,0,1,0,1,0,0
+CUST-100554,16,59.99,1,2,Month-to-month,DSL,Bank transfer,East,1,1,1,1,0,1
+CUST-100555,29,55.49,2,1,Month-to-month,Fiber,Credit card,Central,1,0,0,1,0,0
+CUST-100556,45,103.16,1,0,Month-to-month,DSL,Electronic check,West,0,0,1,0,1,0
+CUST-100557,49,82.2,1,2,Month-to-month,Fiber,Electronic check,South,0,1,0,0,0,0
+CUST-100558,4,95.52,3,0,One year,Fiber,Bank transfer,East,1,1,0,0,0,0
+CUST-100559,72,53.99,0,0,Month-to-month,Fiber,Electronic check,West,0,1,0,0,0,1
+CUST-100560,15,69.22,2,2,Month-to-month,DSL,Credit card,North,1,1,1,0,1,0
+CUST-100561,39,77.65,0,0,Month-to-month,Fiber,Mailed check,West,1,0,0,0,0,0
+CUST-100562,57,54.8,2,1,Two year,Fiber,Electronic check,South,0,0,0,0,0,0
+CUST-100563,22,65.71,2,2,One year,DSL,Electronic check,South,0,0,0,1,0,1
+CUST-100564,50,53.99,2,1,One year,Fiber,Credit card,East,1,0,0,1,1,0
+CUST-100565,4,77.58,1,2,One year,Fiber,Electronic check,East,0,0,0,0,0,0
+CUST-100566,52,36.29,5,0,One year,Fiber,Bank transfer,Central,1,1,1,0,0,0
+CUST-100567,47,81.73,2,0,Month-to-month,Fiber,Electronic check,South,0,0,0,1,1,0
+CUST-100568,32,75.46,2,1,Month-to-month,DSL,Electronic check,South,0,0,0,0,0,1
+CUST-100569,45,63.12,2,1,Month-to-month,Fiber,Credit card,South,1,1,1,1,0,0
+CUST-100570,69,78.79,4,0,Month-to-month,Fiber,Electronic check,Central,0,0,0,0,0,0
+CUST-100572,23,51.92,1,2,Month-to-month,DSL,Mailed check,East,1,1,1,1,0,0
+CUST-100573,29,81.05,0,0,One year,DSL,Credit card,West,1,0,1,0,0,0
+CUST-100574,20,82.09,2,2,Two year,DSL,Electronic check,Central,0,1,0,1,0,0
+CUST-100576,42,53.77,2,0,Two year,Fiber,Credit card,West,1,1,0,0,1,0
+CUST-100577,20,63.61,1,1,One year,DSL,Bank transfer,East,1,0,0,0,0,1
+CUST-100578,42,54.75,0,2,Two year,DSL,Credit card,Central,1,0,1,1,0,0
+CUST-100579,22,104.6,1,0,Month-to-month,Fiber,Bank transfer,South,1,0,0,0,0,1
+CUST-100580,25,75.6,2,1,Month-to-month,Fiber,Bank transfer,South,1,0,0,0,1,0
+CUST-100581,12,68.35,3,0,Month-to-month,Fiber,Mailed check,West,1,1,1,1,0,0
+CUST-100582,41,45.61,0,0,Month-to-month,DSL,Electronic check,North,0,0,1,1,0,0
+CUST-100583,4,85.74,2,1,Month-to-month,DSL,Bank transfer,East,1,1,1,0,1,1
+CUST-100584,53,53.32,4,0,Two year,DSL,Bank transfer,Central,1,1,0,1,0,0
+CUST-100585,72,52.33,3,1,One year,Fiber,Credit card,North,1,0,1,1,0,1
+CUST-100586,25,86.54,3,1,Month-to-month,Fiber,Bank transfer,Central,1,1,1,1,0,0
+CUST-100587,25,77.3,0,1,Month-to-month,Fiber,Electronic check,East,0,0,1,0,1,0
+CUST-100588,6,18.0,2,0,Month-to-month,DSL,Mailed check,Central,1,1,0,1,1,0
+CUST-100590,45,71.01,5,2,Two year,DSL,Mailed check,North,1,1,0,0,0,0
+CUST-100592,28,71.85,1,0,Month-to-month,DSL,Bank transfer,North,1,0,0,0,0,0
+CUST-100594,12,18.0,1,0,Month-to-month,Fiber,Bank transfer,Central,1,0,0,1,1,0
+CUST-100595,33,44.59,1,1,Month-to-month,Fiber,Bank transfer,Central,1,0,1,0,1,1
+CUST-100596,62,74.77,0,1,One year,Fiber,Credit card,North,1,1,0,0,0,0
+CUST-100597,37,18.0,3,1,One year,Fiber,Mailed check,South,1,0,0,0,0,0
+CUST-100598,68,47.75,0,0,Two year,Fiber,Bank transfer,North,1,1,1,1,1,0
+CUST-100599,70,21.85,4,1,One year,Fiber,Mailed check,South,1,0,1,0,0,0
+CUST-100603,8,65.42,0,1,One year,DSL,Credit card,Central,1,0,0,1,0,0
+CUST-100605,3,68.51,3,0,One year,DSL,Bank transfer,South,1,0,0,1,1,1
+CUST-100606,51,62.84,4,2,Two year,Fiber,Electronic check,West,0,0,0,1,1,0
+CUST-100607,34,90.24,2,0,Month-to-month,DSL,Bank transfer,East,1,0,0,1,0,0
+CUST-100608,28,79.33,3,1,One year,Fiber,Mailed check,North,1,1,0,0,1,0
+CUST-100610,4,64.67,3,0,Month-to-month,Fiber,Electronic check,West,0,0,0,0,0,0
+CUST-100611,20,59.69,0,0,One year,Fiber,Bank transfer,West,1,0,1,1,0,0
+CUST-100612,14,90.01,2,0,Two year,DSL,Electronic check,East,0,1,1,1,0,0
+CUST-100613,27,59.92,1,1,Two year,DSL,Bank transfer,West,1,0,0,1,0,0
+CUST-100614,27,97.55,0,2,Month-to-month,Fiber,Bank transfer,West,1,1,0,1,1,0
+CUST-100615,36,42.87,2,1,One year,DSL,Electronic check,South,0,0,1,0,0,0
+CUST-100616,39,102.41,3,0,One year,Fiber,Mailed check,South,1,1,1,0,0,0
+CUST-100617,4,79.33,0,1,Month-to-month,DSL,Credit card,Central,1,0,0,1,1,0
+CUST-100618,20,44.76,0,0,Month-to-month,Fiber,Bank transfer,Central,1,1,0,0,0,0
+CUST-100619,24,80.22,0,0,Month-to-month,Fiber,Electronic check,North,0,1,1,0,0,1
+CUST-100620,8,52.39,4,0,One year,Fiber,Mailed check,West,1,0,1,1,1,1
+CUST-100621,7,68.8,3,4,Month-to-month,Fiber,Electronic check,North,0,1,1,0,0,1
+CUST-100622,3,56.32,0,0,Two year,Fiber,Bank transfer,Central,1,1,0,1,0,0
+CUST-100623,6,64.81,2,1,Month-to-month,Fiber,Bank transfer,East,1,0,1,0,0,1
+CUST-100624,43,90.59,3,0,Two year,Fiber,Electronic check,West,0,0,1,1,0,0
+CUST-100625,5,80.44,2,3,Month-to-month,Fiber,Bank transfer,West,1,0,0,1,0,0
+CUST-100626,6,40.99,1,1,One year,DSL,Bank transfer,West,1,1,1,0,1,0
+CUST-100627,26,42.37,6,0,Month-to-month,Fiber,Credit card,South,1,1,0,0,1,0
+CUST-100628,32,74.5,1,1,Month-to-month,DSL,Electronic check,Central,0,0,0,0,0,1
+CUST-100630,9,51.81,2,0,Two year,Fiber,Mailed check,East,1,0,1,0,0,0
+CUST-100632,25,87.52,0,0,Month-to-month,Fiber,Mailed check,North,1,0,1,1,1,1
+CUST-100633,22,52.99,1,0,Month-to-month,Fiber,Electronic check,East,0,0,0,1,0,0
+CUST-100634,18,50.67,2,2,Month-to-month,DSL,Electronic check,South,0,1,0,0,0,0
+CUST-100635,42,62.53,1,0,Month-to-month,DSL,Bank transfer,West,1,0,0,1,0,0
+CUST-100636,21,60.04,1,0,One year,DSL,Electronic check,South,0,1,0,1,1,0
+CUST-100637,6,98.15,1,2,One year,Fiber,Bank transfer,Central,1,0,1,1,0,0
+CUST-100638,18,91.63,3,0,One year,DSL,Electronic check,West,0,1,0,1,1,0
+CUST-100639,35,68.84,3,1,Two year,Fiber,Bank transfer,East,1,0,0,1,1,0
+CUST-100640,20,84.27,0,0,One year,Fiber,Mailed check,West,1,0,0,1,0,1
+CUST-100641,35,87.75,1,1,One year,Fiber,Credit card,West,1,1,0,1,1,0
+CUST-100643,21,77.66,1,3,Month-to-month,Fiber,Mailed check,East,1,1,1,1,0,0
+CUST-100644,23,82.26,1,1,One year,DSL,Bank transfer,Central,1,1,0,1,0,1
+CUST-100645,19,79.7,1,1,Two year,DSL,Electronic check,South,0,0,1,0,0,0
+CUST-100646,35,49.31,2,1,Month-to-month,DSL,Bank transfer,East,1,0,0,0,0,1
+CUST-100647,18,51.73,1,1,Month-to-month,DSL,Electronic check,South,0,1,1,1,0,0
+CUST-100648,33,61.07,0,1,One year,DSL,Mailed check,East,1,1,1,0,0,0
+CUST-100649,28,51.04,2,1,Month-to-month,Fiber,Electronic check,Central,0,1,1,0,1,0
+CUST-100650,3,32.65,2,2,Month-to-month,Fiber,Credit card,West,1,1,1,0,1,1
+CUST-100651,34,84.22,2,1,Two year,DSL,Mailed check,South,1,1,0,0,0,0
+CUST-100652,26,76.31,1,0,One year,Fiber,Bank transfer,Central,1,1,0,0,1,0
+CUST-100653,54,35.86,2,0,Month-to-month,Fiber,Mailed check,West,1,0,1,0,1,0
+CUST-100654,8,62.22,4,1,Two year,Fiber,Electronic check,East,0,1,0,0,1,0
+CUST-100655,28,63.58,0,2,Month-to-month,Fiber,Electronic check,North,0,0,1,0,0,0
+CUST-100656,16,72.37,1,0,Two year,Fiber,Credit card,East,1,1,1,1,0,0
+CUST-100657,4,42.03,2,1,Month-to-month,Fiber,Credit card,Central,1,1,0,1,0,0
+CUST-100659,62,80.47,1,1,Month-to-month,Fiber,Bank transfer,North,1,1,1,0,0,1
+CUST-100662,5,60.17,0,0,Month-to-month,Fiber,Mailed check,East,1,1,1,1,0,0
+CUST-100663,59,65.04,3,2,Month-to-month,DSL,Electronic check,West,0,1,0,1,0,0
+CUST-100664,13,74.07,1,2,Month-to-month,DSL,Electronic check,South,0,0,0,1,0,0
+CUST-100665,29,106.37,2,0,One year,DSL,Bank transfer,North,1,1,0,1,0,0
+CUST-100666,25,29.61,1,1,One year,Fiber,Electronic check,East,0,1,0,1,1,0
+CUST-100667,72,89.04,3,2,Two year,Fiber,Credit card,West,1,1,1,0,1,0
+CUST-100668,23,18.0,1,0,Month-to-month,Fiber,Bank transfer,South,1,0,1,1,1,0
+CUST-100669,15,101.45,1,1,Month-to-month,DSL,Credit card,West,1,0,1,0,1,0
+CUST-100671,31,126.47,0,0,Month-to-month,DSL,Credit card,South,1,1,0,0,0,0
+CUST-100672,72,58.65,1,0,Two year,DSL,Mailed check,South,1,1,0,0,0,0
+CUST-100674,8,94.02,0,0,One year,DSL,Mailed check,South,1,1,0,0,0,0
+CUST-100675,18,57.52,0,1,Month-to-month,Fiber,Credit card,West,1,0,0,0,0,1
+CUST-100676,28,59.37,3,2,Two year,DSL,Electronic check,South,0,0,0,1,1,0
+CUST-100677,32,47.91,0,1,Month-to-month,Fiber,Bank transfer,West,1,1,0,0,0,1
+CUST-100678,5,86.9,0,0,Month-to-month,Fiber,Bank transfer,South,1,0,1,1,0,1
+CUST-100679,16,57.84,1,0,Month-to-month,Fiber,Mailed check,South,1,0,1,0,1,0
+CUST-100681,11,80.89,1,2,Month-to-month,Fiber,Mailed check,Central,1,1,1,0,1,0
+CUST-100682,43,46.47,1,2,Month-to-month,Fiber,Electronic check,East,0,1,0,0,0,0
+CUST-100683,18,60.1,2,0,Month-to-month,Fiber,Bank transfer,South,1,1,0,0,0,1
+CUST-100684,24,70.57,3,0,One year,Fiber,Mailed check,West,1,0,1,0,0,0
+CUST-100685,5,52.58,1,0,Month-to-month,Fiber,Electronic check,North,0,0,0,0,0,0
+CUST-100686,19,56.2,1,0,Month-to-month,DSL,Electronic check,East,0,0,1,1,0,0
+CUST-100687,28,104.84,2,0,Two year,DSL,Electronic check,East,0,1,0,0,0,0
+CUST-100688,23,63.1,3,3,One year,Fiber,Credit card,West,1,1,0,0,0,1
+CUST-100689,20,59.37,1,2,Month-to-month,Fiber,Credit card,North,1,1,0,0,0,1
+CUST-100690,35,63.8,1,3,Month-to-month,Fiber,Bank transfer,North,1,0,0,1,0,0
+CUST-100691,7,78.91,2,1,Two year,Fiber,Electronic check,South,0,1,0,0,0,0
+CUST-100692,29,43.19,4,0,Month-to-month,DSL,Mailed check,North,1,1,0,0,0,0
+CUST-100694,51,74.14,1,0,Two year,DSL,Bank transfer,Central,1,0,0,1,0,0
+CUST-100695,21,25.07,2,0,Month-to-month,Fiber,Electronic check,South,0,1,1,1,1,0
+CUST-100696,41,111.06,1,1,One year,DSL,Electronic check,East,0,0,1,0,0,1
+CUST-100698,37,48.79,2,1,One year,Fiber,Credit card,North,1,0,1,0,0,1
+CUST-100700,24,73.47,1,2,Month-to-month,DSL,Credit card,South,1,0,1,1,0,1
+CUST-100703,34,56.76,1,2,Two year,DSL,Bank transfer,Central,1,1,1,1,1,0
+CUST-100705,54,48.21,1,1,Month-to-month,Fiber,Mailed check,East,1,0,1,1,0,0
+CUST-100706,21,65.31,2,0,One year,Fiber,Credit card,Central,1,1,0,1,1,1
+CUST-100707,21,98.41,2,1,One year,Fiber,Credit card,East,1,0,1,1,0,1
+CUST-100708,22,60.24,1,1,Month-to-month,Fiber,Electronic check,North,0,1,0,0,0,0
+CUST-100709,23,74.53,2,1,Month-to-month,Fiber,Bank transfer,South,1,1,0,0,0,0
+CUST-100710,7,94.22,4,3,Two year,Fiber,Credit card,West,1,1,0,0,0,0
+CUST-100711,10,54.65,2,3,One year,DSL,Bank transfer,West,1,1,1,0,0,0
+CUST-100712,45,37.72,1,1,One year,DSL,Credit card,South,1,0,0,0,0,0
+CUST-100713,41,32.99,1,0,Two year,DSL,Bank transfer,North,1,0,0,1,0,0
+CUST-100714,39,82.0,3,3,One year,Fiber,Electronic check,South,0,0,0,1,0,0
+CUST-100715,32,77.33,1,0,Month-to-month,DSL,Electronic check,South,0,0,1,1,0,1
+CUST-100716,16,93.48,1,0,Month-to-month,Fiber,Credit card,West,1,1,0,1,0,1
+CUST-100717,14,61.42,1,0,Month-to-month,Fiber,Credit card,Central,1,0,1,0,0,1
+CUST-100718,23,33.66,0,1,One year,Fiber,Electronic check,North,0,1,1,0,0,1
+CUST-100719,50,18.0,1,0,Two year,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-100720,27,136.83,2,1,Month-to-month,Fiber,Credit card,West,1,1,1,1,0,0
+CUST-100721,10,80.65,3,1,Month-to-month,DSL,Electronic check,West,0,1,0,0,0,0
+CUST-100722,6,71.28,2,0,Month-to-month,DSL,Electronic check,Central,0,0,1,0,0,1
+CUST-100723,42,74.69,1,1,Two year,DSL,Credit card,North,1,1,1,0,0,0
+CUST-100724,60,33.65,1,1,Month-to-month,Fiber,Credit card,West,1,0,0,1,0,0
+CUST-100725,4,48.92,3,0,Month-to-month,DSL,Credit card,North,1,1,0,1,0,0
+CUST-100726,43,109.84,1,1,Month-to-month,DSL,Bank transfer,Central,1,1,0,1,0,0
+CUST-100727,32,83.8,3,0,Month-to-month,Fiber,Electronic check,East,0,0,1,0,0,1
+CUST-100728,12,49.67,1,0,Month-to-month,DSL,Credit card,North,1,1,1,1,0,0
+CUST-100729,27,38.56,2,0,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,1
+CUST-100730,8,55.62,2,0,Month-to-month,Fiber,Electronic check,West,0,0,1,1,1,0
+CUST-100731,20,60.43,1,2,Month-to-month,Fiber,Credit card,East,1,0,1,0,0,1
+CUST-100732,24,117.18,2,0,Month-to-month,Fiber,Bank transfer,South,1,1,0,0,0,1
+CUST-100733,53,63.48,1,0,Month-to-month,Fiber,Credit card,North,1,1,0,0,0,0
+CUST-100734,19,39.45,0,3,Month-to-month,Fiber,Electronic check,Central,0,0,0,0,1,0
+CUST-100735,13,66.59,1,0,One year,Fiber,Credit card,North,1,1,0,1,0,0
+CUST-100737,35,37.27,2,0,Month-to-month,Fiber,Bank transfer,East,1,1,0,1,1,1
+CUST-100738,13,77.65,1,0,Month-to-month,Fiber,Credit card,West,1,1,1,0,0,1
+CUST-100739,9,97.01,2,0,Month-to-month,Fiber,Mailed check,West,1,0,0,0,1,0
+CUST-100740,10,71.33,0,3,Month-to-month,DSL,Bank transfer,Central,1,0,1,1,0,1
+CUST-100741,54,48.87,2,2,Month-to-month,DSL,Bank transfer,North,1,1,1,1,1,0
+CUST-100743,18,28.19,2,4,Month-to-month,Fiber,Credit card,North,1,0,0,1,0,0
+CUST-100744,48,64.79,2,1,Month-to-month,Fiber,Bank transfer,Central,1,0,0,0,1,1
+CUST-100745,13,75.46,0,1,Month-to-month,DSL,Electronic check,South,0,0,1,0,0,0
+CUST-100746,22,46.48,1,1,Month-to-month,Fiber,Electronic check,Central,0,0,1,1,0,0
+CUST-100747,8,114.55,1,1,Month-to-month,DSL,Credit card,North,1,1,0,1,0,0
+CUST-100748,46,87.01,3,0,One year,DSL,Credit card,East,1,1,1,1,0,0
+CUST-100749,12,24.97,0,0,Two year,Fiber,Credit card,East,1,0,1,1,0,1
+CUST-100751,30,44.38,3,0,Month-to-month,DSL,Mailed check,North,1,1,1,1,0,1
+CUST-100753,7,89.38,2,1,Month-to-month,Fiber,Bank transfer,West,1,0,0,1,0,1
+CUST-100754,38,106.97,0,0,One year,Fiber,Electronic check,North,0,1,1,1,0,1
+CUST-100755,10,68.25,1,0,Month-to-month,DSL,Bank transfer,West,1,0,0,0,0,0
+CUST-100756,72,62.97,1,0,Month-to-month,Fiber,Electronic check,North,0,0,1,1,0,0
+CUST-100757,26,38.06,0,1,Two year,Fiber,Mailed check,Central,1,1,1,1,0,0
+CUST-100758,4,76.39,4,1,Month-to-month,DSL,Electronic check,East,0,0,0,0,1,0
+CUST-100759,62,63.29,0,5,Month-to-month,Fiber,Electronic check,Central,0,0,1,1,1,0
+CUST-100760,26,62.37,1,0,One year,Fiber,Electronic check,North,0,1,0,0,0,0
+CUST-100761,20,106.83,2,3,Month-to-month,DSL,Credit card,South,1,1,0,1,0,0
+CUST-100762,26,64.97,1,2,Month-to-month,Fiber,Bank transfer,East,1,1,0,1,0,0
+CUST-100763,4,99.94,2,0,Month-to-month,Fiber,Credit card,North,1,0,1,0,0,0
+CUST-100764,23,29.89,0,1,Two year,Fiber,Mailed check,North,1,0,1,0,0,0
+CUST-100765,11,132.51,4,0,Month-to-month,Fiber,Mailed check,South,1,1,0,0,1,0
+CUST-100766,22,59.04,2,1,Month-to-month,Fiber,Electronic check,West,0,0,0,1,0,0
+CUST-100767,16,84.97,2,2,Month-to-month,DSL,Bank transfer,West,1,0,1,1,0,0
+CUST-100769,18,56.06,0,1,One year,Fiber,Bank transfer,North,1,1,0,1,1,0
+CUST-100771,10,88.9,2,1,Month-to-month,DSL,Credit card,South,1,1,0,0,0,1
+CUST-100772,4,50.88,1,2,One year,DSL,Electronic check,West,0,0,0,1,1,1
+CUST-100773,3,51.17,1,1,Two year,DSL,Mailed check,South,1,0,0,0,1,0
+CUST-100774,7,69.09,0,0,Month-to-month,DSL,Electronic check,South,0,0,1,0,1,0
+CUST-100775,36,65.23,6,0,Two year,DSL,Electronic check,South,0,1,1,0,0,0
+CUST-100776,9,101.44,2,0,One year,Fiber,Bank transfer,South,1,1,0,0,0,1
+CUST-100777,13,84.86,1,0,Month-to-month,DSL,Bank transfer,West,1,0,1,1,1,1
+CUST-100778,13,66.31,2,3,One year,Fiber,Bank transfer,East,1,1,0,0,0,0
+CUST-100779,16,82.55,1,1,Two year,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-100780,32,18.88,2,1,Month-to-month,DSL,Credit card,North,1,1,0,0,0,1
+CUST-100781,18,53.23,4,2,Two year,Fiber,Credit card,East,1,0,0,0,0,1
+CUST-100782,41,74.91,3,0,Month-to-month,Fiber,Mailed check,East,1,1,0,0,0,0
+CUST-100783,7,94.77,2,1,One year,Fiber,Credit card,Central,1,0,0,1,0,0
+CUST-100784,38,72.79,2,1,Two year,Fiber,Electronic check,East,0,1,1,1,0,0
+CUST-100785,57,103.0,1,2,Month-to-month,DSL,Bank transfer,North,1,0,1,1,0,0
+CUST-100786,22,88.83,1,2,One year,DSL,Credit card,West,1,0,0,0,0,0
+CUST-100787,9,56.28,2,1,Month-to-month,Fiber,Credit card,North,1,1,0,0,0,1
+CUST-100788,32,64.64,3,3,One year,Fiber,Credit card,Central,1,0,1,1,0,0
+CUST-100789,23,77.8,3,1,One year,Fiber,Mailed check,South,1,0,1,0,0,0
+CUST-100790,28,57.23,2,4,Month-to-month,Fiber,Credit card,West,1,0,1,0,1,1
+CUST-100791,42,104.75,3,0,Month-to-month,DSL,Bank transfer,West,1,1,1,1,0,0
+CUST-100792,17,41.39,3,3,Month-to-month,DSL,Electronic check,East,0,0,1,1,0,0
+CUST-100793,15,75.59,2,0,Month-to-month,Fiber,Electronic check,East,0,1,0,1,0,1
+CUST-100794,72,85.65,4,1,Month-to-month,Fiber,Credit card,North,1,1,1,0,0,0
+CUST-100796,47,55.07,1,2,Month-to-month,DSL,Mailed check,West,1,1,1,0,1,0
+CUST-100797,40,66.17,2,0,Month-to-month,Fiber,Credit card,Central,1,1,1,1,0,0
+CUST-100798,47,87.49,1,1,One year,Fiber,Bank transfer,Central,1,0,0,1,0,0
+CUST-100799,29,56.0,0,0,One year,Fiber,Mailed check,South,1,0,0,1,0,0
+CUST-100801,13,95.61,2,1,Month-to-month,Fiber,Bank transfer,South,1,1,1,1,0,1
+CUST-100802,4,77.58,2,1,Two year,Fiber,Credit card,West,1,0,0,1,0,0
+CUST-100804,20,86.22,4,0,Month-to-month,DSL,Mailed check,West,1,0,0,1,0,0
+CUST-100805,18,120.32,0,2,Month-to-month,Fiber,Bank transfer,Central,1,1,0,1,0,1
+CUST-100806,23,94.76,2,0,One year,Fiber,Bank transfer,South,1,0,0,0,1,0
+CUST-100807,12,50.62,2,1,Month-to-month,Fiber,Credit card,West,1,1,1,1,0,1
+CUST-100809,16,54.62,2,0,Two year,Fiber,Bank transfer,Central,1,1,1,1,0,0
+CUST-100812,30,61.13,3,2,Two year,DSL,Bank transfer,South,1,0,0,1,1,0
+CUST-100813,16,81.08,2,0,One year,DSL,Bank transfer,West,1,1,0,0,0,1
+CUST-100814,8,66.42,2,1,Month-to-month,Fiber,Mailed check,Central,1,1,0,0,0,0
+CUST-100815,24,41.62,2,0,Two year,Fiber,Credit card,Central,1,0,0,1,0,0
+CUST-100816,72,31.45,1,2,Two year,DSL,Electronic check,North,0,1,1,0,1,0
+CUST-100817,33,118.68,2,2,Month-to-month,Fiber,Electronic check,East,0,0,0,0,0,1
+CUST-100818,34,75.8,0,0,One year,Fiber,Electronic check,North,0,1,1,1,1,0
+CUST-100819,15,48.22,0,0,Month-to-month,Fiber,Mailed check,South,1,1,0,1,1,0
+CUST-100820,11,79.08,0,0,Month-to-month,Fiber,Bank transfer,Central,1,1,0,0,0,0
+CUST-100821,47,120.54,0,0,One year,Fiber,Credit card,Central,1,1,1,0,1,0
+CUST-100823,12,18.0,1,2,One year,DSL,Electronic check,North,0,1,0,1,0,0
+CUST-100824,66,131.66,0,1,Two year,DSL,Mailed check,West,1,0,1,1,1,0
+CUST-100825,21,23.62,0,0,Month-to-month,DSL,Electronic check,East,0,1,0,0,1,0
+CUST-100826,5,63.06,0,0,One year,Fiber,Bank transfer,East,1,0,1,0,0,0
+CUST-100827,31,40.8,1,0,Month-to-month,DSL,Electronic check,Central,0,1,0,1,0,0
+CUST-100828,16,50.24,2,1,Two year,Fiber,Mailed check,Central,1,0,0,0,0,0
+CUST-100829,4,74.83,0,2,Month-to-month,Fiber,Credit card,Central,1,1,0,1,1,0
+CUST-100831,24,65.83,6,1,Month-to-month,Fiber,Electronic check,Central,0,0,0,1,0,0
+CUST-100832,23,95.54,2,0,Month-to-month,Fiber,Electronic check,West,0,0,0,1,0,1
+CUST-100833,32,47.76,0,0,One year,Fiber,Bank transfer,Central,1,0,0,0,0,0
+CUST-100834,8,34.63,3,1,One year,Fiber,Bank transfer,East,1,1,1,0,0,1
+CUST-100835,29,64.66,1,0,Month-to-month,Fiber,Electronic check,North,0,1,0,0,1,1
+CUST-100836,25,59.88,2,0,One year,DSL,Credit card,Central,1,1,1,0,0,0
+CUST-100837,47,53.71,1,1,Two year,DSL,Mailed check,Central,1,0,0,0,0,0
+CUST-100838,12,39.48,0,1,Month-to-month,Fiber,Mailed check,South,1,1,0,1,1,0
+CUST-100839,52,80.46,1,0,Month-to-month,DSL,Electronic check,East,0,0,0,1,0,0
+CUST-100840,40,82.29,2,1,Month-to-month,Fiber,Mailed check,East,1,0,0,0,1,1
+CUST-100841,20,42.42,6,0,One year,DSL,Electronic check,West,0,1,0,0,0,0
+CUST-100842,23,45.75,0,2,Month-to-month,Fiber,Electronic check,West,0,1,0,1,0,0
+CUST-100844,22,44.84,1,0,Month-to-month,Fiber,Mailed check,Central,1,1,0,0,1,0
+CUST-100845,38,72.29,1,0,Two year,DSL,Credit card,Central,1,1,0,1,0,0
+CUST-100846,18,103.23,0,0,Month-to-month,DSL,Credit card,Central,1,1,0,1,0,1
+CUST-100847,46,66.56,3,0,One year,DSL,Electronic check,East,0,0,0,0,0,0
+CUST-100848,31,38.87,3,1,Month-to-month,DSL,Electronic check,North,0,0,0,1,1,1
+CUST-100849,72,77.41,1,0,Two year,Fiber,Credit card,Central,1,1,0,0,0,0
+CUST-100850,13,63.74,1,1,Month-to-month,Fiber,Credit card,North,1,1,0,0,0,1
+CUST-100851,35,64.4,2,1,Month-to-month,Fiber,Credit card,North,1,0,0,0,0,1
+CUST-100852,6,79.41,1,2,Two year,Fiber,Electronic check,South,0,1,0,0,0,0
+CUST-100853,19,84.58,4,1,Two year,Fiber,Electronic check,North,0,0,0,0,0,1
+CUST-100854,32,68.85,1,0,Month-to-month,Fiber,Electronic check,West,0,1,0,0,1,0
+CUST-100855,37,66.54,1,0,Month-to-month,Fiber,Credit card,East,1,0,0,1,0,1
+CUST-100856,17,117.52,1,1,One year,DSL,Bank transfer,South,1,0,0,0,0,0
+CUST-100857,50,96.81,4,0,Two year,Fiber,Mailed check,North,1,0,0,1,1,0
+CUST-100858,57,88.01,2,0,Month-to-month,DSL,Bank transfer,South,1,0,0,0,1,0
+CUST-100859,13,71.15,0,1,Month-to-month,DSL,Electronic check,West,0,0,1,1,1,0
+CUST-100860,20,43.86,2,1,One year,Fiber,Bank transfer,West,1,1,0,0,1,0
+CUST-100861,18,95.06,1,1,One year,Fiber,Electronic check,South,0,0,0,0,1,1
+CUST-100862,15,71.46,2,1,One year,DSL,Bank transfer,North,1,0,1,1,0,0
+CUST-100863,55,54.15,2,3,Month-to-month,DSL,Bank transfer,East,1,1,0,0,1,1
+CUST-100864,54,62.16,1,1,Month-to-month,Fiber,Bank transfer,West,1,0,0,1,0,1
+CUST-100865,19,44.81,3,3,Two year,Fiber,Electronic check,North,0,1,1,1,0,0
+CUST-100866,35,93.38,0,0,Two year,DSL,Credit card,West,1,1,0,1,0,0
+CUST-100867,46,84.39,2,0,One year,DSL,Bank transfer,North,1,1,1,1,0,0
+CUST-100868,27,72.36,3,1,Month-to-month,Fiber,Electronic check,South,0,1,0,1,1,0
+CUST-100869,18,66.97,0,0,Month-to-month,Fiber,Electronic check,West,0,1,0,0,1,0
+CUST-100870,12,51.66,3,1,One year,DSL,Bank transfer,North,1,0,0,1,0,1
+CUST-100871,38,18.0,0,1,Month-to-month,Fiber,Electronic check,South,0,1,1,0,1,1
+CUST-100872,7,34.09,0,1,Two year,DSL,Electronic check,North,0,0,0,0,1,0
+CUST-100873,18,50.18,0,4,Month-to-month,Fiber,Electronic check,South,0,0,1,1,0,1
+CUST-100874,16,46.57,4,0,One year,Fiber,Electronic check,West,0,1,1,0,1,0
+CUST-100875,6,74.94,2,0,Two year,Fiber,Mailed check,South,1,0,1,1,0,0
+CUST-100876,21,87.48,3,1,Month-to-month,Fiber,Bank transfer,North,1,1,0,1,0,0
+CUST-100878,10,101.81,1,1,One year,Fiber,Bank transfer,North,1,1,1,0,1,0
+CUST-100880,38,64.75,1,3,Month-to-month,Fiber,Electronic check,Central,0,1,1,0,0,1
+CUST-100881,23,66.78,2,0,One year,DSL,Electronic check,North,0,0,1,0,0,0
+CUST-100883,49,70.54,0,1,Month-to-month,DSL,Credit card,South,1,1,0,1,1,0
+CUST-100884,55,71.21,1,2,Month-to-month,Fiber,Mailed check,North,1,0,1,1,0,0
+CUST-100885,13,28.28,2,1,Month-to-month,DSL,Electronic check,West,0,1,1,1,1,0
+CUST-100886,42,46.4,0,0,Month-to-month,DSL,Electronic check,South,0,0,1,1,0,0
+CUST-100888,26,18.19,1,2,Month-to-month,Fiber,Credit card,East,1,1,0,0,0,0
+CUST-100889,13,100.23,1,0,One year,Fiber,Electronic check,East,0,1,0,1,0,0
+CUST-100890,22,79.99,2,1,Month-to-month,Fiber,Credit card,North,1,1,1,1,1,0
+CUST-100891,42,50.06,1,0,Two year,DSL,Bank transfer,South,1,0,0,0,0,0
+CUST-100893,21,113.5,1,2,Month-to-month,Fiber,Credit card,Central,1,1,1,0,1,0
+CUST-100894,10,101.87,2,1,One year,DSL,Electronic check,North,0,0,0,1,1,0
+CUST-100896,12,71.23,1,1,Month-to-month,Fiber,Electronic check,Central,0,1,0,1,1,1
+CUST-100897,4,52.49,1,0,Month-to-month,Fiber,Credit card,South,1,1,1,1,1,0
+CUST-100898,14,71.23,0,1,Month-to-month,DSL,Mailed check,East,1,0,0,1,0,1
+CUST-100900,47,66.11,1,0,Month-to-month,Fiber,Credit card,Central,1,0,1,1,0,1
+CUST-100901,12,111.45,6,2,Month-to-month,DSL,Electronic check,West,0,1,0,1,1,0
+CUST-100902,8,65.71,1,2,Month-to-month,DSL,Electronic check,West,0,0,0,0,0,1
+CUST-100904,64,35.21,1,1,Two year,DSL,Mailed check,South,1,1,0,0,0,0
+CUST-100905,32,71.05,0,0,One year,DSL,Credit card,Central,1,1,0,0,0,0
+CUST-100906,7,49.74,1,1,Month-to-month,Fiber,Bank transfer,North,1,0,0,0,1,0
+CUST-100907,72,73.92,2,1,Month-to-month,Fiber,Bank transfer,North,1,1,1,0,0,0
+CUST-100908,29,29.13,5,2,Month-to-month,Fiber,Electronic check,West,0,1,1,1,1,1
+CUST-100909,44,84.57,3,1,Month-to-month,Fiber,Electronic check,Central,0,0,1,0,0,1
+CUST-100910,5,42.56,2,1,One year,DSL,Credit card,Central,1,1,1,0,0,1
+CUST-100911,72,69.11,3,0,Two year,Fiber,Electronic check,West,0,0,1,1,1,1
+CUST-100912,17,59.88,2,0,Two year,Fiber,Mailed check,South,1,1,1,1,0,0
+CUST-100913,5,109.24,4,0,Two year,Fiber,Electronic check,South,0,1,0,1,0,0
+CUST-100914,27,72.12,1,2,Two year,Fiber,Electronic check,East,0,0,1,1,0,0
+CUST-100915,44,114.69,1,0,Two year,Fiber,Bank transfer,South,1,0,1,1,0,0
+CUST-100916,35,81.46,1,1,Month-to-month,DSL,Credit card,East,1,1,1,0,0,1
+CUST-100917,35,102.21,2,0,Month-to-month,DSL,Credit card,North,1,1,0,0,0,1
+CUST-100918,33,62.99,1,1,Month-to-month,Fiber,Credit card,South,1,1,1,0,0,0
+CUST-100919,25,76.29,1,1,Month-to-month,DSL,Electronic check,Central,0,1,0,1,0,0
+CUST-100920,5,97.25,3,1,Month-to-month,DSL,Mailed check,West,1,0,0,0,1,1
+CUST-100921,19,89.72,1,0,Two year,Fiber,Electronic check,North,0,1,0,1,0,0
+CUST-100922,17,80.74,3,0,One year,DSL,Bank transfer,South,1,0,0,0,0,0
+CUST-100923,55,60.13,2,2,Month-to-month,Fiber,Electronic check,South,0,1,0,1,0,0
+CUST-100924,47,64.19,2,1,Month-to-month,Fiber,Bank transfer,South,1,1,0,0,1,0
+CUST-100925,15,95.3,3,0,Month-to-month,DSL,Electronic check,West,0,0,0,1,0,1
+CUST-100926,39,100.3,0,0,Month-to-month,Fiber,Credit card,Central,1,0,1,1,0,0
+CUST-100927,21,53.77,1,1,Two year,DSL,Credit card,West,1,1,1,0,1,0
+CUST-100930,36,87.91,2,1,Month-to-month,DSL,Credit card,North,1,1,1,0,0,1
+CUST-100931,9,45.69,1,1,Month-to-month,DSL,Electronic check,Central,0,0,0,0,0,0
+CUST-100933,13,81.1,2,0,One year,Fiber,Electronic check,East,0,1,0,0,0,0
+CUST-100934,37,54.92,2,0,One year,Fiber,Electronic check,East,0,1,0,1,0,0
+CUST-100935,47,105.53,2,4,Month-to-month,DSL,Bank transfer,Central,1,0,1,1,0,0
+CUST-100936,47,32.91,0,2,Two year,Fiber,Electronic check,Central,0,1,0,0,0,0
+CUST-100937,4,107.83,2,1,Month-to-month,Fiber,Mailed check,North,1,0,1,0,0,1
+CUST-100938,12,75.65,2,0,Two year,Fiber,Bank transfer,South,1,1,0,0,1,0
+CUST-100939,10,18.24,5,0,Month-to-month,DSL,Credit card,North,1,1,0,0,0,1
+CUST-100940,37,106.21,1,0,Month-to-month,Fiber,Bank transfer,South,1,1,0,1,1,0
+CUST-100941,12,91.33,2,1,Two year,Fiber,Bank transfer,West,1,0,0,0,0,0
+CUST-100942,20,57.72,1,0,Month-to-month,Fiber,Electronic check,South,0,1,1,1,0,1
+CUST-100943,39,44.85,1,2,Month-to-month,Fiber,Credit card,North,1,0,1,1,1,0
+CUST-100944,23,30.34,1,0,Month-to-month,DSL,Electronic check,East,0,1,0,0,0,0
+CUST-100945,29,125.97,4,0,Month-to-month,Fiber,Electronic check,East,0,0,1,1,1,0
+CUST-100946,20,45.84,2,1,One year,DSL,Electronic check,West,0,1,0,1,1,1
+CUST-100947,44,37.67,2,1,Two year,DSL,Bank transfer,North,1,1,0,1,1,0
+CUST-100948,47,74.43,1,1,Two year,Fiber,Mailed check,South,1,0,0,0,0,0
+CUST-100949,33,28.69,0,1,Month-to-month,DSL,Bank transfer,West,1,1,0,1,0,0
+CUST-100950,47,44.44,0,0,Month-to-month,DSL,Electronic check,West,0,1,1,1,0,0
+CUST-100951,72,91.88,3,2,Month-to-month,DSL,Mailed check,Central,1,0,1,1,1,1
+CUST-100952,38,79.14,4,1,Month-to-month,Fiber,Mailed check,Central,1,0,0,1,0,0
+CUST-100953,22,58.73,1,1,Month-to-month,Fiber,Electronic check,Central,0,0,1,1,0,0
+CUST-100955,51,57.38,0,0,Two year,DSL,Bank transfer,Central,1,0,0,0,0,0
+CUST-100958,29,54.07,3,0,Month-to-month,Fiber,Bank transfer,South,1,0,0,1,0,0
+CUST-100959,22,53.34,1,1,Month-to-month,DSL,Electronic check,East,0,0,0,0,0,0
+CUST-100960,10,50.58,3,0,Month-to-month,Fiber,Electronic check,West,0,0,0,1,0,1
+CUST-100961,26,93.05,2,1,Month-to-month,DSL,Electronic check,South,0,1,0,1,0,1
+CUST-100962,58,86.48,0,2,Month-to-month,Fiber,Mailed check,North,1,1,1,1,0,0
+CUST-100963,32,45.62,1,1,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,1,0
+CUST-100964,8,39.33,3,1,Two year,DSL,Bank transfer,East,1,1,1,1,0,0
+CUST-100965,36,64.23,1,1,Month-to-month,DSL,Electronic check,Central,0,0,0,0,0,1
+CUST-100966,18,119.73,1,1,Two year,DSL,Credit card,South,1,1,0,0,1,0
+CUST-100967,72,43.34,0,1,Month-to-month,Fiber,Electronic check,Central,0,1,1,0,1,0
+CUST-100968,34,64.13,0,2,Month-to-month,Fiber,Bank transfer,West,1,0,1,1,0,1
+CUST-100970,38,65.39,0,3,Month-to-month,Fiber,Mailed check,West,1,1,0,1,0,0
+CUST-100971,27,57.0,1,1,Month-to-month,Fiber,Electronic check,South,0,1,0,1,0,0
+CUST-100972,54,95.72,2,1,Month-to-month,DSL,Mailed check,Central,1,1,1,0,1,1
+CUST-100973,15,78.91,0,2,Two year,Fiber,Credit card,Central,1,1,1,0,0,0
+CUST-100974,34,88.3,0,1,Month-to-month,DSL,Credit card,West,1,1,1,1,0,0
+CUST-100975,5,82.15,2,0,One year,Fiber,Electronic check,Central,0,1,1,1,1,1
+CUST-100976,25,89.45,1,0,Month-to-month,DSL,Bank transfer,Central,1,0,0,1,0,1
+CUST-100979,31,123.8,3,2,Month-to-month,DSL,Bank transfer,Central,1,0,1,0,0,1
+CUST-100980,33,97.22,2,2,Two year,Fiber,Mailed check,North,1,1,0,1,0,0
+CUST-100981,15,51.93,0,2,One year,DSL,Mailed check,East,1,1,1,0,0,0
+CUST-100982,26,88.34,3,0,One year,DSL,Credit card,Central,1,1,1,0,0,0
+CUST-100983,50,85.05,3,4,Month-to-month,DSL,Electronic check,Central,0,1,0,1,0,0
+CUST-100984,69,114.09,1,2,Month-to-month,DSL,Bank transfer,South,1,1,0,0,1,0
+CUST-100985,26,44.79,3,0,Two year,DSL,Mailed check,North,1,1,1,0,0,1
+CUST-100986,51,81.39,2,0,Month-to-month,DSL,Electronic check,South,0,1,1,1,1,0
+CUST-100987,11,51.65,0,3,Month-to-month,DSL,Mailed check,Central,1,0,0,0,0,0
+CUST-100988,17,80.3,1,1,Month-to-month,Fiber,Credit card,East,1,0,1,1,0,0
+CUST-100989,28,62.85,2,2,One year,Fiber,Mailed check,North,1,1,0,1,1,0
+CUST-100990,22,79.51,2,0,One year,DSL,Electronic check,North,0,0,0,0,0,0
+CUST-100991,20,34.15,0,0,One year,Fiber,Bank transfer,South,1,1,1,0,0,0
+CUST-100992,47,87.04,0,0,One year,DSL,Credit card,South,1,1,0,1,1,0
+CUST-100993,10,72.95,6,1,Month-to-month,DSL,Credit card,North,1,1,0,1,0,1
+CUST-100994,10,71.65,1,1,Two year,Fiber,Bank transfer,East,1,1,1,1,0,1
+CUST-100995,7,114.81,3,1,Month-to-month,DSL,Mailed check,East,1,1,0,0,0,1
+CUST-100996,29,58.82,2,0,One year,DSL,Bank transfer,North,1,0,0,1,0,0
+CUST-100997,18,76.21,2,1,Month-to-month,DSL,Credit card,South,1,1,0,0,0,1
+CUST-100998,44,70.41,1,1,Two year,Fiber,Credit card,West,1,1,0,0,0,0
+CUST-100999,27,72.75,1,0,Month-to-month,DSL,Credit card,Central,1,1,0,0,1,0
+CUST-101000,15,121.32,2,1,Month-to-month,Fiber,Mailed check,Central,1,0,0,0,0,0
+CUST-101001,13,69.53,2,0,Month-to-month,DSL,Electronic check,East,0,1,1,0,0,0
+CUST-101003,21,112.9,2,0,Month-to-month,DSL,Electronic check,Central,0,1,1,0,1,1
+CUST-101004,8,60.62,3,0,One year,DSL,Electronic check,Central,0,0,0,1,1,1
+CUST-101005,48,29.48,3,0,Month-to-month,DSL,Mailed check,South,1,1,0,0,0,0
+CUST-101006,18,50.22,3,1,Two year,Fiber,Bank transfer,East,1,1,1,0,0,0
+CUST-101007,6,38.08,0,2,Month-to-month,DSL,Credit card,North,1,1,1,0,0,0
+CUST-101008,54,24.8,2,1,One year,DSL,Credit card,Central,1,1,1,1,1,0
+CUST-101009,21,59.29,2,0,Month-to-month,Fiber,Credit card,West,1,1,0,1,1,0
+CUST-101011,15,96.33,2,3,One year,DSL,Bank transfer,West,1,0,0,1,0,1
+CUST-101015,4,89.24,2,0,Month-to-month,DSL,Electronic check,Central,0,0,0,0,0,0
+CUST-101016,55,101.39,0,0,One year,DSL,Electronic check,East,0,0,0,1,0,0
+CUST-101017,14,77.47,1,0,Two year,Fiber,Credit card,Central,1,1,1,1,0,0
+CUST-101018,29,78.14,2,2,Month-to-month,DSL,Bank transfer,North,1,1,1,1,1,0
+CUST-101019,33,37.65,0,0,Month-to-month,DSL,Credit card,East,1,0,0,1,0,0
+CUST-101020,49,93.31,0,1,Two year,DSL,Credit card,South,1,0,1,1,1,0
+CUST-101021,28,110.74,3,2,One year,DSL,Credit card,Central,1,0,0,1,0,0
+CUST-101022,22,75.75,0,0,Two year,Fiber,Electronic check,East,0,0,1,0,0,0
+CUST-101023,45,53.74,2,0,Month-to-month,Fiber,Credit card,West,1,0,1,1,0,0
+CUST-101024,32,64.11,0,1,One year,Fiber,Credit card,North,1,0,1,1,0,0
+CUST-101025,20,57.91,0,0,Month-to-month,Fiber,Credit card,West,1,1,1,1,0,1
+CUST-101026,56,59.35,1,0,Two year,Fiber,Electronic check,North,0,1,0,0,0,0
+CUST-101027,34,83.55,1,1,Month-to-month,Fiber,Electronic check,South,0,0,0,1,1,0
+CUST-101028,8,74.71,1,2,One year,DSL,Credit card,South,1,0,1,0,1,0
+CUST-101029,63,92.09,1,2,Month-to-month,Fiber,Electronic check,North,0,1,1,0,0,1
+CUST-101030,15,76.9,0,1,Month-to-month,Fiber,Mailed check,East,1,1,1,0,0,0
+CUST-101031,49,47.26,1,1,One year,Fiber,Mailed check,South,1,0,1,0,1,0
+CUST-101032,6,55.98,1,0,Month-to-month,Fiber,Electronic check,East,0,1,0,0,0,1
+CUST-101033,45,54.49,3,2,Two year,Fiber,Electronic check,West,0,0,0,0,0,0
+CUST-101034,8,63.52,1,2,Month-to-month,DSL,Credit card,North,1,1,0,0,1,0
+CUST-101035,27,111.07,3,1,One year,DSL,Credit card,West,1,1,1,0,0,0
+CUST-101036,33,114.92,3,2,Month-to-month,Fiber,Credit card,South,1,0,1,0,0,1
+CUST-101037,20,88.08,5,2,Month-to-month,DSL,Electronic check,South,0,0,1,1,0,1
+CUST-101038,24,70.85,0,0,Month-to-month,Fiber,Electronic check,East,0,1,1,1,1,1
+CUST-101039,10,35.32,2,2,Month-to-month,Fiber,Mailed check,West,1,1,0,0,0,0
+CUST-101040,42,73.28,5,0,Month-to-month,DSL,Mailed check,West,1,1,0,1,0,0
+CUST-101041,28,49.04,3,0,One year,DSL,Electronic check,North,0,1,0,1,0,1
+CUST-101042,12,107.13,0,0,One year,DSL,Credit card,East,1,0,0,1,0,0
+CUST-101043,29,29.45,3,0,One year,Fiber,Credit card,South,1,1,1,0,0,1
+CUST-101044,30,77.23,4,1,Month-to-month,Fiber,Mailed check,South,1,0,1,1,1,0
+CUST-101045,25,47.02,2,4,Month-to-month,Fiber,Mailed check,Central,1,0,1,0,1,1
+CUST-101048,42,92.53,2,2,Two year,Fiber,Electronic check,East,0,0,1,0,0,0
+CUST-101049,35,66.54,5,0,Month-to-month,DSL,Mailed check,South,1,1,0,0,0,0
+CUST-101050,34,86.27,3,0,One year,DSL,Mailed check,West,1,0,1,0,1,0
+CUST-101051,28,52.1,3,1,Month-to-month,DSL,Bank transfer,East,1,1,1,1,0,0
+CUST-101052,45,73.89,2,0,Month-to-month,Fiber,Credit card,West,1,1,0,0,0,1
+CUST-101053,15,92.05,2,2,Month-to-month,Fiber,Electronic check,South,0,1,1,0,0,1
+CUST-101054,12,75.97,2,0,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,0,1
+CUST-101055,72,55.3,0,2,One year,DSL,Electronic check,West,0,0,0,0,1,0
+CUST-101056,14,61.3,3,1,Two year,Fiber,Electronic check,South,0,0,0,0,0,0
+CUST-101058,20,41.8,5,2,Month-to-month,DSL,Credit card,Central,1,1,1,0,1,0
+CUST-101059,26,45.34,1,0,One year,Fiber,Credit card,East,1,1,0,0,1,0
+CUST-101060,45,82.44,2,1,Two year,DSL,Bank transfer,North,1,0,1,1,1,0
+CUST-101061,18,57.46,1,1,One year,Fiber,Mailed check,East,1,0,1,1,1,0
+CUST-101063,24,100.42,5,1,One year,Fiber,Mailed check,South,1,0,0,0,1,0
+CUST-101065,6,63.21,2,0,Two year,DSL,Credit card,East,1,1,0,1,1,0
+CUST-101066,8,53.13,4,0,Month-to-month,DSL,Mailed check,Central,1,1,0,0,0,0
+CUST-101067,53,60.86,0,0,One year,Fiber,Electronic check,South,0,0,0,0,0,1
+CUST-101068,39,46.77,2,1,Month-to-month,DSL,Electronic check,East,0,1,1,1,1,0
+CUST-101069,23,85.14,1,0,Month-to-month,Fiber,Electronic check,North,0,0,1,0,1,1
+CUST-101070,34,70.66,2,1,Two year,DSL,Credit card,West,1,1,0,0,0,0
+CUST-101071,40,91.61,0,0,One year,Fiber,Electronic check,Central,0,1,0,0,0,1
+CUST-101072,14,53.38,1,2,Month-to-month,Fiber,Electronic check,West,0,1,1,1,0,1
+CUST-101073,10,119.19,2,2,Two year,Fiber,Electronic check,East,0,0,1,0,0,1
+CUST-101074,50,22.29,2,0,Two year,Fiber,Credit card,North,1,1,1,0,1,0
+CUST-101076,35,110.07,4,1,Month-to-month,DSL,Bank transfer,Central,1,0,1,1,1,0
+CUST-101077,27,79.38,0,0,Month-to-month,Fiber,Electronic check,North,0,1,0,1,0,1
+CUST-101078,47,76.19,0,2,One year,DSL,Electronic check,South,0,0,1,1,0,1
+CUST-101079,36,78.35,1,0,Month-to-month,Fiber,Credit card,Central,1,1,0,1,0,0
+CUST-101080,34,81.71,0,1,Month-to-month,DSL,Electronic check,East,0,0,1,0,0,0
+CUST-101081,11,75.19,0,0,Two year,DSL,Electronic check,North,0,1,0,0,1,1
+CUST-101082,41,44.82,0,0,Two year,Fiber,Bank transfer,North,1,0,1,1,0,0
+CUST-101083,32,87.64,2,1,Two year,DSL,Electronic check,East,0,1,1,1,0,1
+CUST-101085,27,102.28,1,0,One year,DSL,Credit card,Central,1,0,0,1,1,0
+CUST-101086,9,110.34,3,0,One year,Fiber,Mailed check,Central,1,1,1,0,0,1
+CUST-101087,21,75.93,0,1,One year,Fiber,Electronic check,East,0,0,1,0,0,0
+CUST-101088,72,38.54,0,1,Month-to-month,DSL,Electronic check,East,0,1,1,0,0,0
+CUST-101089,10,110.54,2,0,Month-to-month,Fiber,Bank transfer,Central,1,1,0,1,1,0
+CUST-101090,6,43.56,0,2,Month-to-month,DSL,Electronic check,West,0,1,0,1,0,0
+CUST-101091,8,76.11,1,0,One year,Fiber,Electronic check,South,0,0,1,1,0,0
+CUST-101092,21,61.84,2,2,Month-to-month,DSL,Bank transfer,West,1,1,0,1,0,1
+CUST-101093,38,57.66,5,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,0,0,0
+CUST-101094,24,86.34,1,1,One year,Fiber,Credit card,South,1,1,0,1,0,1
+CUST-101096,37,80.32,3,1,Month-to-month,DSL,Electronic check,South,0,0,0,1,0,0
+CUST-101097,3,48.42,0,1,One year,DSL,Mailed check,East,1,0,1,0,0,0
+CUST-101099,15,49.53,1,1,Month-to-month,Fiber,Electronic check,West,0,0,0,1,0,1
+CUST-101100,49,63.22,1,2,Month-to-month,Fiber,Bank transfer,Central,1,1,0,0,0,0
+CUST-101101,25,65.15,3,0,Month-to-month,Fiber,Electronic check,South,0,0,1,0,0,1
+CUST-101102,26,112.26,1,0,One year,Fiber,Credit card,South,1,0,0,1,0,0
+CUST-101103,7,61.77,2,0,Two year,Fiber,Credit card,West,1,1,0,1,1,0
+CUST-101105,44,101.48,1,1,One year,Fiber,Credit card,Central,1,1,1,1,1,0
+CUST-101106,31,78.78,5,0,Month-to-month,Fiber,Credit card,West,1,1,0,1,0,0
+CUST-101107,38,64.86,3,1,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-101108,23,57.51,1,0,Two year,Fiber,Mailed check,West,1,1,0,0,1,0
+CUST-101109,44,45.27,2,0,Month-to-month,Fiber,Bank transfer,Central,1,1,0,1,0,1
+CUST-101110,7,114.51,0,0,Month-to-month,DSL,Electronic check,North,0,1,0,1,0,0
+CUST-101111,20,69.24,1,1,Month-to-month,Fiber,Mailed check,East,1,1,1,0,0,0
+CUST-101112,34,26.29,1,0,One year,DSL,Electronic check,North,0,1,0,1,0,0
+CUST-101113,5,75.87,1,0,Two year,DSL,Credit card,East,1,1,1,0,1,0
+CUST-101115,72,71.75,0,0,Month-to-month,DSL,Credit card,South,1,0,1,1,1,0
+CUST-101116,25,46.36,2,1,Month-to-month,Fiber,Mailed check,Central,1,0,0,1,1,0
+CUST-101117,4,44.21,5,1,One year,Fiber,Electronic check,West,0,1,0,0,0,0
+CUST-101118,25,45.98,2,1,Month-to-month,Fiber,Credit card,East,1,1,1,1,1,0
+CUST-101120,11,66.28,3,3,One year,DSL,Electronic check,North,0,1,1,1,1,0
+CUST-101121,50,27.71,3,0,Month-to-month,Fiber,Mailed check,West,1,1,1,0,0,1
+CUST-101122,15,77.22,1,0,Two year,Fiber,Bank transfer,North,1,1,0,0,0,0
+CUST-101123,15,71.38,0,2,Month-to-month,DSL,Electronic check,South,0,1,1,0,0,1
+CUST-101124,8,57.23,2,1,Month-to-month,DSL,Electronic check,North,0,0,0,1,0,0
+CUST-101125,18,43.51,2,2,Month-to-month,DSL,Electronic check,East,0,1,1,0,1,0
+CUST-101126,27,42.47,4,0,Month-to-month,DSL,Electronic check,West,0,1,1,0,0,0
+CUST-101127,15,94.08,4,0,One year,DSL,Electronic check,West,0,1,0,1,0,0
+CUST-101128,72,73.94,3,1,One year,DSL,Mailed check,East,1,0,1,0,1,0
+CUST-101129,9,79.49,2,1,Two year,Fiber,Electronic check,Central,0,0,1,1,0,0
+CUST-101130,9,73.87,2,0,Two year,Fiber,Electronic check,South,0,0,0,0,0,0
+CUST-101132,72,56.76,2,0,Month-to-month,DSL,Bank transfer,North,1,0,1,0,0,1
+CUST-101133,39,63.06,2,4,One year,Fiber,Electronic check,North,0,1,0,1,0,0
+CUST-101134,15,95.96,3,2,Two year,DSL,Electronic check,East,0,0,0,1,0,0
+CUST-101135,15,101.95,0,1,Month-to-month,Fiber,Electronic check,East,0,1,1,0,0,1
+CUST-101136,9,38.67,4,0,Month-to-month,DSL,Credit card,Central,1,0,1,1,0,1
+CUST-101137,17,63.0,1,0,Month-to-month,Fiber,Electronic check,North,0,1,0,0,0,0
+CUST-101138,20,88.14,0,1,Month-to-month,DSL,Electronic check,South,0,1,1,0,0,0
+CUST-101139,37,113.17,1,1,One year,DSL,Mailed check,Central,1,1,0,1,0,0
+CUST-101140,32,110.77,0,1,Month-to-month,Fiber,Electronic check,North,0,1,0,1,1,0
+CUST-101141,16,48.9,1,0,One year,Fiber,Electronic check,East,0,0,0,1,0,0
+CUST-101142,61,98.6,3,0,Two year,DSL,Electronic check,North,0,1,0,1,0,0
+CUST-101143,13,69.41,0,1,Two year,Fiber,Bank transfer,East,1,1,1,1,0,0
+CUST-101144,6,93.07,1,0,Month-to-month,Fiber,Bank transfer,Central,1,1,0,0,1,0
+CUST-101145,28,86.92,2,0,Month-to-month,DSL,Bank transfer,South,1,0,0,0,0,0
+CUST-101146,47,37.66,2,0,One year,Fiber,Credit card,South,1,0,1,1,1,0
+CUST-101147,22,81.2,0,2,One year,Fiber,Electronic check,East,0,0,1,0,0,0
+CUST-101148,7,92.14,2,2,Month-to-month,Fiber,Credit card,West,1,1,1,0,1,1
+CUST-101149,26,67.52,0,0,Two year,DSL,Bank transfer,Central,1,1,1,1,0,0
+CUST-101150,28,62.09,3,0,Month-to-month,Fiber,Credit card,North,1,1,1,1,0,1
+CUST-101151,31,30.28,1,0,Two year,Fiber,Bank transfer,East,1,1,1,0,0,0
+CUST-101152,26,84.41,2,2,Month-to-month,Fiber,Electronic check,West,0,1,1,1,0,1
+CUST-101153,52,73.01,1,0,Month-to-month,Fiber,Electronic check,North,0,0,1,0,0,0
+CUST-101154,9,45.87,2,1,Month-to-month,Fiber,Mailed check,Central,1,1,1,1,1,1
+CUST-101156,3,71.71,4,0,Month-to-month,Fiber,Mailed check,East,1,1,0,1,1,0
+CUST-101157,7,54.59,1,2,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,1,0
+CUST-101158,42,68.06,3,1,Month-to-month,DSL,Electronic check,West,0,1,0,0,0,0
+CUST-101159,18,26.0,2,0,One year,Fiber,Credit card,Central,1,0,1,0,0,0
+CUST-101160,64,100.39,0,2,Month-to-month,Fiber,Bank transfer,West,1,0,0,1,0,0
+CUST-101162,63,41.62,2,1,Two year,DSL,Electronic check,West,0,0,1,1,0,0
+CUST-101163,11,18.0,4,0,Month-to-month,DSL,Bank transfer,West,1,1,0,0,0,0
+CUST-101164,20,92.7,1,0,Month-to-month,Fiber,Credit card,South,1,0,1,0,0,1
+CUST-101165,4,81.39,2,0,Two year,Fiber,Bank transfer,North,1,0,1,1,0,0
+CUST-101166,58,73.06,2,1,Two year,Fiber,Bank transfer,West,1,1,1,1,1,0
+CUST-101167,22,88.73,1,0,Month-to-month,Fiber,Mailed check,East,1,0,0,0,0,1
+CUST-101168,72,88.66,0,0,One year,Fiber,Electronic check,West,0,0,1,0,0,1
+CUST-101169,49,72.67,2,1,Month-to-month,DSL,Bank transfer,North,1,0,0,0,0,0
+CUST-101170,19,61.9,1,0,Month-to-month,Fiber,Credit card,East,1,1,1,1,1,0
+CUST-101171,12,57.99,3,0,One year,DSL,Mailed check,Central,1,1,0,1,1,0
+CUST-101172,43,78.1,3,2,Month-to-month,Fiber,Mailed check,Central,1,0,0,1,0,1
+CUST-101173,24,101.53,6,2,One year,Fiber,Mailed check,Central,1,0,0,1,1,0
+CUST-101174,12,65.53,0,2,Month-to-month,DSL,Mailed check,South,1,1,1,1,0,0
+CUST-101175,25,103.44,1,1,One year,DSL,Credit card,North,1,1,1,1,0,0
+CUST-101176,3,76.96,3,2,Month-to-month,Fiber,Bank transfer,East,1,1,1,1,0,1
+CUST-101177,31,77.14,3,3,Month-to-month,DSL,Electronic check,East,0,1,1,0,1,1
+CUST-101178,35,125.72,0,0,Month-to-month,Fiber,Mailed check,South,1,0,0,0,0,0
+CUST-101179,8,107.66,1,0,Month-to-month,Fiber,Mailed check,North,1,1,1,1,0,0
+CUST-101180,53,108.29,1,0,One year,DSL,Electronic check,North,0,1,0,1,0,1
+CUST-101181,45,48.86,1,3,Month-to-month,Fiber,Mailed check,South,1,0,1,1,1,0
+CUST-101182,29,120.61,0,4,Month-to-month,Fiber,Credit card,West,1,1,1,0,1,1
+CUST-101183,10,66.03,2,0,Month-to-month,Fiber,Bank transfer,North,1,0,0,1,0,1
+CUST-101184,37,62.54,0,0,Month-to-month,Fiber,Electronic check,North,0,1,0,0,0,1
+CUST-101185,17,18.0,1,0,Two year,Fiber,Bank transfer,South,1,1,1,0,0,0
+CUST-101186,27,75.83,1,0,Month-to-month,Fiber,Bank transfer,Central,1,0,1,1,1,0
+CUST-101188,6,77.8,7,0,Month-to-month,DSL,Bank transfer,East,1,1,1,0,0,0
+CUST-101189,4,40.12,2,0,One year,Fiber,Bank transfer,North,1,1,1,1,0,0
+CUST-101190,16,111.14,1,2,Month-to-month,Fiber,Credit card,North,1,0,0,1,0,0
+CUST-101191,72,81.24,1,3,Month-to-month,DSL,Electronic check,Central,0,1,0,0,0,1
+CUST-101192,72,122.72,1,2,Two year,Fiber,Electronic check,East,0,1,1,0,0,0
+CUST-101193,30,43.45,1,1,Two year,DSL,Mailed check,North,1,1,0,1,1,0
+CUST-101194,46,105.18,1,0,Two year,DSL,Electronic check,Central,0,0,1,1,1,0
+CUST-101195,23,24.73,1,4,Month-to-month,Fiber,Mailed check,East,1,0,0,1,0,0
+CUST-101196,25,72.99,2,2,Month-to-month,Fiber,Credit card,South,1,0,1,0,0,0
+CUST-101197,20,52.84,3,0,One year,Fiber,Electronic check,East,0,0,0,1,0,1
+CUST-101198,50,57.25,2,1,Month-to-month,Fiber,Mailed check,South,1,0,1,1,0,0
+CUST-101199,65,55.6,3,2,One year,Fiber,Credit card,Central,1,1,0,0,0,0
+CUST-101200,25,46.05,3,3,Month-to-month,DSL,Mailed check,West,1,1,1,1,0,0
+CUST-101201,25,37.77,0,2,Month-to-month,Fiber,Mailed check,North,1,0,0,0,0,0
+CUST-101202,21,57.38,0,0,Two year,DSL,Bank transfer,West,1,0,1,1,1,0
+CUST-101203,66,70.78,2,0,One year,DSL,Electronic check,North,0,0,0,0,0,0
+CUST-101204,42,95.93,1,0,Month-to-month,Fiber,Electronic check,East,0,0,1,0,0,0
+CUST-101205,10,75.09,2,1,Month-to-month,Fiber,Bank transfer,West,1,0,1,0,0,1
+CUST-101206,72,96.0,4,2,One year,Fiber,Mailed check,North,1,1,0,0,1,0
+CUST-101208,61,57.61,0,3,Month-to-month,Fiber,Electronic check,South,0,1,0,0,0,1
+CUST-101209,47,85.06,3,3,Month-to-month,DSL,Credit card,West,1,0,1,1,0,0
+CUST-101210,25,76.24,3,0,One year,DSL,Electronic check,East,0,0,0,0,0,0
+CUST-101211,24,47.33,4,1,Two year,DSL,Bank transfer,North,1,0,0,0,0,0
+CUST-101213,10,55.25,1,0,Month-to-month,DSL,Bank transfer,South,1,0,0,1,0,0
+CUST-101214,72,49.34,0,1,Month-to-month,DSL,Electronic check,Central,0,0,0,0,0,0
+CUST-101215,24,79.69,0,3,Month-to-month,DSL,Electronic check,Central,0,1,0,1,0,1
+CUST-101216,10,68.15,2,2,Month-to-month,DSL,Mailed check,North,1,1,1,0,0,1
+CUST-101217,70,55.45,1,1,Month-to-month,DSL,Bank transfer,West,1,0,1,0,1,0
+CUST-101219,34,42.32,3,2,Month-to-month,Fiber,Mailed check,West,1,0,1,1,1,1
+CUST-101220,72,58.5,1,1,Month-to-month,DSL,Mailed check,East,1,0,0,1,0,1
+CUST-101221,38,94.4,1,2,Month-to-month,Fiber,Electronic check,South,0,1,1,0,1,0
+CUST-101222,14,73.87,2,1,Two year,DSL,Bank transfer,West,1,1,1,0,0,0
+CUST-101223,38,91.01,1,0,One year,Fiber,Electronic check,South,0,0,0,0,1,0
+CUST-101224,11,80.39,2,0,Month-to-month,DSL,Mailed check,Central,1,1,1,0,0,0
+CUST-101225,17,53.31,1,1,Two year,DSL,Electronic check,Central,0,1,0,1,0,1
+CUST-101227,46,45.76,2,2,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-101228,15,51.89,1,0,Two year,DSL,Mailed check,Central,1,1,0,0,0,0
+CUST-101229,21,50.03,3,0,Month-to-month,DSL,Mailed check,North,1,0,0,0,0,0
+CUST-101232,24,121.09,1,1,Month-to-month,DSL,Credit card,South,1,1,0,1,0,0
+CUST-101233,72,49.67,1,0,One year,DSL,Electronic check,East,0,0,1,1,1,0
+CUST-101234,17,106.34,0,1,Month-to-month,Fiber,Electronic check,West,0,1,0,0,0,0
+CUST-101236,61,62.43,2,1,Month-to-month,Fiber,Mailed check,South,1,1,0,1,0,1
+CUST-101237,36,79.37,1,3,Month-to-month,DSL,Bank transfer,South,1,0,1,0,0,0
+CUST-101238,72,97.78,0,2,Month-to-month,DSL,Credit card,South,1,0,1,1,1,0
+CUST-101239,59,66.59,1,0,Month-to-month,Fiber,Bank transfer,West,1,0,1,1,1,0
+CUST-101240,8,64.73,2,0,Two year,Fiber,Bank transfer,South,1,1,1,0,0,0
+CUST-101241,24,52.94,2,0,Month-to-month,Fiber,Electronic check,South,0,1,0,1,0,1
+CUST-101242,30,18.0,3,1,Month-to-month,DSL,Electronic check,Central,0,0,0,0,0,1
+CUST-101243,28,69.69,0,2,Month-to-month,Fiber,Credit card,East,1,1,0,0,0,1
+CUST-101244,21,50.96,1,2,Month-to-month,Fiber,Electronic check,Central,0,0,0,1,0,0
+CUST-101245,28,42.19,0,0,Month-to-month,DSL,Electronic check,West,0,0,0,0,1,1
+CUST-101246,29,78.13,2,1,One year,Fiber,Credit card,Central,1,0,0,0,0,0
+CUST-101247,15,33.17,2,2,Month-to-month,DSL,Credit card,North,1,1,1,1,0,0
+CUST-101248,50,87.35,2,3,Two year,Fiber,Bank transfer,Central,1,1,0,1,1,0
+CUST-101249,71,79.61,1,1,Two year,Fiber,Mailed check,Central,1,1,1,0,0,0
+CUST-101250,40,58.4,2,1,Month-to-month,Fiber,Credit card,North,1,0,1,1,0,0
+CUST-101251,32,66.48,2,1,Month-to-month,Fiber,Electronic check,South,0,0,0,0,0,0
+CUST-101252,23,39.43,2,1,Month-to-month,Fiber,Mailed check,East,1,1,1,1,0,0
+CUST-101253,30,86.01,3,1,One year,DSL,Electronic check,East,0,0,1,0,0,0
+CUST-101254,32,72.5,1,2,Month-to-month,Fiber,Credit card,West,1,1,0,0,0,0
+CUST-101255,10,74.28,1,4,Two year,Fiber,Credit card,West,1,1,1,1,0,0
+CUST-101256,48,80.05,1,4,One year,Fiber,Bank transfer,South,1,1,0,0,1,0
+CUST-101257,17,52.58,2,1,One year,Fiber,Electronic check,West,0,0,0,1,0,1
+CUST-101259,27,90.98,1,0,Two year,Fiber,Electronic check,East,0,1,1,1,0,0
+CUST-101261,40,55.15,1,0,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,1
+CUST-101262,8,77.82,3,0,Month-to-month,Fiber,Electronic check,Central,0,1,1,0,0,1
+CUST-101263,59,98.19,3,0,Two year,Fiber,Bank transfer,Central,1,1,0,0,0,0
+CUST-101264,13,95.33,2,1,Month-to-month,Fiber,Mailed check,North,1,0,0,1,0,1
+CUST-101265,17,54.45,0,0,One year,DSL,Credit card,Central,1,0,0,1,0,0
+CUST-101266,18,32.27,0,0,Month-to-month,Fiber,Electronic check,North,0,1,1,1,0,0
+CUST-101267,5,36.39,2,0,Two year,Fiber,Credit card,Central,1,0,1,1,1,0
+CUST-101268,28,60.52,0,0,Month-to-month,DSL,Electronic check,Central,0,0,0,0,0,0
+CUST-101269,51,103.1,1,0,Month-to-month,DSL,Electronic check,South,0,0,1,0,1,0
+CUST-101272,24,53.19,2,0,Month-to-month,DSL,Bank transfer,South,1,0,1,0,0,0
+CUST-101273,41,55.24,1,1,One year,DSL,Electronic check,East,0,1,1,0,0,0
+CUST-101274,22,67.73,1,0,Month-to-month,DSL,Electronic check,North,0,0,0,0,0,1
+CUST-101275,54,37.28,3,1,Month-to-month,Fiber,Bank transfer,North,1,1,1,0,0,1
+CUST-101276,23,94.02,2,1,Month-to-month,DSL,Electronic check,East,0,0,0,1,0,1
+CUST-101277,11,64.52,1,1,Month-to-month,Fiber,Bank transfer,West,1,0,0,0,0,0
+CUST-101278,29,127.5,1,0,Two year,DSL,Bank transfer,South,1,1,0,1,0,0
+CUST-101280,28,106.16,2,0,Month-to-month,Fiber,Credit card,North,1,0,1,0,0,0
+CUST-101281,32,101.39,1,1,Month-to-month,DSL,Electronic check,South,0,1,0,0,0,1
+CUST-101283,31,58.52,1,2,One year,Fiber,Electronic check,South,0,0,1,1,0,1
+CUST-101284,20,45.89,1,2,Two year,DSL,Credit card,South,1,1,0,1,0,0
+CUST-101287,7,68.5,1,0,Month-to-month,Fiber,Credit card,South,1,0,1,1,1,0
+CUST-101288,67,29.54,3,2,Month-to-month,Fiber,Electronic check,West,0,1,0,1,0,0
+CUST-101289,19,123.04,0,2,Month-to-month,DSL,Credit card,West,1,1,0,1,0,0
+CUST-101290,32,61.77,2,0,Month-to-month,Fiber,Bank transfer,West,1,1,1,0,0,1
+CUST-101291,21,69.57,1,0,One year,Fiber,Credit card,East,1,0,0,1,1,0
+CUST-101292,68,52.97,3,1,Month-to-month,Fiber,Credit card,Central,1,1,1,0,1,0
+CUST-101293,13,61.59,1,0,Month-to-month,Fiber,Credit card,South,1,1,1,0,0,0
+CUST-101294,26,59.41,4,0,Month-to-month,DSL,Electronic check,Central,0,1,1,1,1,0
+CUST-101295,16,67.93,1,0,Month-to-month,DSL,Credit card,South,1,0,0,0,0,1
+CUST-101296,48,67.65,4,1,Month-to-month,DSL,Credit card,North,1,1,1,0,1,0
+CUST-101297,32,87.32,4,0,Month-to-month,DSL,Bank transfer,Central,1,0,0,0,0,1
+CUST-101298,25,73.45,3,0,One year,Fiber,Electronic check,Central,0,1,0,0,0,1
+CUST-101299,8,84.9,0,0,Month-to-month,Fiber,Credit card,North,1,0,1,1,0,0
+CUST-101300,72,67.76,3,0,Month-to-month,Fiber,Electronic check,East,0,0,0,0,0,1
+CUST-101301,22,73.55,0,0,Month-to-month,Fiber,Mailed check,East,1,0,0,0,1,0
+CUST-101302,11,62.21,4,1,One year,Fiber,Mailed check,South,1,0,1,1,0,0
+CUST-101303,5,92.07,1,0,Month-to-month,Fiber,Electronic check,East,0,1,0,0,0,1
+CUST-101304,7,75.74,3,2,Two year,Fiber,Bank transfer,West,1,1,0,0,0,0
+CUST-101305,25,64.21,1,1,Two year,Fiber,Electronic check,East,0,1,0,0,1,0
+CUST-101306,49,63.49,0,0,One year,DSL,Bank transfer,East,1,1,0,0,1,0
+CUST-101307,30,65.38,3,0,One year,DSL,Credit card,Central,1,0,1,0,0,0
+CUST-101309,25,66.65,1,4,Two year,DSL,Bank transfer,West,1,0,0,0,0,1
+CUST-101310,59,54.59,1,1,Month-to-month,DSL,Electronic check,South,0,1,0,1,0,0
+CUST-101311,19,86.36,0,1,Two year,Fiber,Credit card,Central,1,0,0,1,1,0
+CUST-101312,30,87.87,1,2,Month-to-month,DSL,Credit card,South,1,0,0,0,1,1
+CUST-101313,19,110.81,1,0,Month-to-month,Fiber,Electronic check,Central,0,0,0,0,1,1
+CUST-101314,35,53.51,3,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,0,0,0
+CUST-101315,12,83.99,4,1,One year,Fiber,Mailed check,South,1,0,0,0,1,1
+CUST-101317,9,87.9,2,0,Month-to-month,Fiber,Bank transfer,South,1,1,0,0,1,0
+CUST-101318,17,33.04,3,2,One year,DSL,Mailed check,South,1,0,0,0,0,0
+CUST-101319,23,44.38,2,0,Two year,DSL,Bank transfer,South,1,0,0,0,0,0
+CUST-101320,17,75.97,1,0,Month-to-month,DSL,Electronic check,West,0,1,0,0,1,0
+CUST-101321,17,53.08,1,1,Month-to-month,DSL,Mailed check,South,1,1,1,1,0,1
+CUST-101322,49,49.8,1,1,Month-to-month,DSL,Credit card,East,1,1,1,0,0,0
+CUST-101323,10,56.36,1,0,One year,Fiber,Electronic check,East,0,1,1,1,0,0
+CUST-101324,25,85.51,1,2,Month-to-month,DSL,Bank transfer,North,1,0,0,1,0,0
+CUST-101325,6,45.61,3,0,Two year,DSL,Electronic check,South,0,0,0,0,1,0
+CUST-101326,40,66.7,3,0,Month-to-month,Fiber,Credit card,South,1,1,1,1,1,0
+CUST-101327,29,58.91,3,0,Month-to-month,Fiber,Bank transfer,South,1,0,1,0,1,1
+CUST-101329,10,88.35,3,1,Month-to-month,DSL,Electronic check,South,0,1,0,0,1,1
+CUST-101330,70,23.95,1,0,One year,Fiber,Mailed check,East,1,0,0,0,0,0
+CUST-101331,11,93.08,2,1,Month-to-month,DSL,Credit card,West,1,0,0,1,0,1
+CUST-101332,18,53.34,1,2,Month-to-month,Fiber,Mailed check,West,1,1,1,1,0,1
+CUST-101333,7,73.67,2,1,Two year,Fiber,Mailed check,West,1,1,0,1,1,0
+CUST-101334,72,45.47,3,0,Two year,Fiber,Bank transfer,East,1,0,1,0,1,0
+CUST-101335,33,76.91,4,0,Two year,Fiber,Mailed check,Central,1,1,0,0,1,1
+CUST-101336,33,129.23,1,1,Month-to-month,DSL,Mailed check,Central,1,1,1,0,1,1
+CUST-101337,12,71.05,2,1,One year,Fiber,Electronic check,South,0,0,0,0,0,1
+CUST-101339,18,62.43,1,0,Month-to-month,Fiber,Bank transfer,South,1,0,1,1,0,1
+CUST-101340,15,32.74,1,1,Month-to-month,DSL,Credit card,Central,1,1,0,1,1,1
+CUST-101341,4,102.78,4,0,One year,DSL,Credit card,Central,1,0,0,1,1,0
+CUST-101342,19,75.51,2,2,Month-to-month,DSL,Credit card,West,1,0,0,1,0,0
+CUST-101343,25,42.83,2,0,Month-to-month,DSL,Mailed check,West,1,1,0,1,0,0
+CUST-101346,8,90.37,2,0,Month-to-month,DSL,Credit card,North,1,1,1,1,0,0
+CUST-101347,12,40.38,0,0,Month-to-month,DSL,Bank transfer,East,1,0,0,0,0,0
+CUST-101348,51,94.72,1,0,Month-to-month,Fiber,Mailed check,North,1,0,1,0,1,0
+CUST-101349,50,65.8,5,0,Month-to-month,Fiber,Bank transfer,North,1,1,1,1,0,0
+CUST-101350,32,45.67,2,1,One year,Fiber,Credit card,Central,1,1,0,0,0,1
+CUST-101351,19,56.78,1,0,Two year,Fiber,Credit card,Central,1,1,1,1,1,0
+CUST-101352,53,109.97,2,0,Month-to-month,Fiber,Credit card,West,1,1,0,1,0,0
+CUST-101353,29,34.68,1,0,Month-to-month,Fiber,Mailed check,West,1,1,0,1,0,0
+CUST-101354,51,50.43,2,1,Two year,DSL,Electronic check,South,0,0,1,1,1,0
+CUST-101355,33,90.86,1,0,Month-to-month,Fiber,Mailed check,East,1,0,0,1,0,0
+CUST-101356,4,73.19,1,1,Month-to-month,DSL,Electronic check,West,0,0,0,0,0,0
+CUST-101358,17,91.16,2,4,One year,DSL,Mailed check,South,1,0,1,1,1,1
+CUST-101359,43,92.3,0,0,Month-to-month,Fiber,Mailed check,South,1,0,0,0,0,1
+CUST-101360,15,75.95,2,1,One year,Fiber,Electronic check,Central,0,1,0,0,1,1
+CUST-101361,60,53.3,0,2,Month-to-month,Fiber,Bank transfer,South,1,1,0,1,0,0
+CUST-101362,41,57.0,1,2,One year,DSL,Mailed check,Central,1,1,0,0,0,0
+CUST-101363,56,74.83,0,2,Month-to-month,Fiber,Electronic check,West,0,1,0,1,0,0
+CUST-101365,10,99.87,2,0,Month-to-month,Fiber,Electronic check,East,0,0,1,0,1,0
+CUST-101366,9,108.81,1,2,Month-to-month,DSL,Mailed check,South,1,0,1,1,0,0
+CUST-101367,35,62.34,2,2,Month-to-month,Fiber,Electronic check,North,0,0,1,0,0,1
+CUST-101368,5,76.55,1,2,Month-to-month,DSL,Bank transfer,East,1,1,0,1,1,1
+CUST-101369,5,96.46,2,1,Month-to-month,Fiber,Bank transfer,South,1,1,0,0,0,1
+CUST-101370,14,114.93,0,3,Month-to-month,Fiber,Credit card,North,1,1,0,0,1,1
+CUST-101371,28,105.37,0,1,Two year,Fiber,Electronic check,Central,0,0,0,1,0,0
+CUST-101372,12,26.35,1,3,Month-to-month,Fiber,Credit card,Central,1,1,1,0,0,1
+CUST-101373,50,60.43,2,2,One year,Fiber,Bank transfer,South,1,1,0,0,0,0
+CUST-101376,33,110.79,0,0,One year,Fiber,Electronic check,East,0,1,0,1,0,0
+CUST-101378,45,48.42,2,1,One year,Fiber,Electronic check,East,0,0,0,0,0,1
+CUST-101379,34,64.1,2,0,Month-to-month,Fiber,Mailed check,Central,1,1,0,1,0,1
+CUST-101380,27,50.01,2,1,Month-to-month,DSL,Bank transfer,North,1,0,0,1,0,0
+CUST-101382,5,62.59,2,3,Month-to-month,DSL,Bank transfer,Central,1,1,0,1,1,1
+CUST-101383,72,90.9,0,1,Two year,Fiber,Bank transfer,Central,1,1,1,0,0,0
+CUST-101385,71,18.0,3,1,Month-to-month,Fiber,Credit card,North,1,1,1,1,1,0
+CUST-101387,16,43.32,1,1,Month-to-month,DSL,Electronic check,Central,0,1,0,1,0,1
+CUST-101389,5,72.49,0,1,Month-to-month,Fiber,Electronic check,Central,0,0,0,0,0,0
+CUST-101390,24,42.08,0,2,Two year,Fiber,Electronic check,North,0,0,0,1,1,0
+CUST-101391,5,38.93,2,0,Two year,DSL,Bank transfer,East,1,0,1,0,0,0
+CUST-101392,52,45.69,1,2,Month-to-month,Fiber,Electronic check,West,0,0,0,1,0,1
+CUST-101393,29,41.22,3,1,Month-to-month,DSL,Electronic check,West,0,1,0,0,0,1
+CUST-101395,26,53.67,1,4,Month-to-month,DSL,Bank transfer,South,1,0,0,1,1,1
+CUST-101396,30,84.54,2,3,Month-to-month,Fiber,Credit card,East,1,0,0,0,1,0
+CUST-101397,18,44.25,2,0,Two year,Fiber,Electronic check,East,0,1,0,0,1,0
+CUST-101398,20,59.42,1,1,Month-to-month,Fiber,Bank transfer,Central,1,0,1,1,0,0
+CUST-101399,72,54.92,1,1,Month-to-month,Fiber,Credit card,South,1,0,0,0,1,0
+CUST-101400,48,87.41,3,2,Month-to-month,Fiber,Electronic check,South,0,1,0,1,1,1
+CUST-101401,37,64.3,2,1,Month-to-month,DSL,Electronic check,North,0,0,0,0,0,0
+CUST-101402,16,93.22,1,0,Two year,DSL,Electronic check,North,0,1,0,0,0,0
+CUST-101403,3,40.34,0,0,Month-to-month,DSL,Mailed check,Central,1,0,0,0,0,0
+CUST-101404,34,66.82,3,1,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,0,0
+CUST-101405,26,54.18,1,0,Month-to-month,DSL,Bank transfer,South,1,0,0,0,1,1
+CUST-101406,20,38.57,0,0,Two year,DSL,Credit card,West,1,0,0,0,1,0
+CUST-101407,22,66.38,0,2,Month-to-month,DSL,Electronic check,East,0,1,0,0,0,0
+CUST-101408,8,109.59,2,2,Two year,DSL,Bank transfer,Central,1,0,0,0,0,0
+CUST-101409,11,47.53,0,0,One year,DSL,Electronic check,South,0,1,1,1,0,0
+CUST-101410,49,64.94,2,1,Two year,Fiber,Electronic check,Central,0,1,0,0,1,1
+CUST-101412,44,32.98,2,3,Two year,DSL,Mailed check,West,1,0,0,0,0,0
+CUST-101413,61,49.11,4,1,Two year,Fiber,Credit card,South,1,0,1,1,0,0
+CUST-101414,34,57.2,3,1,Month-to-month,Fiber,Mailed check,West,1,1,0,0,1,1
+CUST-101415,33,58.27,0,0,One year,Fiber,Electronic check,South,0,0,1,1,0,0
+CUST-101416,11,62.58,2,1,Month-to-month,Fiber,Mailed check,Central,1,0,1,0,0,0
+CUST-101417,12,28.44,1,0,Month-to-month,DSL,Electronic check,West,0,1,0,1,0,1
+CUST-101418,17,52.98,0,0,Two year,DSL,Credit card,South,1,0,0,0,1,0
+CUST-101419,7,80.04,2,2,Two year,Fiber,Bank transfer,Central,1,1,1,1,1,0
+CUST-101420,11,35.4,3,0,One year,Fiber,Electronic check,West,0,0,0,0,1,0
+CUST-101421,25,59.48,3,2,Month-to-month,DSL,Mailed check,East,1,0,0,1,1,0
+CUST-101422,16,75.03,1,0,Month-to-month,Fiber,Bank transfer,North,1,0,0,0,0,1
+CUST-101424,48,76.2,1,1,Month-to-month,Fiber,Electronic check,West,0,1,1,0,1,0
+CUST-101425,27,31.49,2,2,Month-to-month,DSL,Electronic check,West,0,0,0,1,0,1
+CUST-101426,33,89.32,2,1,Month-to-month,DSL,Electronic check,Central,0,0,0,1,0,0
+CUST-101427,5,76.78,3,0,Month-to-month,DSL,Mailed check,West,1,0,1,0,0,1
+CUST-101428,48,69.34,0,1,One year,Fiber,Mailed check,South,1,0,1,1,1,1
+CUST-101430,15,60.1,0,1,Two year,DSL,Mailed check,North,1,1,1,0,0,0
+CUST-101431,9,53.17,6,0,One year,DSL,Mailed check,North,1,1,0,0,0,0
+CUST-101432,3,100.94,3,0,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,1
+CUST-101433,26,112.18,4,2,Month-to-month,Fiber,Credit card,Central,1,1,0,1,0,0
+CUST-101434,35,51.36,2,1,Month-to-month,Fiber,Bank transfer,North,1,0,0,0,0,0
+CUST-101435,62,65.27,4,0,Two year,Fiber,Mailed check,East,1,1,1,1,1,1
+CUST-101436,29,93.08,2,0,Month-to-month,Fiber,Mailed check,North,1,1,1,0,1,1
+CUST-101437,11,66.12,1,0,Month-to-month,DSL,Electronic check,East,0,1,0,1,1,1
+CUST-101438,16,82.27,3,1,Two year,Fiber,Credit card,West,1,0,1,1,0,0
+CUST-101439,4,86.73,4,3,Two year,Fiber,Bank transfer,Central,1,1,0,0,1,1
+CUST-101440,17,54.5,1,1,Month-to-month,Fiber,Mailed check,Central,1,1,1,1,0,0
+CUST-101441,23,78.06,0,0,Month-to-month,Fiber,Credit card,South,1,0,1,1,0,0
+CUST-101442,34,67.85,2,1,Month-to-month,Fiber,Credit card,Central,1,1,1,0,0,0
+CUST-101443,41,38.8,0,2,Month-to-month,DSL,Credit card,West,1,0,0,0,0,0
+CUST-101444,33,44.25,1,1,Month-to-month,Fiber,Electronic check,South,0,1,1,0,0,0
+CUST-101445,10,52.34,2,2,Month-to-month,DSL,Electronic check,South,0,0,1,0,0,1
+CUST-101446,8,90.28,1,0,Two year,Fiber,Bank transfer,North,1,1,0,0,0,1
+CUST-101447,39,91.07,0,0,Month-to-month,Fiber,Mailed check,Central,1,1,1,0,0,0
+CUST-101448,3,86.0,0,1,One year,DSL,Bank transfer,South,1,1,0,0,0,1
+CUST-101449,72,78.56,2,1,Month-to-month,Fiber,Credit card,South,1,0,0,0,0,1
+CUST-101450,12,77.91,2,1,One year,Fiber,Electronic check,East,0,0,1,0,0,1
+CUST-101453,36,79.41,1,1,Two year,DSL,Electronic check,West,0,1,0,0,0,0
+CUST-101454,8,34.29,2,1,Month-to-month,Fiber,Bank transfer,North,1,0,0,0,0,1
+CUST-101455,24,49.03,0,3,Month-to-month,DSL,Bank transfer,North,1,0,1,1,0,0
+CUST-101458,8,107.7,1,3,Two year,Fiber,Mailed check,East,1,0,0,1,0,0
+CUST-101459,9,18.0,0,1,Month-to-month,Fiber,Bank transfer,West,1,0,0,1,0,1
+CUST-101460,16,105.56,1,2,One year,Fiber,Electronic check,North,0,0,1,1,0,1
+CUST-101461,19,70.08,2,1,Month-to-month,Fiber,Bank transfer,South,1,1,1,0,0,0
+CUST-101462,34,92.31,2,0,Month-to-month,DSL,Bank transfer,East,1,0,1,1,0,0
+CUST-101463,32,80.16,4,4,Month-to-month,Fiber,Electronic check,South,0,1,1,1,0,1
+CUST-101464,26,102.57,1,0,One year,Fiber,Bank transfer,West,1,0,0,1,1,0
+CUST-101465,44,73.03,0,2,One year,Fiber,Credit card,Central,1,0,0,0,0,0
+CUST-101466,31,35.28,1,1,Month-to-month,Fiber,Electronic check,South,0,0,0,1,0,0
+CUST-101467,33,65.46,2,0,Month-to-month,Fiber,Bank transfer,West,1,0,0,0,0,0
+CUST-101468,9,80.38,5,2,One year,Fiber,Credit card,Central,1,0,0,1,0,0
+CUST-101469,46,62.82,1,0,Month-to-month,Fiber,Credit card,Central,1,1,1,1,1,0
+CUST-101471,27,66.42,0,0,Month-to-month,Fiber,Bank transfer,North,1,1,0,0,0,0
+CUST-101472,41,53.71,1,1,Month-to-month,DSL,Credit card,Central,1,1,1,0,0,0
+CUST-101473,23,41.94,2,1,Month-to-month,Fiber,Bank transfer,Central,1,1,0,1,1,0
+CUST-101474,64,58.6,3,1,Month-to-month,Fiber,Electronic check,South,0,1,1,1,1,0
+CUST-101475,25,72.91,2,0,Month-to-month,Fiber,Electronic check,East,0,1,1,0,1,0
+CUST-101476,22,20.97,3,0,Month-to-month,Fiber,Credit card,East,1,1,1,1,0,0
+CUST-101477,31,49.28,3,4,Two year,Fiber,Mailed check,West,1,1,1,1,0,0
+CUST-101478,72,20.08,1,0,Month-to-month,Fiber,Electronic check,West,0,1,1,0,1,0
+CUST-101479,15,53.19,1,0,Month-to-month,DSL,Electronic check,South,0,1,0,0,0,0
+CUST-101480,30,96.74,2,2,Month-to-month,Fiber,Bank transfer,Central,1,0,1,1,0,1
+CUST-101481,16,39.53,1,1,Month-to-month,Fiber,Mailed check,North,1,0,1,1,1,0
+CUST-101482,22,84.88,3,0,One year,DSL,Credit card,North,1,0,0,1,0,0
+CUST-101483,11,136.37,4,2,Month-to-month,Fiber,Bank transfer,Central,1,0,1,1,1,1
+CUST-101484,32,102.88,0,0,One year,Fiber,Credit card,North,1,0,0,0,1,0
+CUST-101485,24,71.2,2,1,Month-to-month,Fiber,Credit card,Central,1,1,1,1,1,1
+CUST-101486,41,88.6,0,0,Two year,Fiber,Electronic check,South,0,1,0,1,0,1
+CUST-101487,49,35.13,0,3,Month-to-month,Fiber,Bank transfer,South,1,1,1,0,0,1
+CUST-101491,56,94.27,2,1,Two year,Fiber,Bank transfer,North,1,0,1,1,1,0
+CUST-101492,11,54.35,2,0,One year,Fiber,Credit card,East,1,1,1,0,1,0
+CUST-101493,26,72.64,0,1,One year,Fiber,Electronic check,North,0,0,0,0,1,1
+CUST-101494,12,71.82,3,2,Month-to-month,Fiber,Credit card,West,1,1,0,1,1,1
+CUST-101495,72,64.85,1,0,One year,Fiber,Electronic check,North,0,0,1,0,0,1
+CUST-101496,56,66.26,1,3,Two year,Fiber,Mailed check,East,1,0,1,0,1,0
+CUST-101497,35,47.49,3,2,One year,Fiber,Mailed check,South,1,1,0,0,1,1
+CUST-101498,35,74.71,2,0,Month-to-month,Fiber,Mailed check,North,1,1,1,1,0,1
+CUST-101499,13,72.68,4,1,One year,Fiber,Bank transfer,North,1,0,1,1,0,0
+CUST-101500,60,57.44,2,0,One year,DSL,Credit card,East,1,1,0,0,0,0
+CUST-101501,19,83.98,1,1,Two year,Fiber,Electronic check,South,0,1,0,1,1,0
+CUST-101502,14,92.67,3,2,Month-to-month,DSL,Bank transfer,North,1,0,0,1,0,0
+CUST-101503,50,84.26,1,1,Month-to-month,Fiber,Credit card,North,1,0,1,0,0,0
+CUST-101504,17,42.98,1,2,One year,DSL,Credit card,Central,1,1,1,0,0,0
+CUST-101505,14,70.39,1,0,Month-to-month,Fiber,Electronic check,West,0,1,0,1,0,1
+CUST-101506,42,46.13,1,1,One year,Fiber,Credit card,West,1,1,1,0,1,0
+CUST-101507,8,70.32,4,2,Month-to-month,Fiber,Electronic check,Central,0,0,0,1,0,1
+CUST-101508,35,46.22,0,4,Month-to-month,Fiber,Bank transfer,North,1,1,1,0,0,0
+CUST-101509,26,98.65,0,1,One year,DSL,Bank transfer,West,1,1,1,1,1,0
+CUST-101510,40,86.8,2,1,Month-to-month,Fiber,Credit card,West,1,1,1,0,0,0
+CUST-101511,33,95.67,3,0,Month-to-month,Fiber,Electronic check,South,0,0,1,0,0,1
+CUST-101513,28,61.51,5,1,One year,Fiber,Bank transfer,West,1,0,0,1,1,0
+CUST-101514,17,57.79,2,0,Two year,DSL,Electronic check,West,0,1,0,0,1,0
+CUST-101515,24,109.8,2,0,Month-to-month,DSL,Mailed check,South,1,0,1,0,0,1
+CUST-101516,32,64.04,3,0,Month-to-month,Fiber,Bank transfer,West,1,1,0,0,0,0
+CUST-101517,70,35.49,3,2,Two year,Fiber,Bank transfer,West,1,0,1,0,0,0
+CUST-101518,37,92.18,1,2,Month-to-month,Fiber,Electronic check,North,0,0,0,1,0,1
+CUST-101519,12,71.45,0,0,Month-to-month,DSL,Electronic check,East,0,1,0,0,0,0
+CUST-101520,72,104.14,1,1,Month-to-month,Fiber,Credit card,East,1,1,0,1,0,1
+CUST-101521,47,73.83,2,1,Month-to-month,Fiber,Mailed check,South,1,0,0,1,0,0
+CUST-101522,12,67.52,0,1,Two year,Fiber,Electronic check,North,0,1,0,1,1,0
+CUST-101524,7,31.08,6,0,One year,DSL,Electronic check,West,0,0,0,0,0,1
+CUST-101526,23,46.7,2,0,Month-to-month,DSL,Electronic check,East,0,1,1,1,0,1
+CUST-101527,14,18.0,1,1,Month-to-month,DSL,Electronic check,Central,0,1,1,1,1,0
+CUST-101528,6,88.96,3,0,Month-to-month,Fiber,Mailed check,Central,1,0,1,1,0,0
+CUST-101530,38,89.73,2,1,Month-to-month,Fiber,Electronic check,East,0,0,1,0,0,0
+CUST-101531,19,77.34,0,0,Month-to-month,Fiber,Credit card,Central,1,0,0,0,1,0
+CUST-101532,10,82.57,4,2,Month-to-month,DSL,Bank transfer,West,1,0,0,1,1,0
+CUST-101533,26,57.07,2,1,One year,DSL,Electronic check,Central,0,1,0,1,0,0
+CUST-101534,29,49.66,2,0,Month-to-month,Fiber,Mailed check,Central,1,1,1,0,0,0
+CUST-101535,32,70.15,2,0,Month-to-month,Fiber,Electronic check,North,0,1,0,1,1,0
+CUST-101536,25,90.06,1,1,One year,Fiber,Electronic check,West,0,1,0,0,0,1
+CUST-101537,22,66.79,2,0,One year,DSL,Bank transfer,West,1,1,1,0,0,0
+CUST-101538,53,51.15,0,1,One year,Fiber,Mailed check,Central,1,0,0,0,0,0
+CUST-101539,10,39.22,3,0,Month-to-month,DSL,Bank transfer,South,1,1,1,0,0,1
+CUST-101540,20,72.9,2,1,Two year,Fiber,Credit card,Central,1,1,1,1,0,0
+CUST-101541,3,54.7,0,1,Month-to-month,DSL,Electronic check,East,0,0,0,0,0,1
+CUST-101542,18,66.28,0,0,Month-to-month,Fiber,Credit card,South,1,0,0,1,0,0
+CUST-101544,42,57.33,2,0,Month-to-month,Fiber,Electronic check,South,0,1,1,1,0,0
+CUST-101545,4,75.05,4,0,Month-to-month,Fiber,Credit card,Central,1,1,1,0,1,1
+CUST-101546,26,81.31,1,2,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,1
+CUST-101547,72,115.17,3,3,One year,Fiber,Bank transfer,West,1,1,0,1,0,0
+CUST-101548,33,86.19,3,0,Month-to-month,Fiber,Bank transfer,Central,1,1,0,1,0,0
+CUST-101549,8,106.25,1,1,Month-to-month,DSL,Electronic check,South,0,0,1,0,1,1
+CUST-101551,34,29.58,2,0,Month-to-month,DSL,Electronic check,South,0,1,0,1,0,1
+CUST-101552,14,67.65,0,1,Month-to-month,DSL,Credit card,Central,1,1,0,0,0,1
+CUST-101553,29,88.59,0,2,Month-to-month,Fiber,Electronic check,East,0,0,0,0,1,1
+CUST-101554,28,84.83,3,4,Month-to-month,DSL,Electronic check,Central,0,0,0,1,1,0
+CUST-101555,23,97.07,2,1,One year,DSL,Mailed check,West,1,0,1,1,0,0
+CUST-101556,7,18.0,2,3,Two year,Fiber,Credit card,West,1,0,1,0,1,1
+CUST-101558,72,76.05,0,2,One year,Fiber,Credit card,West,1,0,0,0,0,0
+CUST-101559,17,30.94,1,2,Two year,DSL,Electronic check,South,0,1,0,1,0,0
+CUST-101561,19,72.07,5,1,One year,DSL,Electronic check,East,0,0,0,0,1,1
+CUST-101562,41,77.15,4,0,Two year,Fiber,Electronic check,North,0,1,0,1,0,0
+CUST-101563,20,91.98,0,1,Two year,DSL,Credit card,East,1,0,0,1,0,0
+CUST-101564,23,78.33,2,2,One year,Fiber,Mailed check,East,1,1,1,0,0,0
+CUST-101565,26,32.65,0,1,Month-to-month,DSL,Bank transfer,South,1,1,1,1,1,0
+CUST-101566,44,64.57,2,2,Month-to-month,Fiber,Bank transfer,North,1,1,1,1,1,0
+CUST-101567,23,29.18,1,0,Month-to-month,DSL,Mailed check,East,1,0,0,1,0,0
+CUST-101569,15,101.55,0,1,Month-to-month,Fiber,Credit card,North,1,0,0,0,0,0
+CUST-101570,29,38.21,1,0,Month-to-month,Fiber,Bank transfer,West,1,0,0,1,0,0
+CUST-101571,35,51.88,0,1,Month-to-month,DSL,Mailed check,North,1,1,0,0,0,0
+CUST-101572,37,46.82,1,1,Month-to-month,Fiber,Bank transfer,North,1,1,0,0,0,0
+CUST-101573,72,57.11,0,0,Two year,Fiber,Bank transfer,East,1,1,1,1,0,0
+CUST-101574,12,77.9,1,1,Month-to-month,Fiber,Mailed check,South,1,0,1,0,0,1
+CUST-101575,24,57.37,3,1,Month-to-month,Fiber,Bank transfer,Central,1,0,1,0,0,0
+CUST-101576,20,83.66,3,0,One year,DSL,Mailed check,North,1,1,1,0,0,0
+CUST-101577,65,93.57,2,0,Two year,DSL,Bank transfer,South,1,0,1,0,0,1
+CUST-101578,38,94.44,3,0,Two year,Fiber,Credit card,West,1,0,1,1,1,0
+CUST-101579,5,41.16,1,1,Two year,Fiber,Credit card,South,1,0,1,0,0,0
+CUST-101580,14,101.26,3,2,Two year,Fiber,Credit card,Central,1,1,0,0,0,0
+CUST-101581,18,103.19,1,0,Month-to-month,Fiber,Bank transfer,West,1,1,1,1,1,0
+CUST-101582,6,105.26,1,0,Month-to-month,DSL,Bank transfer,Central,1,0,1,1,1,1
+CUST-101583,25,64.21,3,0,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,1,1
+CUST-101584,15,49.96,3,0,One year,DSL,Mailed check,North,1,1,0,0,0,0
+CUST-101586,29,41.56,0,0,Month-to-month,DSL,Electronic check,West,0,1,1,0,1,0
+CUST-101587,17,68.28,4,2,Month-to-month,DSL,Credit card,North,1,0,0,1,1,0
+CUST-101588,10,88.35,2,1,Month-to-month,Fiber,Credit card,East,1,0,0,0,0,1
+CUST-101589,22,99.36,1,2,Month-to-month,Fiber,Mailed check,West,1,0,0,1,0,0
+CUST-101590,62,56.35,0,0,Month-to-month,Fiber,Electronic check,West,0,0,0,1,0,0
+CUST-101591,20,67.07,0,1,Month-to-month,DSL,Bank transfer,East,1,0,0,1,0,0
+CUST-101592,22,65.5,4,0,Two year,DSL,Mailed check,Central,1,0,0,1,0,0
+CUST-101593,49,52.75,1,1,Month-to-month,Fiber,Credit card,West,1,0,0,1,0,0
+CUST-101594,28,85.66,3,1,Two year,Fiber,Credit card,North,1,0,0,0,0,1
+CUST-101595,41,76.71,1,2,One year,Fiber,Electronic check,South,0,0,1,1,1,1
+CUST-101596,31,71.4,3,0,Month-to-month,DSL,Electronic check,Central,0,1,0,1,1,0
+CUST-101597,29,76.6,2,1,Month-to-month,DSL,Electronic check,North,0,1,0,0,1,0
+CUST-101598,5,82.77,2,0,One year,DSL,Electronic check,North,0,1,0,0,0,1
+CUST-101600,26,47.88,5,0,Two year,Fiber,Electronic check,Central,0,0,0,1,0,0
+CUST-101601,11,89.51,1,1,Month-to-month,DSL,Electronic check,West,0,0,1,1,0,0
+CUST-101602,22,74.13,1,3,One year,DSL,Electronic check,North,0,0,0,1,0,0
+CUST-101603,8,57.57,4,2,One year,Fiber,Electronic check,South,0,0,0,1,0,0
+CUST-101605,12,76.27,3,0,Month-to-month,Fiber,Electronic check,South,0,1,0,1,0,1
+CUST-101606,10,93.96,2,1,Two year,DSL,Credit card,East,1,0,0,0,0,0
+CUST-101607,6,42.89,3,0,Month-to-month,DSL,Electronic check,East,0,1,0,0,0,0
+CUST-101609,22,68.56,2,0,Month-to-month,Fiber,Electronic check,West,0,0,1,1,0,0
+CUST-101610,48,55.85,5,1,Month-to-month,Fiber,Bank transfer,Central,1,1,1,1,0,1
+CUST-101611,15,55.12,3,0,One year,DSL,Electronic check,North,0,0,1,1,1,0
+CUST-101612,9,43.97,4,0,One year,DSL,Mailed check,East,1,0,0,1,0,0
+CUST-101613,21,26.22,2,0,Month-to-month,Fiber,Electronic check,West,0,0,0,0,0,1
+CUST-101614,54,84.26,3,1,Two year,DSL,Credit card,East,1,0,1,0,0,0
+CUST-101615,5,115.54,1,2,Month-to-month,Fiber,Electronic check,West,0,1,0,0,1,0
+CUST-101616,28,29.18,1,2,Month-to-month,DSL,Mailed check,West,1,0,1,1,1,1
+CUST-101617,30,45.19,2,0,Month-to-month,DSL,Credit card,South,1,1,1,0,0,0
+CUST-101618,60,86.04,2,1,Two year,Fiber,Electronic check,North,0,1,0,0,1,0
+CUST-101619,11,66.9,2,0,Month-to-month,Fiber,Electronic check,Central,0,1,1,0,0,0
+CUST-101621,16,65.56,3,1,Month-to-month,DSL,Electronic check,Central,0,0,1,0,0,0
+CUST-101622,40,54.06,2,1,One year,DSL,Electronic check,South,0,1,0,1,0,0
+CUST-101623,23,62.58,0,0,Month-to-month,Fiber,Mailed check,South,1,0,1,0,0,0
+CUST-101625,9,40.56,1,0,One year,Fiber,Credit card,North,1,0,0,1,0,0
+CUST-101626,19,90.76,0,3,Month-to-month,Fiber,Bank transfer,North,1,1,1,0,1,0
+CUST-101627,24,96.61,4,0,Month-to-month,Fiber,Bank transfer,South,1,1,0,1,1,0
+CUST-101628,6,101.75,2,1,Month-to-month,DSL,Electronic check,Central,0,1,0,1,0,1
+CUST-101630,18,18.0,0,1,Month-to-month,DSL,Bank transfer,East,1,1,1,1,1,0
+CUST-101631,72,52.76,0,1,Two year,DSL,Electronic check,East,0,1,0,1,1,0
+CUST-101632,23,99.79,3,1,One year,Fiber,Credit card,South,1,0,1,1,0,0
+CUST-101633,62,106.95,2,1,One year,Fiber,Bank transfer,Central,1,1,1,0,0,0
+CUST-101634,32,100.7,0,0,Two year,Fiber,Credit card,North,1,0,1,0,1,0
+CUST-101635,21,62.33,1,1,Month-to-month,Fiber,Electronic check,Central,0,0,1,0,0,0
+CUST-101636,56,36.64,2,3,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-101637,8,67.02,4,0,Two year,DSL,Bank transfer,South,1,1,0,1,0,1
+CUST-101638,16,68.36,4,0,Month-to-month,DSL,Credit card,West,1,1,1,1,0,0
+CUST-101639,42,105.57,2,0,One year,DSL,Mailed check,East,1,0,0,0,0,0
+CUST-101641,22,68.4,4,0,Month-to-month,DSL,Credit card,North,1,1,0,1,0,0
+CUST-101642,22,69.76,2,0,Month-to-month,Fiber,Electronic check,North,0,1,0,1,0,1
+CUST-101643,27,77.6,1,1,Month-to-month,Fiber,Electronic check,East,0,0,0,1,0,1
+CUST-101644,19,83.03,0,0,Month-to-month,Fiber,Bank transfer,Central,1,0,0,0,0,1
+CUST-101645,41,50.61,3,0,Month-to-month,Fiber,Electronic check,North,0,1,1,1,0,0
+CUST-101646,12,42.62,3,0,Month-to-month,Fiber,Electronic check,West,0,0,1,0,0,1
+CUST-101647,45,100.89,0,2,One year,DSL,Electronic check,Central,0,0,0,0,0,1
+CUST-101648,9,28.62,2,0,Two year,Fiber,Credit card,East,1,0,0,0,1,0
+CUST-101649,29,107.31,1,0,One year,Fiber,Electronic check,Central,0,0,0,0,0,1
+CUST-101650,52,22.14,6,1,Month-to-month,Fiber,Bank transfer,West,1,1,0,0,0,0
+CUST-101651,11,53.97,3,1,Month-to-month,DSL,Credit card,South,1,1,1,0,0,0
+CUST-101652,14,91.32,4,1,Month-to-month,Fiber,Bank transfer,Central,1,1,0,0,0,1
+CUST-101653,46,68.01,0,0,Month-to-month,Fiber,Mailed check,West,1,1,0,0,0,0
+CUST-101654,26,36.4,0,0,Two year,DSL,Mailed check,North,1,0,0,0,1,0
+CUST-101655,4,78.23,1,1,Month-to-month,Fiber,Mailed check,East,1,1,0,0,0,0
+CUST-101657,36,62.81,0,2,Two year,Fiber,Credit card,Central,1,0,1,1,0,0
+CUST-101658,47,53.03,1,3,Month-to-month,Fiber,Credit card,West,1,0,1,1,0,0
+CUST-101659,28,67.17,2,0,Month-to-month,Fiber,Mailed check,East,1,0,0,1,0,0
+CUST-101660,33,54.03,1,1,Month-to-month,DSL,Electronic check,South,0,1,1,1,1,1
+CUST-101661,66,126.43,1,2,One year,Fiber,Credit card,North,1,0,1,1,0,0
+CUST-101662,43,62.24,4,0,One year,DSL,Electronic check,North,0,1,0,0,0,1
+CUST-101663,18,59.03,0,1,Month-to-month,Fiber,Credit card,West,1,0,1,0,1,0
+CUST-101664,20,55.0,0,0,Two year,DSL,Electronic check,Central,0,0,1,1,0,0
+CUST-101665,51,110.65,0,0,Two year,Fiber,Bank transfer,North,1,0,1,1,0,0
+CUST-101666,28,28.66,0,1,Two year,Fiber,Credit card,West,1,1,0,0,0,0
+CUST-101667,25,76.63,2,0,Month-to-month,Fiber,Mailed check,East,1,0,1,1,0,0
+CUST-101668,18,62.26,0,1,Month-to-month,DSL,Electronic check,North,0,1,1,0,1,0
+CUST-101669,49,33.84,0,2,Two year,Fiber,Credit card,South,1,1,1,0,0,0
+CUST-101671,16,75.61,0,1,One year,DSL,Electronic check,West,0,1,0,0,1,0
+CUST-101673,49,74.23,1,1,Month-to-month,Fiber,Mailed check,Central,1,1,1,1,0,0
+CUST-101674,72,109.5,1,1,One year,DSL,Bank transfer,South,1,1,1,1,0,1
+CUST-101675,22,72.09,4,1,Two year,DSL,Electronic check,North,0,1,0,1,0,0
+CUST-101676,18,33.12,1,1,One year,DSL,Mailed check,North,1,0,0,0,0,0
+CUST-101678,5,61.15,2,1,Two year,DSL,Electronic check,East,0,0,1,1,0,0
+CUST-101680,28,71.65,2,1,One year,DSL,Bank transfer,East,1,0,1,1,0,0
+CUST-101681,17,75.5,0,1,Two year,Fiber,Credit card,North,1,0,0,0,0,0
+CUST-101682,12,109.53,3,3,One year,DSL,Bank transfer,South,1,0,0,0,1,0
+CUST-101683,25,67.91,2,1,Month-to-month,Fiber,Credit card,East,1,1,0,0,0,0
+CUST-101685,21,95.69,1,1,Month-to-month,DSL,Electronic check,West,0,1,1,0,1,0
+CUST-101686,21,98.31,0,0,Month-to-month,Fiber,Credit card,Central,1,1,0,0,1,0
+CUST-101687,17,73.58,2,1,Month-to-month,Fiber,Credit card,South,1,0,1,0,0,0
+CUST-101688,38,62.09,1,0,One year,Fiber,Bank transfer,East,1,1,0,0,1,0
+CUST-101689,15,82.94,3,2,Month-to-month,Fiber,Mailed check,Central,1,0,1,1,0,0
+CUST-101690,10,62.93,2,1,One year,Fiber,Mailed check,South,1,0,0,0,1,0
+CUST-101691,16,18.66,0,1,Two year,DSL,Electronic check,East,0,0,0,1,0,0
+CUST-101692,27,81.52,2,1,Month-to-month,DSL,Credit card,South,1,1,1,1,0,0
+CUST-101693,40,89.41,2,3,One year,DSL,Credit card,West,1,1,1,0,1,0
+CUST-101694,72,102.59,3,0,One year,Fiber,Mailed check,West,1,1,1,0,0,0
+CUST-101695,25,50.46,0,0,Month-to-month,Fiber,Electronic check,North,0,1,0,0,0,0
+CUST-101696,63,73.43,5,1,Month-to-month,Fiber,Electronic check,North,0,0,0,0,0,0
+CUST-101697,14,73.95,0,0,One year,DSL,Electronic check,North,0,0,0,1,0,0
+CUST-101698,12,70.05,2,0,Two year,Fiber,Bank transfer,North,1,0,0,1,1,0
+CUST-101699,32,70.76,5,0,One year,Fiber,Bank transfer,North,1,0,0,0,1,0
+CUST-101700,35,68.89,2,0,Two year,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-101701,27,73.08,0,2,Two year,DSL,Bank transfer,Central,1,1,1,1,0,0
+CUST-101702,72,85.78,3,1,Month-to-month,Fiber,Credit card,East,1,0,0,0,0,0
+CUST-101703,15,97.29,2,2,One year,DSL,Electronic check,Central,0,1,1,0,0,1
+CUST-101704,55,49.85,1,1,Month-to-month,DSL,Mailed check,West,1,1,1,0,0,0
+CUST-101705,12,63.86,2,1,Two year,DSL,Mailed check,Central,1,0,0,0,1,0
+CUST-101706,37,57.86,1,3,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,1
+CUST-101707,24,54.42,3,0,Month-to-month,Fiber,Mailed check,North,1,1,1,1,0,1
+CUST-101708,28,29.22,1,1,Two year,Fiber,Bank transfer,East,1,1,0,1,0,0
+CUST-101709,32,68.58,2,0,Month-to-month,Fiber,Electronic check,East,0,1,0,0,0,0
+CUST-101710,25,79.5,3,4,One year,DSL,Electronic check,West,0,0,0,1,1,0
+CUST-101711,21,64.28,4,1,Month-to-month,Fiber,Credit card,West,1,1,0,0,0,1
+CUST-101712,4,67.79,2,1,Two year,Fiber,Electronic check,North,0,0,1,0,1,0
+CUST-101713,44,78.04,2,2,Two year,Fiber,Bank transfer,West,1,1,0,1,0,0
+CUST-101714,8,101.87,1,0,Month-to-month,DSL,Bank transfer,Central,1,1,0,1,1,1
+CUST-101715,17,57.93,1,1,One year,Fiber,Credit card,North,1,1,1,1,0,0
+CUST-101716,30,39.88,0,1,Month-to-month,DSL,Bank transfer,East,1,0,1,0,0,0
+CUST-101717,9,65.83,2,1,One year,Fiber,Credit card,Central,1,1,1,0,0,0
+CUST-101719,41,40.14,3,0,Two year,DSL,Mailed check,North,1,0,1,0,0,0
+CUST-101720,17,83.6,1,3,Month-to-month,Fiber,Mailed check,Central,1,1,1,1,0,1
+CUST-101721,22,95.79,2,0,Month-to-month,Fiber,Mailed check,North,1,0,0,1,0,1
+CUST-101722,11,18.0,4,0,One year,Fiber,Mailed check,West,1,0,0,0,1,0
+CUST-101723,19,77.85,2,1,Month-to-month,Fiber,Electronic check,Central,0,0,0,1,1,1
+CUST-101724,8,82.48,2,0,Month-to-month,Fiber,Mailed check,East,1,1,0,1,1,1
+CUST-101725,27,61.58,2,1,Month-to-month,DSL,Mailed check,East,1,0,0,1,1,0
+CUST-101726,6,52.49,2,1,Month-to-month,DSL,Electronic check,East,0,0,0,0,1,1
+CUST-101727,14,53.82,5,1,Two year,Fiber,Electronic check,South,0,0,0,1,0,0
+CUST-101728,24,60.11,0,1,Month-to-month,DSL,Bank transfer,South,1,1,1,0,1,0
+CUST-101729,20,60.75,2,0,Month-to-month,Fiber,Bank transfer,East,1,1,0,0,0,1
+CUST-101731,22,59.73,2,0,Month-to-month,Fiber,Bank transfer,Central,1,0,1,1,0,1
+CUST-101732,4,96.58,1,1,One year,DSL,Credit card,Central,1,1,0,0,0,0
+CUST-101733,9,38.85,3,1,Month-to-month,DSL,Credit card,North,1,0,0,1,0,1
+CUST-101734,23,26.02,0,0,Two year,Fiber,Electronic check,South,0,1,0,1,0,0
+CUST-101735,48,96.96,0,0,One year,Fiber,Credit card,West,1,1,1,1,1,0
+CUST-101736,42,63.39,1,1,Two year,Fiber,Electronic check,East,0,1,1,0,1,0
+CUST-101737,72,58.68,2,1,Month-to-month,DSL,Bank transfer,South,1,0,0,0,0,0
+CUST-101738,16,65.33,2,1,Month-to-month,DSL,Credit card,South,1,1,1,0,0,0
+CUST-101739,40,73.02,1,0,One year,DSL,Electronic check,North,0,0,1,1,0,0
+CUST-101740,38,55.42,3,1,Month-to-month,DSL,Bank transfer,South,1,0,1,0,0,1
+CUST-101741,64,80.14,2,2,Month-to-month,DSL,Mailed check,East,1,0,1,0,0,0
+CUST-101742,53,44.91,0,2,Month-to-month,Fiber,Electronic check,East,0,0,1,1,0,0
+CUST-101743,29,60.76,0,0,Two year,Fiber,Electronic check,East,0,0,0,1,1,1
+CUST-101744,35,18.0,2,1,One year,DSL,Electronic check,South,0,0,0,1,0,0
+CUST-101745,31,96.13,2,1,One year,Fiber,Electronic check,South,0,1,0,1,0,0
+CUST-101746,23,63.77,0,2,One year,DSL,Bank transfer,Central,1,1,0,1,0,0
+CUST-101747,34,84.08,1,1,Month-to-month,Fiber,Mailed check,East,1,0,1,1,0,1
+CUST-101748,27,79.44,2,1,Month-to-month,Fiber,Mailed check,South,1,1,0,1,0,0
+CUST-101749,26,81.2,2,0,Month-to-month,DSL,Bank transfer,West,1,1,0,1,0,0
+CUST-101750,66,67.81,2,0,One year,Fiber,Electronic check,East,0,0,1,0,1,0
+CUST-101751,29,77.32,2,0,Month-to-month,Fiber,Electronic check,East,0,0,0,0,0,0
+CUST-101752,25,44.93,4,0,Two year,Fiber,Credit card,South,1,1,0,0,0,0
+CUST-101753,21,39.89,0,0,One year,DSL,Credit card,West,1,0,0,1,0,0
+CUST-101754,19,65.57,4,0,Month-to-month,DSL,Mailed check,North,1,1,0,0,1,0
+CUST-101755,9,51.69,1,1,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,0,1
+CUST-101756,23,102.21,0,0,Month-to-month,Fiber,Credit card,East,1,0,0,1,1,0
+CUST-101757,50,77.0,1,1,Two year,Fiber,Credit card,East,1,1,1,1,1,0
+CUST-101759,72,61.48,0,1,Two year,Fiber,Electronic check,East,0,0,1,1,1,0
+CUST-101761,33,66.37,1,0,Month-to-month,DSL,Bank transfer,East,1,1,0,0,0,0
+CUST-101762,27,74.52,1,1,Month-to-month,Fiber,Credit card,North,1,0,0,1,1,0
+CUST-101763,66,69.65,1,0,Month-to-month,DSL,Bank transfer,East,1,0,1,1,0,0
+CUST-101764,14,34.62,0,0,Month-to-month,DSL,Electronic check,South,0,0,1,0,1,1
+CUST-101765,8,18.0,1,1,Month-to-month,Fiber,Bank transfer,North,1,0,0,0,1,0
+CUST-101766,20,59.03,4,3,Two year,Fiber,Credit card,Central,1,0,1,0,0,0
+CUST-101767,18,81.45,1,1,Month-to-month,DSL,Mailed check,South,1,1,0,1,1,0
+CUST-101768,5,59.3,2,2,Month-to-month,DSL,Credit card,East,1,1,1,0,0,1
+CUST-101769,25,97.68,3,0,Two year,DSL,Mailed check,North,1,1,1,0,0,0
+CUST-101771,58,100.57,4,3,One year,Fiber,Bank transfer,South,1,0,0,1,0,0
+CUST-101772,25,95.65,1,4,One year,DSL,Mailed check,North,1,0,0,1,1,0
+CUST-101773,12,93.23,0,2,Two year,DSL,Credit card,Central,1,0,1,0,1,0
+CUST-101774,23,39.12,2,2,One year,Fiber,Mailed check,South,1,0,0,0,0,0
+CUST-101775,27,68.41,3,1,Month-to-month,Fiber,Mailed check,East,1,1,1,0,1,0
+CUST-101776,35,97.35,1,3,One year,Fiber,Mailed check,East,1,1,1,1,0,0
+CUST-101777,24,74.54,3,2,Month-to-month,DSL,Bank transfer,East,1,1,0,0,0,0
+CUST-101778,72,81.3,1,1,Month-to-month,Fiber,Electronic check,East,0,0,1,1,1,1
+CUST-101779,8,34.69,1,1,Month-to-month,DSL,Bank transfer,East,1,0,0,0,1,0
+CUST-101780,16,114.05,0,0,Month-to-month,Fiber,Mailed check,North,1,0,1,1,0,1
+CUST-101781,12,49.01,1,2,One year,Fiber,Mailed check,West,1,0,1,0,0,0
+CUST-101782,18,20.13,3,2,Month-to-month,DSL,Bank transfer,North,1,1,0,1,0,0
+CUST-101783,29,59.57,1,1,Month-to-month,Fiber,Electronic check,East,0,1,0,1,1,1
+CUST-101784,28,18.0,1,0,Month-to-month,DSL,Bank transfer,South,1,1,0,0,0,1
+CUST-101785,34,41.96,1,2,Two year,Fiber,Mailed check,East,1,0,1,0,0,0
+CUST-101787,26,58.88,2,1,One year,Fiber,Bank transfer,West,1,0,1,0,0,0
+CUST-101789,17,68.61,1,1,Month-to-month,DSL,Credit card,North,1,0,1,1,0,0
+CUST-101790,16,46.45,5,1,One year,Fiber,Mailed check,North,1,0,0,1,0,1
+CUST-101791,12,88.75,1,2,Month-to-month,Fiber,Electronic check,East,0,1,0,0,0,1
+CUST-101792,36,46.65,1,0,Month-to-month,Fiber,Bank transfer,West,1,0,0,0,0,0
+CUST-101793,3,74.5,1,2,One year,DSL,Bank transfer,East,1,0,0,1,0,0
+CUST-101794,26,40.47,2,0,Two year,DSL,Bank transfer,West,1,0,0,0,0,1
+CUST-101795,40,130.38,0,2,Month-to-month,Fiber,Bank transfer,West,1,1,0,0,0,1
+CUST-101796,47,80.09,4,0,Month-to-month,Fiber,Credit card,Central,1,0,1,0,0,0
+CUST-101798,17,60.97,1,2,Month-to-month,DSL,Bank transfer,Central,1,1,0,1,1,0
+CUST-101799,13,54.71,1,3,One year,DSL,Electronic check,West,0,1,0,0,0,1
+CUST-101800,16,49.74,2,0,One year,Fiber,Mailed check,East,1,0,1,0,0,0
+CUST-101801,54,49.08,3,1,One year,DSL,Bank transfer,East,1,1,1,0,1,0
+CUST-101803,40,54.74,2,2,One year,Fiber,Mailed check,North,1,1,0,0,0,0
+CUST-101804,26,18.0,1,0,One year,Fiber,Credit card,West,1,1,1,0,0,1
+CUST-101805,16,40.02,0,4,One year,Fiber,Credit card,East,1,0,1,0,1,0
+CUST-101806,14,90.27,1,0,Month-to-month,DSL,Mailed check,East,1,1,0,0,0,0
+CUST-101807,28,61.94,1,1,Month-to-month,Fiber,Credit card,Central,1,1,0,1,1,1
+CUST-101809,5,96.08,1,0,Month-to-month,DSL,Credit card,Central,1,1,0,1,0,1
+CUST-101810,10,49.35,2,1,Month-to-month,DSL,Electronic check,Central,0,1,0,0,0,1
+CUST-101811,29,83.18,0,2,Month-to-month,DSL,Electronic check,Central,0,0,0,0,1,0
+CUST-101812,8,51.97,1,2,One year,Fiber,Electronic check,South,0,0,1,1,0,0
+CUST-101813,44,81.82,2,1,Month-to-month,DSL,Electronic check,North,0,1,0,0,0,1
+CUST-101814,6,58.61,2,0,Two year,Fiber,Mailed check,South,1,1,1,0,0,1
+CUST-101815,19,62.2,1,0,Month-to-month,DSL,Electronic check,West,0,0,1,0,0,0
+CUST-101817,10,85.95,1,0,Month-to-month,DSL,Electronic check,Central,0,1,0,1,1,0
+CUST-101818,7,64.03,0,0,Month-to-month,DSL,Electronic check,West,0,1,0,1,0,1
+CUST-101819,32,56.68,1,1,One year,Fiber,Credit card,West,1,0,1,0,0,0
+CUST-101820,41,106.38,1,5,Two year,DSL,Bank transfer,Central,1,0,1,0,1,1
+CUST-101821,20,82.14,1,2,Month-to-month,DSL,Credit card,West,1,1,1,0,1,1
+CUST-101822,17,58.61,0,1,Month-to-month,DSL,Mailed check,North,1,1,1,0,1,0
+CUST-101823,6,52.33,2,2,One year,Fiber,Electronic check,East,0,0,1,1,0,0
+CUST-101824,25,92.6,2,0,One year,Fiber,Bank transfer,South,1,1,0,1,1,0
+CUST-101825,4,70.77,3,2,Month-to-month,DSL,Bank transfer,West,1,1,0,0,1,1
+CUST-101826,55,64.07,2,1,Month-to-month,Fiber,Electronic check,West,0,0,0,0,0,1
+CUST-101827,21,70.76,1,0,Month-to-month,DSL,Credit card,South,1,1,0,1,1,0
+CUST-101828,11,76.11,4,1,Two year,DSL,Bank transfer,South,1,1,0,0,0,0
+CUST-101830,26,96.89,2,2,Month-to-month,Fiber,Mailed check,South,1,0,0,1,0,0
+CUST-101832,23,80.77,0,0,Month-to-month,Fiber,Electronic check,West,0,1,1,1,0,0
+CUST-101833,9,100.99,2,0,Month-to-month,Fiber,Credit card,Central,1,1,1,0,0,0
+CUST-101834,48,68.2,1,2,Month-to-month,DSL,Mailed check,Central,1,1,1,0,1,0
+CUST-101835,14,84.57,1,1,Month-to-month,Fiber,Electronic check,Central,0,1,1,1,0,1
+CUST-101836,3,92.11,3,0,Month-to-month,Fiber,Electronic check,North,0,1,0,1,0,1
+CUST-101837,17,92.46,1,0,Month-to-month,Fiber,Bank transfer,South,1,1,0,0,0,1
+CUST-101838,13,89.98,2,1,One year,Fiber,Credit card,North,1,1,0,1,0,0
+CUST-101839,46,83.15,3,2,One year,DSL,Credit card,North,1,1,0,0,1,0
+CUST-101840,11,114.97,3,0,Month-to-month,Fiber,Bank transfer,South,1,0,1,1,0,1
+CUST-101841,16,55.05,3,2,Month-to-month,Fiber,Credit card,South,1,0,1,1,1,0
+CUST-101842,26,64.27,1,0,Month-to-month,DSL,Bank transfer,North,1,0,0,1,0,1
+CUST-101843,35,62.85,3,0,Two year,Fiber,Electronic check,Central,0,0,1,0,1,0
+CUST-101844,57,59.17,1,1,Month-to-month,DSL,Bank transfer,East,1,0,0,0,0,1
+CUST-101846,53,101.0,5,1,Month-to-month,DSL,Electronic check,West,0,0,1,0,0,1
+CUST-101847,45,43.38,2,2,One year,DSL,Mailed check,Central,1,1,1,1,1,0
+CUST-101848,13,72.08,0,0,Month-to-month,Fiber,Electronic check,North,0,0,1,0,0,1
+CUST-101849,11,33.88,3,1,One year,DSL,Credit card,South,1,0,1,0,1,0
+CUST-101850,31,82.9,3,4,Month-to-month,Fiber,Credit card,South,1,1,0,0,0,1
+CUST-101851,23,49.15,0,0,Two year,Fiber,Mailed check,East,1,0,1,0,0,0
+CUST-101852,31,40.74,3,0,Month-to-month,DSL,Bank transfer,East,1,0,1,0,0,0
+CUST-101853,18,72.66,0,1,One year,Fiber,Mailed check,West,1,0,0,0,0,1
+CUST-101854,24,51.18,2,0,Two year,DSL,Electronic check,East,0,1,0,1,0,0
+CUST-101855,21,54.22,0,1,Two year,DSL,Electronic check,South,0,1,1,0,0,0
+CUST-101857,11,87.2,5,0,Month-to-month,Fiber,Electronic check,Central,0,1,1,0,0,0
+CUST-101858,26,48.36,1,0,Month-to-month,Fiber,Electronic check,East,0,0,0,1,0,1
+CUST-101859,56,44.21,4,0,Month-to-month,DSL,Electronic check,East,0,1,0,0,1,0
+CUST-101860,54,68.56,3,0,One year,Fiber,Electronic check,North,0,1,1,1,1,0
+CUST-101861,28,80.94,3,0,Two year,DSL,Credit card,North,1,0,1,0,0,0
+CUST-101862,11,103.11,1,1,Two year,DSL,Electronic check,South,0,0,0,0,0,0
+CUST-101864,30,60.37,3,1,One year,DSL,Mailed check,East,1,0,0,0,1,0
+CUST-101865,69,96.22,2,0,Two year,Fiber,Electronic check,Central,0,0,1,0,0,0
+CUST-101866,31,115.35,0,0,Two year,Fiber,Mailed check,East,1,0,0,1,0,0
+CUST-101868,72,50.27,0,0,Month-to-month,Fiber,Bank transfer,Central,1,0,0,1,0,0
+CUST-101869,41,77.15,2,2,Two year,Fiber,Bank transfer,West,1,0,0,0,1,0
+CUST-101870,24,54.13,2,2,Month-to-month,Fiber,Bank transfer,West,1,0,0,1,1,0
+CUST-101871,4,49.78,1,1,Month-to-month,Fiber,Bank transfer,West,1,0,0,0,1,1
+CUST-101872,44,73.87,0,0,Two year,Fiber,Mailed check,South,1,1,1,1,0,0
+CUST-101873,31,105.19,3,3,Two year,Fiber,Electronic check,East,0,1,1,1,0,0
+CUST-101874,72,36.57,5,1,Two year,DSL,Electronic check,South,0,0,0,0,0,0
+CUST-101875,65,103.96,3,0,One year,Fiber,Mailed check,West,1,0,0,0,0,0
+CUST-101876,68,54.21,2,1,Month-to-month,DSL,Electronic check,East,0,0,1,1,0,1
+CUST-101877,27,76.3,2,1,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,0,0
+CUST-101878,26,106.18,0,0,Month-to-month,DSL,Bank transfer,North,1,1,0,0,0,0
+CUST-101879,31,75.81,2,0,Month-to-month,Fiber,Electronic check,North,0,1,1,0,0,1
+CUST-101880,14,60.86,2,1,Month-to-month,DSL,Electronic check,West,0,1,0,0,0,0
+CUST-101881,24,85.24,1,0,One year,Fiber,Bank transfer,West,1,1,0,1,0,1
+CUST-101882,21,63.84,2,1,Month-to-month,Fiber,Mailed check,West,1,1,1,0,1,0
+CUST-101883,52,80.51,1,3,One year,Fiber,Credit card,South,1,1,1,0,0,0
+CUST-101884,59,63.09,0,0,Month-to-month,DSL,Credit card,North,1,0,1,0,1,0
+CUST-101886,12,34.54,3,0,Month-to-month,Fiber,Mailed check,East,1,0,0,1,1,1
+CUST-101887,72,43.68,3,0,Month-to-month,Fiber,Electronic check,East,0,1,1,1,1,1
+CUST-101888,44,34.19,0,0,Two year,DSL,Bank transfer,Central,1,1,1,1,1,0
+CUST-101889,30,66.65,4,0,Month-to-month,DSL,Bank transfer,Central,1,1,1,0,0,0
+CUST-101890,35,31.29,2,1,Month-to-month,Fiber,Bank transfer,West,1,1,0,0,0,1
+CUST-101891,7,51.4,0,0,One year,DSL,Electronic check,North,0,1,1,0,1,0
+CUST-101892,21,41.42,3,2,Month-to-month,Fiber,Electronic check,North,0,1,0,1,1,1
+CUST-101893,55,103.51,0,0,Month-to-month,DSL,Electronic check,East,0,1,1,1,0,0
+CUST-101894,6,44.22,3,3,Month-to-month,Fiber,Electronic check,West,0,0,1,1,1,0
+CUST-101895,6,37.12,3,2,Month-to-month,Fiber,Electronic check,West,0,1,0,1,1,0
+CUST-101896,44,73.96,1,1,One year,Fiber,Credit card,South,1,1,0,0,1,0
+CUST-101897,33,108.48,1,1,Month-to-month,DSL,Electronic check,North,0,0,1,1,0,1
+CUST-101898,7,65.21,1,2,Month-to-month,Fiber,Bank transfer,South,1,1,1,1,0,0
+CUST-101899,19,67.07,2,0,Month-to-month,DSL,Credit card,West,1,1,0,0,0,0
+CUST-101900,30,98.98,1,0,One year,DSL,Mailed check,Central,1,0,0,0,0,0
+CUST-101901,27,89.08,3,1,Month-to-month,DSL,Mailed check,Central,1,0,1,1,0,0
+CUST-101902,31,78.21,1,2,Two year,Fiber,Bank transfer,East,1,0,0,0,0,0
+CUST-101903,18,54.02,3,3,Month-to-month,Fiber,Electronic check,North,0,0,0,0,1,1
+CUST-101904,28,78.94,1,0,One year,Fiber,Mailed check,Central,1,1,0,0,0,0
+CUST-101905,37,35.34,2,0,Month-to-month,DSL,Credit card,North,1,1,0,1,0,0
+CUST-101907,19,102.36,2,1,Month-to-month,Fiber,Credit card,Central,1,0,1,1,1,0
+CUST-101908,40,99.25,0,1,One year,DSL,Credit card,East,1,0,1,1,1,0
+CUST-101909,11,78.5,2,0,Two year,Fiber,Mailed check,North,1,0,1,0,0,0
+CUST-101910,14,21.7,4,1,Month-to-month,Fiber,Bank transfer,East,1,1,0,1,0,1
+CUST-101911,44,39.0,3,3,Month-to-month,Fiber,Bank transfer,North,1,0,1,0,0,0
+CUST-101912,39,51.69,4,0,Two year,DSL,Bank transfer,South,1,1,0,0,0,1
+CUST-101913,20,63.88,4,1,Month-to-month,Fiber,Bank transfer,Central,1,1,1,1,1,0
+CUST-101914,14,37.99,3,2,Month-to-month,Fiber,Bank transfer,South,1,1,0,1,1,1
+CUST-101915,16,62.09,2,1,Month-to-month,DSL,Credit card,Central,1,1,1,1,0,0
+CUST-101916,36,110.42,1,0,One year,DSL,Electronic check,East,0,0,0,0,0,0
+CUST-101917,32,77.62,1,1,One year,Fiber,Bank transfer,West,1,0,1,0,0,0
+CUST-101918,13,73.25,0,1,One year,Fiber,Electronic check,West,0,0,1,1,0,1
+CUST-101919,39,43.58,2,1,Two year,Fiber,Bank transfer,East,1,1,0,0,0,0
+CUST-101920,19,28.66,0,0,Month-to-month,Fiber,Bank transfer,North,1,1,1,0,0,0
+CUST-101921,11,38.52,0,2,Month-to-month,Fiber,Credit card,Central,1,1,0,1,1,0
+CUST-101922,17,27.69,0,1,Month-to-month,DSL,Mailed check,East,1,1,0,0,0,0
+CUST-101923,25,69.8,3,1,Month-to-month,Fiber,Mailed check,West,1,1,1,0,0,1
+CUST-101924,38,77.21,0,1,Month-to-month,DSL,Electronic check,East,0,1,1,0,0,0
+CUST-101925,36,44.83,2,0,Month-to-month,Fiber,Electronic check,West,0,0,0,0,1,1
+CUST-101926,22,71.55,0,1,Month-to-month,Fiber,Electronic check,South,0,1,0,0,1,0
+CUST-101927,28,103.26,1,2,One year,Fiber,Credit card,Central,1,0,0,0,1,1
+CUST-101928,21,114.98,0,2,Month-to-month,Fiber,Electronic check,South,0,1,0,0,0,1
+CUST-101929,13,86.49,2,0,Month-to-month,Fiber,Credit card,West,1,1,0,0,0,1
+CUST-101930,23,63.8,1,2,One year,Fiber,Electronic check,East,0,0,0,0,1,1
+CUST-101932,60,100.44,4,1,One year,DSL,Bank transfer,North,1,1,1,0,0,0
+CUST-101933,27,19.83,2,3,One year,Fiber,Bank transfer,South,1,0,1,1,0,0
+CUST-101934,32,103.57,2,1,One year,DSL,Bank transfer,North,1,1,1,1,0,0
+CUST-101935,14,54.93,2,0,Month-to-month,DSL,Bank transfer,East,1,1,0,0,0,0
+CUST-101936,27,55.16,3,0,Month-to-month,DSL,Credit card,West,1,1,0,0,0,0
+CUST-101937,30,59.48,0,1,One year,Fiber,Bank transfer,East,1,0,0,1,0,0
+CUST-101938,20,75.68,1,1,Month-to-month,Fiber,Electronic check,West,0,0,0,0,0,1
+CUST-101939,21,41.33,0,1,Month-to-month,Fiber,Electronic check,South,0,0,0,1,0,0
+CUST-101940,8,61.16,2,0,Month-to-month,Fiber,Bank transfer,South,1,0,0,1,0,0
+CUST-101941,72,80.61,1,2,Month-to-month,Fiber,Mailed check,East,1,1,1,1,0,0
+CUST-101942,14,73.25,2,3,Month-to-month,DSL,Bank transfer,South,1,1,1,1,0,0
+CUST-101944,62,60.22,2,0,Two year,Fiber,Mailed check,Central,1,1,0,0,0,0
+CUST-101945,33,84.65,2,1,Two year,Fiber,Credit card,East,1,0,1,1,0,1
+CUST-101946,38,93.35,4,0,Month-to-month,Fiber,Bank transfer,West,1,0,1,0,0,1
+CUST-101947,7,91.91,0,0,Two year,Fiber,Bank transfer,North,1,0,0,1,0,1
+CUST-101948,27,78.26,0,1,Month-to-month,DSL,Bank transfer,North,1,1,1,1,0,0
+CUST-101949,7,90.53,1,0,Two year,Fiber,Credit card,South,1,0,0,0,0,0
+CUST-101950,12,88.91,1,2,Two year,DSL,Bank transfer,South,1,0,1,0,1,0
+CUST-101952,10,97.23,2,1,One year,DSL,Electronic check,East,0,0,0,0,0,1
+CUST-101953,37,65.87,1,2,Two year,DSL,Bank transfer,West,1,1,0,0,0,0
+CUST-101954,11,46.12,0,3,Two year,DSL,Bank transfer,East,1,1,1,0,0,0
+CUST-101955,12,61.73,3,0,Two year,Fiber,Mailed check,East,1,0,1,0,1,0
+CUST-101956,72,60.04,2,2,Month-to-month,Fiber,Electronic check,North,0,0,1,0,0,1
+CUST-101957,22,80.27,0,0,Month-to-month,DSL,Bank transfer,South,1,1,0,1,0,1
+CUST-101958,7,51.19,0,2,Two year,Fiber,Mailed check,Central,1,1,1,1,0,0
+CUST-101959,38,96.61,2,0,One year,DSL,Credit card,Central,1,0,1,0,0,0
+CUST-101960,52,34.65,0,0,One year,Fiber,Electronic check,North,0,1,1,1,0,1
+CUST-101961,40,28.82,0,1,Month-to-month,Fiber,Electronic check,North,0,0,0,0,0,0
+CUST-101962,21,64.76,4,1,Month-to-month,Fiber,Bank transfer,Central,1,0,0,1,0,0
+CUST-101964,16,37.8,2,0,One year,Fiber,Electronic check,East,0,0,0,1,0,0
+CUST-101965,9,52.71,3,0,Month-to-month,Fiber,Bank transfer,Central,1,1,0,1,1,0
+CUST-101966,30,49.72,0,0,One year,Fiber,Mailed check,West,1,1,0,1,0,0
+CUST-101967,20,68.24,1,0,Two year,DSL,Electronic check,East,0,0,1,0,0,0
+CUST-101969,23,55.06,3,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,0,0,1
+CUST-101971,29,92.34,0,1,Two year,Fiber,Mailed check,Central,1,1,1,1,0,1
+CUST-101972,27,103.3,2,2,One year,DSL,Electronic check,East,0,1,0,1,0,0
+CUST-101973,18,71.55,1,0,Month-to-month,Fiber,Credit card,Central,1,0,0,1,1,1
+CUST-101974,23,73.41,1,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,1,1,1
+CUST-101975,25,63.6,0,0,Month-to-month,DSL,Electronic check,North,0,1,1,0,1,0
+CUST-101976,44,79.55,3,0,Month-to-month,DSL,Credit card,South,1,1,1,0,0,0
+CUST-101977,23,77.37,0,2,Two year,Fiber,Electronic check,West,0,0,0,1,0,1
+CUST-101978,16,99.82,1,0,One year,DSL,Credit card,North,1,1,1,1,1,0
+CUST-101980,69,62.37,5,0,Two year,Fiber,Credit card,South,1,1,0,1,1,0
+CUST-101981,11,76.14,3,1,Month-to-month,DSL,Credit card,South,1,0,0,0,0,1
+CUST-101982,20,67.37,1,0,Two year,DSL,Electronic check,East,0,0,0,1,1,0
+CUST-101983,20,45.46,1,2,Month-to-month,Fiber,Credit card,Central,1,0,0,1,0,0
+CUST-101984,21,36.82,1,0,One year,DSL,Electronic check,Central,0,0,1,1,1,0
+CUST-101985,5,87.35,3,0,Two year,Fiber,Bank transfer,East,1,1,0,0,1,0
+CUST-101986,9,49.83,1,1,Month-to-month,DSL,Bank transfer,North,1,1,1,1,1,0
+CUST-101987,19,25.88,1,0,One year,Fiber,Electronic check,Central,0,1,0,0,1,0
+CUST-101988,15,88.56,4,0,Two year,Fiber,Electronic check,Central,0,1,0,1,1,1
+CUST-101989,29,79.02,2,0,Month-to-month,DSL,Electronic check,West,0,1,0,1,0,0
+CUST-101990,48,65.22,1,1,Month-to-month,DSL,Electronic check,West,0,0,0,1,0,0
+CUST-101991,30,46.05,2,1,One year,DSL,Electronic check,East,0,1,0,0,1,1
+CUST-101993,32,97.17,0,2,Month-to-month,Fiber,Mailed check,North,1,0,0,1,0,1
+CUST-101994,27,29.25,4,2,Month-to-month,Fiber,Credit card,North,1,1,0,1,0,0
+CUST-101995,23,30.46,2,0,One year,Fiber,Credit card,Central,1,1,1,0,1,1
+CUST-101996,43,52.93,2,0,Month-to-month,Fiber,Bank transfer,North,1,0,0,1,0,0
+CUST-101997,19,67.36,0,0,Month-to-month,Fiber,Mailed check,East,1,1,0,1,1,0
+CUST-101998,9,56.09,0,0,Two year,DSL,Credit card,South,1,1,0,0,0,0
+CUST-101999,15,83.43,3,0,Month-to-month,DSL,Bank transfer,North,1,1,0,1,1,0
+CUST-102000,14,94.13,3,1,Two year,Fiber,Bank transfer,Central,1,0,1,1,0,0
+CUST-102001,72,74.69,4,0,Month-to-month,Fiber,Credit card,North,1,1,0,1,0,0
+CUST-102002,50,81.45,1,0,Two year,DSL,Bank transfer,Central,1,1,1,1,0,0
+CUST-102003,26,74.53,4,1,One year,Fiber,Mailed check,West,1,1,1,1,0,0
+CUST-102004,14,68.23,3,1,Month-to-month,Fiber,Credit card,West,1,1,0,0,1,1
+CUST-102005,42,36.95,0,0,Two year,Fiber,Mailed check,North,1,1,1,0,0,0
+CUST-102006,25,43.33,2,0,Month-to-month,Fiber,Credit card,Central,1,0,1,0,0,1
+CUST-102007,19,35.58,2,1,Month-to-month,Fiber,Electronic check,East,0,0,1,0,0,0
+CUST-102008,25,64.44,2,0,Month-to-month,DSL,Electronic check,East,0,1,1,1,0,1
+CUST-102009,19,73.57,1,1,One year,Fiber,Mailed check,West,1,0,0,0,1,1
+CUST-102010,32,33.22,0,0,Month-to-month,DSL,Electronic check,South,0,0,1,0,1,0
+CUST-102011,8,69.74,0,1,Month-to-month,Fiber,Credit card,South,1,1,0,1,0,0
+CUST-102012,32,46.99,2,0,Month-to-month,DSL,Electronic check,South,0,0,1,0,0,0
+CUST-102013,19,42.34,2,0,Month-to-month,Fiber,Bank transfer,East,1,0,0,0,1,0
+CUST-102014,43,52.99,3,0,Month-to-month,Fiber,Electronic check,West,0,1,0,1,0,0
+CUST-102015,50,41.11,3,4,Month-to-month,Fiber,Credit card,South,1,1,1,0,0,0
+CUST-102016,57,82.56,3,1,Month-to-month,Fiber,Mailed check,South,1,0,0,0,1,0
+CUST-102017,72,63.97,0,2,Month-to-month,Fiber,Electronic check,Central,0,1,0,0,1,0
+CUST-102018,56,87.57,2,1,One year,DSL,Electronic check,East,0,1,0,1,0,0
+CUST-102019,42,57.36,1,0,Month-to-month,Fiber,Bank transfer,Central,1,0,1,1,0,0
+CUST-102020,9,58.26,2,1,One year,Fiber,Credit card,South,1,0,0,1,0,0
+CUST-102022,46,29.05,0,2,Month-to-month,DSL,Electronic check,South,0,1,1,1,0,0
+CUST-102023,12,98.83,2,0,Month-to-month,DSL,Mailed check,East,1,1,0,0,0,1
+CUST-102024,72,107.71,1,0,Month-to-month,DSL,Electronic check,West,0,0,0,1,0,0
+CUST-102025,6,86.38,4,0,Month-to-month,DSL,Mailed check,East,1,0,1,0,0,0
+CUST-102026,41,60.07,1,0,One year,DSL,Bank transfer,South,1,0,0,0,0,0
+CUST-102027,27,102.25,1,2,Month-to-month,DSL,Electronic check,Central,0,1,0,0,1,1
+CUST-102028,7,60.28,1,1,Month-to-month,Fiber,Bank transfer,East,1,0,1,0,0,0
+CUST-102029,27,51.06,1,1,One year,DSL,Credit card,South,1,1,1,0,0,0
+CUST-102030,13,58.68,0,1,Month-to-month,DSL,Electronic check,North,0,1,0,0,0,1
+CUST-102031,22,54.32,0,0,Month-to-month,Fiber,Electronic check,East,0,0,1,1,0,1
+CUST-102032,22,45.28,0,0,Month-to-month,DSL,Electronic check,West,0,1,1,1,0,1
+CUST-102033,13,94.64,2,2,Month-to-month,Fiber,Electronic check,Central,0,0,1,1,0,0
+CUST-102034,18,49.44,2,1,Month-to-month,Fiber,Electronic check,South,0,0,1,0,0,1
+CUST-102035,12,67.29,2,2,One year,Fiber,Bank transfer,North,1,0,1,0,0,0
+CUST-102036,4,33.35,5,1,Two year,DSL,Electronic check,Central,0,1,0,1,0,0
+CUST-102037,25,68.74,3,0,Month-to-month,DSL,Bank transfer,East,1,1,0,0,0,0
+CUST-102038,56,40.26,0,0,One year,Fiber,Credit card,North,1,0,0,1,1,0
+CUST-102039,13,39.67,1,2,One year,Fiber,Credit card,North,1,0,0,1,1,1
+CUST-102040,72,65.38,2,4,Month-to-month,Fiber,Bank transfer,East,1,0,1,0,0,1
+CUST-102041,72,93.37,1,0,One year,Fiber,Electronic check,West,0,1,0,1,0,0
+CUST-102043,20,80.22,4,0,Two year,Fiber,Electronic check,South,0,1,0,1,0,1
+CUST-102044,17,64.88,1,2,Two year,Fiber,Credit card,West,1,1,1,1,1,0
+CUST-102045,9,59.94,0,1,Month-to-month,Fiber,Credit card,Central,1,1,1,0,0,0
+CUST-102047,18,54.48,3,1,Month-to-month,Fiber,Electronic check,East,0,1,1,0,0,1
+CUST-102048,25,88.03,1,0,Month-to-month,DSL,Mailed check,South,1,1,0,0,1,0
+CUST-102049,26,97.66,2,3,Month-to-month,Fiber,Electronic check,North,0,1,1,1,0,1
+CUST-102050,9,47.81,3,1,Two year,Fiber,Credit card,North,1,0,1,0,1,0
+CUST-102051,36,51.33,3,0,Month-to-month,DSL,Electronic check,Central,0,1,0,1,1,1
+CUST-102052,20,54.9,4,1,Month-to-month,Fiber,Mailed check,North,1,0,1,1,0,0
+CUST-102053,10,32.79,2,1,Two year,DSL,Mailed check,Central,1,0,0,0,0,0
+CUST-102054,20,56.73,2,1,Month-to-month,Fiber,Electronic check,South,0,1,0,0,0,0
+CUST-102055,27,99.23,3,0,Month-to-month,DSL,Mailed check,West,1,0,0,0,0,0
+CUST-102056,63,42.91,0,0,Two year,DSL,Credit card,Central,1,1,0,0,0,0
+CUST-102057,56,99.8,2,1,Month-to-month,DSL,Electronic check,West,0,1,1,0,0,0
+CUST-102058,16,57.6,1,1,Month-to-month,Fiber,Bank transfer,West,1,0,1,1,1,0
+CUST-102059,21,118.74,2,1,Month-to-month,DSL,Mailed check,South,1,0,1,0,1,0
+CUST-102061,30,64.54,1,1,Month-to-month,Fiber,Electronic check,West,0,0,0,0,1,1
+CUST-102062,16,46.16,0,0,Month-to-month,Fiber,Electronic check,East,0,0,0,0,1,1
+CUST-102063,20,51.5,2,2,Month-to-month,DSL,Electronic check,North,0,1,1,1,1,1
+CUST-102064,47,100.12,2,3,Month-to-month,Fiber,Mailed check,Central,1,1,0,1,0,0
+CUST-102065,9,79.39,3,0,Two year,DSL,Credit card,North,1,0,1,0,0,0
+CUST-102066,57,92.69,1,1,Month-to-month,DSL,Bank transfer,Central,1,0,0,0,0,0
+CUST-102067,32,36.43,2,0,Two year,Fiber,Credit card,Central,1,0,0,1,0,0
+CUST-102068,55,83.72,2,0,Month-to-month,DSL,Mailed check,North,1,0,0,1,0,0
+CUST-102069,39,44.69,0,0,Month-to-month,DSL,Bank transfer,West,1,1,0,1,0,0
+CUST-102070,44,35.9,1,0,Two year,Fiber,Bank transfer,West,1,1,0,0,1,0
+CUST-102071,24,73.73,0,1,Month-to-month,DSL,Electronic check,South,0,0,0,1,1,0
+CUST-102072,10,73.48,0,3,Month-to-month,Fiber,Electronic check,Central,0,0,0,0,0,1
+CUST-102073,15,69.28,2,2,Two year,Fiber,Mailed check,North,1,0,1,0,0,0
+CUST-102074,13,85.22,2,1,Month-to-month,DSL,Credit card,South,1,0,0,1,0,0
+CUST-102075,3,88.97,3,0,Month-to-month,Fiber,Mailed check,Central,1,1,0,0,1,0
+CUST-102076,47,103.27,1,0,Two year,DSL,Electronic check,West,0,1,0,1,0,0
+CUST-102077,22,39.43,2,0,Month-to-month,Fiber,Credit card,North,1,0,0,1,1,0
+CUST-102078,12,104.05,0,1,Month-to-month,Fiber,Electronic check,North,0,1,0,1,1,1
+CUST-102079,72,113.18,2,0,Month-to-month,Fiber,Credit card,South,1,1,0,1,0,0
+CUST-102080,72,59.21,0,0,Month-to-month,DSL,Credit card,North,1,1,0,0,1,0
+CUST-102081,8,27.96,1,2,Month-to-month,DSL,Credit card,North,1,1,1,1,0,0
+CUST-102082,20,34.8,2,0,One year,DSL,Credit card,East,1,0,0,1,0,0
+CUST-102084,11,116.34,1,1,One year,DSL,Bank transfer,South,1,1,1,1,0,0
+CUST-102085,46,68.41,1,3,Month-to-month,DSL,Bank transfer,South,1,0,0,1,0,1
+CUST-102086,3,53.19,1,2,Month-to-month,Fiber,Bank transfer,Central,1,0,0,1,0,0
+CUST-102088,25,36.25,2,0,One year,DSL,Electronic check,Central,0,0,1,1,0,1
+CUST-102089,72,88.99,0,0,Month-to-month,DSL,Electronic check,South,0,0,1,0,0,0
+CUST-102090,23,65.79,0,0,Month-to-month,Fiber,Mailed check,East,1,0,0,0,0,1
+CUST-102091,19,118.4,1,0,Two year,Fiber,Bank transfer,East,1,1,1,0,0,1
+CUST-102092,49,83.08,3,1,Month-to-month,DSL,Credit card,Central,1,1,1,1,0,0
+CUST-102093,72,87.92,0,2,Month-to-month,Fiber,Credit card,West,1,1,1,1,0,0
+CUST-102094,70,62.19,0,1,Two year,Fiber,Bank transfer,Central,1,0,0,0,0,0
+CUST-102096,58,47.03,1,4,Month-to-month,Fiber,Mailed check,Central,1,0,0,0,0,0
+CUST-102097,18,35.14,0,6,Month-to-month,Fiber,Electronic check,West,0,0,0,0,0,1
+CUST-102098,22,89.85,0,1,Month-to-month,Fiber,Electronic check,West,0,0,0,0,1,0
+CUST-102099,18,58.76,1,1,Month-to-month,Fiber,Electronic check,West,0,1,1,0,0,0
+CUST-102100,15,90.86,2,2,One year,DSL,Electronic check,South,0,1,0,0,0,1
+CUST-102103,58,39.93,1,0,Two year,DSL,Electronic check,West,0,0,1,1,0,0
+CUST-102104,39,75.24,4,2,One year,DSL,Electronic check,South,0,1,1,1,1,0
+CUST-102105,28,62.75,2,0,One year,Fiber,Electronic check,West,0,1,0,0,0,0
+CUST-102106,18,89.65,1,1,One year,DSL,Bank transfer,East,1,0,0,0,1,0
+CUST-102107,16,50.83,1,0,Two year,Fiber,Bank transfer,West,1,1,1,0,1,0
+CUST-102108,33,82.79,0,1,Month-to-month,Fiber,Electronic check,South,0,0,0,0,0,1
+CUST-102110,51,74.54,1,2,Month-to-month,DSL,Credit card,Central,1,1,1,1,0,1
+CUST-102111,16,86.85,0,1,Month-to-month,Fiber,Bank transfer,North,1,0,1,0,1,0
+CUST-102112,15,81.73,3,0,Month-to-month,DSL,Bank transfer,South,1,1,1,0,1,0
+CUST-102113,38,113.55,1,0,One year,Fiber,Mailed check,West,1,0,0,0,0,0
+CUST-102114,43,76.92,3,0,Month-to-month,Fiber,Credit card,Central,1,1,1,0,0,1
+CUST-102115,72,84.8,2,3,Two year,Fiber,Credit card,West,1,0,1,1,0,0
+CUST-102116,5,67.13,3,0,Month-to-month,Fiber,Mailed check,East,1,1,1,0,1,0
+CUST-102117,60,49.41,2,2,Month-to-month,DSL,Bank transfer,South,1,1,0,0,0,1
+CUST-102118,27,39.0,1,2,Month-to-month,Fiber,Electronic check,Central,0,0,0,1,1,1
+CUST-102119,17,98.41,1,0,Month-to-month,Fiber,Bank transfer,Central,1,0,1,0,0,1
+CUST-102120,33,43.8,1,0,Month-to-month,Fiber,Mailed check,Central,1,0,1,0,1,0
+CUST-102122,17,77.98,1,2,Month-to-month,DSL,Credit card,East,1,0,0,0,0,1
+CUST-102123,5,90.03,1,0,Month-to-month,DSL,Credit card,South,1,1,0,1,0,1
+CUST-102124,61,55.65,4,0,Month-to-month,Fiber,Electronic check,Central,0,0,0,1,1,1
+CUST-102125,14,49.02,1,0,Month-to-month,DSL,Credit card,Central,1,0,0,0,1,0
+CUST-102126,12,77.08,0,0,Month-to-month,DSL,Electronic check,North,0,0,1,0,0,1
+CUST-102127,15,60.98,4,0,Month-to-month,Fiber,Mailed check,South,1,0,1,0,1,0
+CUST-102128,42,38.46,1,0,Month-to-month,Fiber,Credit card,East,1,1,0,1,0,0
+CUST-102129,19,114.52,0,2,Month-to-month,Fiber,Electronic check,East,0,0,1,0,0,1
+CUST-102130,15,49.01,3,0,Month-to-month,Fiber,Mailed check,East,1,0,0,1,0,0
+CUST-102131,32,44.15,5,2,One year,Fiber,Bank transfer,South,1,1,1,0,0,0
+CUST-102132,29,62.19,2,1,Two year,Fiber,Electronic check,West,0,0,1,1,0,0
+CUST-102133,15,98.07,1,2,Two year,Fiber,Mailed check,Central,1,1,0,1,0,0
+CUST-102134,5,18.0,0,2,Month-to-month,DSL,Electronic check,Central,0,0,1,0,0,1
+CUST-102135,41,96.08,0,0,Month-to-month,Fiber,Bank transfer,East,1,0,0,0,0,0
+CUST-102136,29,46.12,4,0,Month-to-month,Fiber,Electronic check,Central,0,1,1,1,0,0
+CUST-102137,4,74.35,2,2,One year,DSL,Electronic check,West,0,1,1,1,0,0
+CUST-102138,66,51.78,2,1,One year,Fiber,Bank transfer,North,1,1,1,0,0,0
+CUST-102139,3,115.81,1,0,Two year,Fiber,Electronic check,West,0,0,0,1,0,0
+CUST-102140,13,70.99,2,1,Two year,Fiber,Mailed check,South,1,1,0,1,0,0
+CUST-102141,13,51.01,2,2,Month-to-month,Fiber,Bank transfer,West,1,0,0,1,0,0
+CUST-102142,15,60.77,4,2,One year,Fiber,Credit card,West,1,0,0,1,1,1
+CUST-102143,15,70.15,2,0,One year,Fiber,Electronic check,Central,0,0,0,1,0,1
+CUST-102144,8,72.26,3,3,Month-to-month,Fiber,Credit card,Central,1,1,0,0,0,0
+CUST-102147,27,34.95,0,1,Two year,Fiber,Credit card,East,1,1,0,1,0,0
+CUST-102148,30,59.83,1,0,One year,Fiber,Bank transfer,East,1,1,1,1,1,1
+CUST-102149,19,82.56,3,1,Month-to-month,Fiber,Bank transfer,Central,1,1,0,0,0,1
+CUST-102150,26,51.92,0,1,One year,DSL,Bank transfer,South,1,0,1,0,0,0
+CUST-102151,32,84.15,0,2,Month-to-month,DSL,Bank transfer,East,1,0,1,0,1,1
+CUST-102152,39,68.76,0,1,One year,Fiber,Credit card,West,1,1,0,0,0,0
+CUST-102153,14,62.77,1,0,One year,Fiber,Bank transfer,North,1,1,0,0,1,0
+CUST-102154,13,96.66,2,0,One year,Fiber,Credit card,West,1,0,1,0,0,0
+CUST-102156,72,51.79,2,1,Month-to-month,DSL,Credit card,South,1,0,0,0,0,0
+CUST-102157,72,97.58,0,1,Month-to-month,Fiber,Credit card,West,1,1,1,0,1,0
+CUST-102158,23,111.92,4,3,Month-to-month,DSL,Electronic check,North,0,1,1,1,0,1
+CUST-102159,24,122.86,2,0,Month-to-month,Fiber,Electronic check,North,0,1,0,1,0,1
+CUST-102160,63,69.21,0,1,Month-to-month,DSL,Bank transfer,East,1,1,0,0,1,0
+CUST-102162,12,87.62,1,2,Month-to-month,Fiber,Bank transfer,North,1,0,1,0,0,0
+CUST-102163,66,98.6,1,0,Month-to-month,Fiber,Credit card,South,1,1,1,1,0,0
+CUST-102164,19,75.51,1,1,Two year,DSL,Credit card,South,1,0,0,1,0,0
+CUST-102165,10,90.23,1,0,Month-to-month,Fiber,Mailed check,East,1,1,0,0,0,1
+CUST-102166,33,79.03,4,0,Two year,DSL,Bank transfer,South,1,1,0,0,0,0
+CUST-102167,14,80.53,1,0,Month-to-month,Fiber,Electronic check,North,0,1,1,1,0,0
+CUST-102168,59,45.96,0,1,Month-to-month,DSL,Mailed check,East,1,0,0,1,0,1
+CUST-102169,26,60.1,0,0,Month-to-month,Fiber,Electronic check,Central,0,1,1,0,1,0
+CUST-102170,15,55.45,1,0,Month-to-month,Fiber,Mailed check,East,1,0,1,1,0,0
+CUST-102171,15,39.47,0,2,Month-to-month,Fiber,Bank transfer,South,1,1,1,1,0,1
+CUST-102172,32,28.36,4,1,Month-to-month,Fiber,Bank transfer,East,1,1,1,1,0,0
+CUST-102173,21,57.83,1,1,Month-to-month,Fiber,Bank transfer,North,1,1,0,0,1,0
+CUST-102174,19,61.67,1,0,Month-to-month,DSL,Electronic check,South,0,0,0,0,1,0
+CUST-102175,40,70.52,1,0,Month-to-month,Fiber,Electronic check,East,0,1,0,0,0,0
+CUST-102176,64,81.34,1,0,Month-to-month,Fiber,Electronic check,East,0,1,0,1,1,1
+CUST-102177,36,72.51,0,0,Two year,Fiber,Credit card,East,1,1,0,0,0,0
+CUST-102178,13,61.83,0,1,Month-to-month,Fiber,Credit card,Central,1,1,1,1,0,0
+CUST-102179,10,46.04,0,0,Two year,DSL,Electronic check,West,0,1,1,1,0,0
+CUST-102181,36,65.56,0,2,Two year,Fiber,Mailed check,East,1,0,0,1,0,0
+CUST-102182,18,57.59,3,0,Two year,DSL,Bank transfer,East,1,1,1,1,0,0
+CUST-102183,21,63.53,1,1,Month-to-month,DSL,Electronic check,North,0,1,1,1,1,0
+CUST-102185,10,55.26,1,0,Month-to-month,Fiber,Mailed check,Central,1,0,0,0,1,0
+CUST-102186,15,54.5,1,2,One year,Fiber,Electronic check,South,0,0,0,1,0,1
+CUST-102188,52,83.74,2,2,Month-to-month,DSL,Electronic check,South,0,0,0,1,0,0
+CUST-102189,7,77.77,1,0,Two year,DSL,Bank transfer,North,1,1,1,0,0,0
+CUST-102190,23,105.12,1,1,Month-to-month,Fiber,Mailed check,South,1,1,0,0,1,1
+CUST-102191,3,97.08,0,0,Month-to-month,Fiber,Electronic check,West,0,0,0,0,0,1
+CUST-102192,35,114.95,0,1,One year,DSL,Bank transfer,Central,1,0,1,1,1,0
+CUST-102193,43,81.42,1,1,Month-to-month,DSL,Mailed check,West,1,0,1,1,0,1
+CUST-102194,25,81.03,0,1,One year,Fiber,Credit card,Central,1,0,0,0,0,0
+CUST-102195,22,56.3,1,2,One year,DSL,Credit card,West,1,0,1,0,0,0
+CUST-102196,14,87.82,4,2,Month-to-month,Fiber,Electronic check,West,0,1,1,0,1,1
+CUST-102197,51,52.25,1,1,Month-to-month,Fiber,Credit card,East,1,1,1,0,0,0
+CUST-102198,6,32.71,1,1,Month-to-month,DSL,Bank transfer,North,1,1,1,0,0,0
+CUST-102199,17,104.63,1,1,One year,DSL,Bank transfer,East,1,0,1,0,0,0
+CUST-102201,12,78.53,1,0,Two year,Fiber,Electronic check,East,0,1,1,0,0,1
+CUST-102202,50,46.87,1,0,Two year,Fiber,Electronic check,West,0,1,1,1,1,0
+CUST-102203,21,95.04,3,0,Month-to-month,Fiber,Credit card,North,1,1,1,1,0,0
+CUST-102204,14,98.31,5,0,Month-to-month,Fiber,Bank transfer,South,1,0,1,0,0,1
+CUST-102205,30,80.7,1,0,One year,Fiber,Mailed check,South,1,1,0,1,0,0
+CUST-102206,28,97.91,0,0,One year,Fiber,Bank transfer,South,1,0,0,0,0,0
+CUST-102207,42,68.18,4,2,Month-to-month,Fiber,Electronic check,Central,0,0,1,0,1,1
+CUST-102208,32,121.62,2,1,Month-to-month,Fiber,Electronic check,East,0,1,1,0,0,1
+CUST-102209,22,85.91,2,0,Month-to-month,Fiber,Bank transfer,West,1,0,0,0,1,1
+CUST-102210,23,46.39,1,1,Two year,DSL,Mailed check,West,1,1,1,1,0,0
+CUST-102211,31,69.67,0,1,Month-to-month,Fiber,Credit card,East,1,0,0,1,1,1
+CUST-102212,11,64.34,1,1,Two year,DSL,Bank transfer,Central,1,0,0,1,1,0
+CUST-102214,63,28.23,5,1,Two year,DSL,Credit card,North,1,1,1,1,0,0
+CUST-102215,25,77.28,2,1,Month-to-month,Fiber,Electronic check,West,0,1,1,1,0,0
+CUST-102216,18,34.74,0,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,1,0,0
+CUST-102217,18,18.0,1,3,Two year,DSL,Bank transfer,South,1,0,1,1,0,0
+CUST-102218,30,59.74,1,1,Two year,Fiber,Electronic check,Central,0,1,1,0,1,1
+CUST-102219,26,49.86,1,0,Month-to-month,Fiber,Electronic check,North,0,1,1,1,0,0
+CUST-102220,37,47.32,3,3,Month-to-month,Fiber,Electronic check,South,0,0,0,0,1,1
+CUST-102221,14,18.0,2,1,Month-to-month,DSL,Electronic check,North,0,1,0,0,0,0
+CUST-102222,20,47.58,0,1,Month-to-month,Fiber,Mailed check,North,1,0,0,1,0,0
+CUST-102223,41,63.83,2,0,Month-to-month,DSL,Electronic check,West,0,0,0,1,0,1
+CUST-102224,43,52.78,0,0,Two year,Fiber,Bank transfer,West,1,0,0,1,0,0
+CUST-102225,43,77.3,6,1,Month-to-month,Fiber,Electronic check,West,0,1,0,0,0,1
+CUST-102226,38,101.42,1,0,One year,DSL,Electronic check,Central,0,0,0,0,1,0
+CUST-102227,39,80.39,2,0,Month-to-month,Fiber,Electronic check,North,0,0,1,0,0,0
+CUST-102228,27,92.63,2,1,Month-to-month,DSL,Electronic check,West,0,0,0,1,0,1
+CUST-102229,7,94.62,1,1,One year,Fiber,Credit card,North,1,0,0,1,0,0
+CUST-102230,8,43.55,5,0,Month-to-month,Fiber,Electronic check,Central,0,1,0,1,0,0
+CUST-102232,25,91.88,2,0,Month-to-month,Fiber,Electronic check,West,0,0,1,0,1,1
+CUST-102233,12,57.54,1,1,Two year,Fiber,Mailed check,East,1,1,1,0,0,0
+CUST-102235,22,80.73,0,0,Two year,DSL,Credit card,West,1,1,1,0,0,0
+CUST-102236,72,32.44,1,0,Month-to-month,DSL,Mailed check,Central,1,0,1,0,0,1
+CUST-102237,10,41.89,2,1,Month-to-month,Fiber,Bank transfer,North,1,0,1,0,0,0
+CUST-102238,17,52.0,4,2,Month-to-month,Fiber,Mailed check,Central,1,0,0,1,1,0
+CUST-102239,42,78.81,1,0,Month-to-month,DSL,Credit card,West,1,1,0,1,0,0
+CUST-102240,37,73.25,3,1,Month-to-month,Fiber,Bank transfer,North,1,1,1,0,1,0
+CUST-102241,29,92.78,2,1,Month-to-month,Fiber,Electronic check,Central,0,1,1,0,0,1
+CUST-102242,4,45.88,2,1,Month-to-month,DSL,Bank transfer,North,1,0,1,1,1,0
+CUST-102243,19,44.59,2,0,Month-to-month,Fiber,Credit card,West,1,1,0,0,1,1
+CUST-102244,72,80.57,1,1,Month-to-month,Fiber,Mailed check,North,1,0,1,1,1,0
+CUST-102245,12,48.83,2,1,Month-to-month,Fiber,Credit card,North,1,1,0,1,0,0
+CUST-102246,12,53.52,0,1,Month-to-month,Fiber,Credit card,West,1,0,1,0,0,0
+CUST-102247,61,23.44,1,0,One year,DSL,Electronic check,West,0,0,0,0,0,0
+CUST-102248,22,74.98,1,1,Month-to-month,DSL,Credit card,West,1,0,0,0,0,0
+CUST-102249,5,104.99,2,0,Month-to-month,Fiber,Bank transfer,South,1,0,0,0,0,1
+CUST-102250,9,43.3,2,0,Month-to-month,Fiber,Mailed check,Central,1,0,0,0,1,1
+CUST-102251,15,92.52,3,0,One year,DSL,Mailed check,North,1,0,0,0,0,0
+CUST-102252,28,66.57,2,1,Month-to-month,Fiber,Credit card,Central,1,1,1,0,0,0
+CUST-102253,20,25.63,2,3,One year,Fiber,Bank transfer,South,1,0,0,1,0,0
+CUST-102255,20,45.04,1,0,Month-to-month,DSL,Electronic check,Central,0,1,0,0,0,1
+CUST-102256,12,60.4,3,2,Two year,Fiber,Mailed check,South,1,1,1,0,0,0
+CUST-102258,9,112.37,2,1,Month-to-month,Fiber,Bank transfer,Central,1,0,0,0,1,0
+CUST-102260,15,56.37,2,1,One year,Fiber,Credit card,South,1,1,0,1,1,0
+CUST-102261,15,46.5,2,2,Two year,Fiber,Credit card,East,1,0,1,1,0,0
+CUST-102263,58,70.29,0,1,Month-to-month,Fiber,Electronic check,East,0,1,1,1,1,1
+CUST-102264,72,68.04,0,2,Month-to-month,Fiber,Bank transfer,South,1,0,1,0,1,0
+CUST-102265,30,24.47,2,4,Month-to-month,Fiber,Electronic check,North,0,1,0,0,0,1
+CUST-102266,29,68.44,5,3,One year,DSL,Electronic check,Central,0,1,1,0,0,0
+CUST-102267,6,39.07,4,0,Month-to-month,DSL,Bank transfer,West,1,1,0,1,0,1
+CUST-102268,57,68.28,1,1,One year,Fiber,Credit card,East,1,1,0,1,0,0
+CUST-102269,12,98.47,1,1,Two year,DSL,Electronic check,North,0,1,1,1,0,1
+CUST-102270,5,79.11,0,1,One year,DSL,Credit card,North,1,1,1,0,0,0
+CUST-102271,34,72.26,1,0,One year,Fiber,Credit card,East,1,1,0,1,0,0
+CUST-102272,47,55.31,4,1,One year,Fiber,Electronic check,West,0,0,1,1,1,0
+CUST-102273,57,69.6,2,2,Two year,Fiber,Electronic check,South,0,1,0,0,1,0
+CUST-102274,16,81.52,1,3,Two year,Fiber,Bank transfer,West,1,0,0,0,1,0
+CUST-102275,15,79.14,1,2,Month-to-month,Fiber,Bank transfer,South,1,0,0,0,0,0
+CUST-102276,27,65.62,1,3,Month-to-month,Fiber,Mailed check,North,1,1,1,0,0,0
+CUST-102277,20,73.22,1,1,Month-to-month,Fiber,Bank transfer,East,1,1,1,1,0,0
+CUST-102278,35,36.4,1,2,Two year,Fiber,Bank transfer,North,1,1,0,0,0,0
+CUST-102279,27,50.38,4,4,One year,DSL,Bank transfer,North,1,0,1,1,1,0
+CUST-102280,11,84.98,0,3,Month-to-month,Fiber,Bank transfer,North,1,0,1,0,0,0
+CUST-102283,47,103.5,1,1,One year,DSL,Electronic check,Central,0,1,1,1,0,1
+CUST-102285,34,62.4,0,1,Month-to-month,DSL,Credit card,North,1,1,0,1,1,0
+CUST-102286,41,38.73,3,2,Two year,Fiber,Credit card,North,1,1,0,1,0,0
+CUST-102287,26,102.53,2,0,One year,DSL,Electronic check,South,0,0,0,0,0,0
+CUST-102288,9,86.49,3,2,Month-to-month,Fiber,Bank transfer,South,1,0,0,1,0,1
+CUST-102289,25,111.16,1,1,Month-to-month,DSL,Electronic check,South,0,1,1,0,0,0
+CUST-102290,38,120.0,4,0,Two year,Fiber,Mailed check,Central,1,1,1,1,1,0
+CUST-102291,49,37.11,4,0,One year,Fiber,Electronic check,South,0,1,1,1,0,1
+CUST-102292,6,37.18,2,1,One year,Fiber,Credit card,West,1,0,1,0,1,1
+CUST-102294,8,90.04,0,1,Month-to-month,Fiber,Bank transfer,North,1,1,0,1,0,0
+CUST-102295,39,83.76,3,2,Month-to-month,Fiber,Credit card,South,1,1,0,0,0,0
+CUST-102296,46,70.35,3,0,One year,Fiber,Bank transfer,East,1,0,1,1,0,0
+CUST-102297,11,38.57,3,0,Month-to-month,Fiber,Electronic check,East,0,0,0,1,0,0
+CUST-102298,9,65.86,1,0,Month-to-month,DSL,Credit card,North,1,0,0,0,0,0
+CUST-102299,14,72.43,1,0,One year,DSL,Bank transfer,West,1,0,1,1,0,0
+CUST-102300,21,86.79,1,1,Two year,Fiber,Mailed check,South,1,0,0,1,0,0
+CUST-102301,13,74.55,2,1,One year,Fiber,Bank transfer,South,1,0,1,0,0,0
+CUST-102302,41,83.93,3,1,Month-to-month,Fiber,Credit card,West,1,1,0,0,0,0
+CUST-102303,49,65.02,0,0,Month-to-month,Fiber,Mailed check,Central,1,1,0,1,0,0
+CUST-102304,25,96.36,1,2,Month-to-month,DSL,Mailed check,Central,1,0,1,1,0,1
+CUST-102305,13,83.16,2,1,Month-to-month,DSL,Mailed check,Central,1,0,0,1,0,1
+CUST-102306,20,39.51,3,1,Month-to-month,Fiber,Electronic check,East,0,0,0,1,0,1
+CUST-102307,25,101.34,2,1,Month-to-month,DSL,Credit card,North,1,1,1,1,0,1
+CUST-102308,19,97.41,2,1,One year,Fiber,Electronic check,South,0,0,1,0,0,1
+CUST-102309,22,79.17,2,0,Two year,DSL,Mailed check,South,1,1,0,0,0,0
+CUST-102310,46,74.74,0,1,Two year,Fiber,Mailed check,South,1,0,0,1,0,0
+CUST-102311,13,107.81,4,0,Month-to-month,DSL,Electronic check,South,0,1,0,0,0,1
+CUST-102312,72,28.8,1,1,Month-to-month,Fiber,Mailed check,North,1,1,0,1,0,1
+CUST-102314,19,56.57,4,0,Month-to-month,Fiber,Electronic check,West,0,1,0,0,1,0
+CUST-102315,12,94.28,1,2,Month-to-month,Fiber,Electronic check,East,0,1,1,1,0,1
+CUST-102316,13,70.89,1,1,Month-to-month,Fiber,Credit card,North,1,0,1,0,0,0
+CUST-102317,24,38.17,1,2,One year,Fiber,Credit card,East,1,0,0,0,1,0
+CUST-102318,26,56.08,2,2,Month-to-month,DSL,Mailed check,Central,1,0,0,1,1,0
+CUST-102319,18,92.52,1,1,Two year,DSL,Electronic check,East,0,0,0,1,0,0
+CUST-102320,7,62.96,2,0,Month-to-month,DSL,Electronic check,South,0,0,0,0,0,1
+CUST-102321,24,53.08,2,2,Month-to-month,Fiber,Electronic check,South,0,0,1,0,0,1
+CUST-102322,13,52.92,1,0,Month-to-month,DSL,Mailed check,South,1,1,0,1,0,1
+CUST-102323,5,83.41,3,0,Month-to-month,DSL,Credit card,South,1,1,1,0,0,0
+CUST-102324,36,110.02,3,1,Month-to-month,Fiber,Bank transfer,Central,1,0,1,0,1,1
+CUST-102325,5,18.0,1,0,Two year,Fiber,Electronic check,Central,0,1,1,0,1,0
+CUST-102326,18,135.22,1,0,Month-to-month,Fiber,Credit card,South,1,0,1,1,0,0
+CUST-102327,22,72.89,2,1,Month-to-month,Fiber,Mailed check,Central,1,0,1,0,1,0
+CUST-102328,53,81.93,0,1,Month-to-month,DSL,Electronic check,Central,0,1,1,1,1,1
+CUST-102330,38,67.92,2,1,One year,DSL,Electronic check,East,0,0,1,1,1,0
+CUST-102331,42,72.62,1,0,Month-to-month,Fiber,Credit card,West,1,1,0,0,0,0
+CUST-102332,64,42.82,2,2,Two year,DSL,Mailed check,East,1,1,0,0,0,0
+CUST-102333,48,48.66,1,0,Month-to-month,DSL,Bank transfer,East,1,0,1,1,1,0
+CUST-102334,22,96.43,4,0,Month-to-month,Fiber,Mailed check,East,1,1,1,0,0,0
+CUST-102335,40,30.74,1,3,One year,DSL,Credit card,West,1,1,0,1,1,0
+CUST-102336,55,78.58,2,2,Two year,Fiber,Bank transfer,South,1,0,1,1,1,0
+CUST-102337,4,59.11,0,0,Month-to-month,Fiber,Mailed check,East,1,1,0,0,1,1
+CUST-102338,7,44.94,0,1,Month-to-month,Fiber,Electronic check,South,0,0,1,1,0,0
+CUST-102339,28,115.33,1,0,Month-to-month,Fiber,Credit card,Central,1,1,1,1,0,1
+CUST-102340,42,45.09,1,0,Month-to-month,DSL,Bank transfer,North,1,0,0,0,0,0
+CUST-102341,35,40.88,1,2,Month-to-month,Fiber,Electronic check,North,0,0,0,0,1,0
+CUST-102342,29,63.51,2,1,One year,Fiber,Credit card,North,1,0,1,1,0,0
+CUST-102343,63,49.55,1,1,Month-to-month,Fiber,Electronic check,South,0,0,0,0,0,0
+CUST-102344,18,68.15,1,2,One year,Fiber,Electronic check,West,0,0,1,1,1,1
+CUST-102345,13,71.73,1,1,Month-to-month,Fiber,Mailed check,Central,1,1,0,0,0,0
+CUST-102346,16,73.63,3,0,Two year,Fiber,Electronic check,East,0,0,0,1,0,0
+CUST-102347,28,65.03,4,3,Two year,DSL,Mailed check,North,1,1,1,0,0,0
+CUST-102348,21,51.15,1,1,Month-to-month,Fiber,Electronic check,South,0,1,0,0,0,0
+CUST-102349,44,83.44,2,0,Month-to-month,DSL,Electronic check,North,0,1,0,1,1,0
+CUST-102350,14,65.32,3,3,Month-to-month,Fiber,Electronic check,East,0,0,1,1,1,1
+CUST-102351,31,56.11,1,1,Two year,DSL,Electronic check,West,0,1,0,0,0,0
+CUST-102352,40,103.52,4,0,Month-to-month,DSL,Credit card,North,1,0,0,1,0,1
+CUST-102353,55,65.09,0,2,Month-to-month,Fiber,Bank transfer,West,1,1,1,0,0,0
+CUST-102354,9,94.21,3,1,Month-to-month,Fiber,Mailed check,South,1,1,0,0,0,1
+CUST-102356,20,98.9,1,1,Month-to-month,Fiber,Bank transfer,Central,1,0,1,1,0,1
+CUST-102357,6,84.59,2,1,Month-to-month,DSL,Electronic check,West,0,1,1,0,0,0
+CUST-102358,29,67.98,1,0,Two year,Fiber,Electronic check,West,0,0,0,1,0,1
+CUST-102359,29,66.46,3,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,1,0,0
+CUST-102360,27,62.14,1,0,Two year,Fiber,Mailed check,North,1,1,0,0,1,0
+CUST-102361,19,18.0,3,1,Month-to-month,DSL,Credit card,North,1,1,1,1,0,0
+CUST-102362,51,85.25,0,1,Month-to-month,Fiber,Credit card,South,1,1,1,0,0,0
+CUST-102363,16,73.87,4,0,Two year,DSL,Credit card,West,1,1,1,1,0,0
+CUST-102364,48,87.81,2,2,One year,DSL,Electronic check,West,0,1,0,1,0,0
+CUST-102365,15,65.19,0,1,One year,Fiber,Electronic check,West,0,0,0,0,1,1
+CUST-102366,8,83.96,0,0,Month-to-month,Fiber,Electronic check,South,0,0,0,0,0,1
+CUST-102367,22,34.94,2,0,Month-to-month,Fiber,Credit card,Central,1,1,1,0,0,0
+CUST-102368,25,39.94,0,1,Month-to-month,Fiber,Credit card,East,1,0,0,0,0,0
+CUST-102369,31,18.0,4,0,Month-to-month,DSL,Credit card,South,1,0,0,1,0,0
+CUST-102371,18,49.46,1,0,Month-to-month,Fiber,Credit card,North,1,1,0,1,0,0
+CUST-102372,72,46.32,1,0,Month-to-month,DSL,Mailed check,East,1,1,0,1,1,0
+CUST-102373,14,76.03,2,1,Month-to-month,DSL,Credit card,West,1,0,0,0,0,1
+CUST-102374,43,57.79,2,0,Month-to-month,Fiber,Bank transfer,West,1,1,0,1,0,0
+CUST-102375,72,33.61,1,0,Month-to-month,DSL,Electronic check,South,0,1,0,0,0,0
+CUST-102376,72,129.07,1,1,Two year,Fiber,Electronic check,North,0,1,0,0,0,0
+CUST-102377,10,67.11,3,1,One year,DSL,Credit card,North,1,1,1,0,0,0
+CUST-102378,40,42.0,2,1,Month-to-month,Fiber,Mailed check,North,1,1,1,1,1,0
+CUST-102379,42,51.92,0,0,One year,Fiber,Electronic check,Central,0,0,0,1,0,1
+CUST-102380,36,63.84,1,0,Two year,Fiber,Electronic check,West,0,0,1,0,0,0
+CUST-102381,8,63.79,3,1,Month-to-month,DSL,Mailed check,East,1,1,0,1,0,0
+CUST-102382,27,99.25,0,0,Month-to-month,DSL,Credit card,East,1,1,1,1,0,0
+CUST-102383,27,66.09,0,1,Month-to-month,Fiber,Electronic check,South,0,1,0,1,0,0
+CUST-102384,7,112.52,1,1,Month-to-month,DSL,Electronic check,North,0,1,1,0,0,1
+CUST-102385,19,57.62,4,0,One year,DSL,Credit card,North,1,0,1,0,0,0
+CUST-102386,28,78.23,2,3,Two year,Fiber,Bank transfer,West,1,0,1,0,1,0
+CUST-102387,22,92.53,1,1,Month-to-month,DSL,Electronic check,North,0,0,0,1,0,0
+CUST-102388,38,96.68,2,2,One year,Fiber,Electronic check,North,0,1,1,1,0,0
+CUST-102390,25,61.47,2,0,One year,Fiber,Electronic check,East,0,0,0,0,1,0
+CUST-102391,44,67.87,4,2,One year,Fiber,Electronic check,East,0,1,1,0,1,0
+CUST-102392,69,18.0,2,2,Month-to-month,Fiber,Electronic check,South,0,0,1,1,0,0
+CUST-102393,8,63.3,3,1,Month-to-month,Fiber,Bank transfer,North,1,0,1,0,0,0
+CUST-102394,37,94.19,0,0,One year,DSL,Credit card,East,1,0,1,1,1,0
+CUST-102395,16,89.52,1,1,Two year,Fiber,Credit card,South,1,1,1,1,0,0
+CUST-102396,31,65.92,1,2,Month-to-month,Fiber,Mailed check,East,1,1,0,1,0,0
+CUST-102397,8,108.78,2,1,Month-to-month,Fiber,Electronic check,North,0,0,0,0,1,1
+CUST-102398,52,58.78,1,0,Month-to-month,DSL,Credit card,South,1,1,0,1,0,0
+CUST-102399,12,50.81,0,0,Month-to-month,DSL,Credit card,North,1,0,1,1,0,0
+CUST-102400,45,56.76,1,0,One year,Fiber,Mailed check,East,1,1,1,1,1,0
+CUST-102401,9,41.06,2,0,One year,Fiber,Electronic check,South,0,1,1,0,1,0
+CUST-102402,6,82.94,2,0,One year,Fiber,Electronic check,South,0,0,1,0,0,0
+CUST-102403,20,74.92,2,0,Two year,DSL,Mailed check,East,1,0,0,0,0,0
+CUST-102404,27,82.64,1,0,One year,DSL,Bank transfer,East,1,1,0,0,0,0
+CUST-102405,72,58.06,0,0,Month-to-month,DSL,Electronic check,South,0,0,1,1,1,0
+CUST-102406,27,66.61,2,1,Month-to-month,DSL,Credit card,West,1,0,0,0,1,0
+CUST-102407,10,18.0,1,1,Month-to-month,Fiber,Bank transfer,South,1,0,0,1,1,0
+CUST-102408,40,77.03,3,0,Month-to-month,DSL,Bank transfer,South,1,1,1,1,0,0
+CUST-102409,58,70.37,3,1,Two year,Fiber,Electronic check,East,0,0,0,1,0,0
+CUST-102410,12,41.59,3,1,One year,Fiber,Credit card,North,1,0,0,0,0,1
+CUST-102411,44,65.49,3,0,Two year,Fiber,Bank transfer,East,1,0,1,0,0,0
+CUST-102412,53,61.81,2,0,Month-to-month,Fiber,Electronic check,East,0,0,0,0,0,0
+CUST-102414,14,42.53,3,2,Month-to-month,Fiber,Bank transfer,East,1,1,1,0,1,0
+CUST-102415,27,75.95,0,0,Month-to-month,DSL,Credit card,North,1,1,0,0,0,1
+CUST-102416,31,41.82,1,0,Month-to-month,DSL,Electronic check,West,0,1,1,0,1,0
+CUST-102417,51,54.61,2,2,Month-to-month,DSL,Credit card,North,1,0,0,1,0,0
+CUST-102419,45,62.93,1,0,Two year,Fiber,Electronic check,South,0,0,1,1,0,0
+CUST-102420,21,67.86,0,2,Month-to-month,Fiber,Electronic check,West,0,0,1,0,0,1
+CUST-102421,18,75.99,1,1,Month-to-month,Fiber,Electronic check,West,0,0,0,0,0,1
+CUST-102422,24,56.15,4,3,One year,Fiber,Electronic check,East,0,0,0,1,1,1
+CUST-102424,3,60.67,2,0,Two year,Fiber,Bank transfer,South,1,0,0,0,1,1
+CUST-102425,4,65.66,1,2,One year,Fiber,Electronic check,West,0,1,0,1,0,0
+CUST-102426,32,76.67,0,1,Month-to-month,Fiber,Credit card,North,1,1,1,1,0,1
+CUST-102427,19,73.45,3,1,One year,Fiber,Electronic check,West,0,0,1,0,1,0
+CUST-102428,14,83.46,2,3,One year,DSL,Bank transfer,South,1,0,0,1,1,1
+CUST-102429,23,75.61,1,1,One year,Fiber,Credit card,North,1,1,0,0,0,1
+CUST-102430,45,79.26,5,0,Two year,DSL,Credit card,West,1,1,0,0,0,0
+CUST-102431,22,60.19,4,3,One year,DSL,Bank transfer,North,1,0,0,0,0,0
+CUST-102432,9,42.35,0,0,One year,DSL,Bank transfer,South,1,1,1,0,1,1
+CUST-102433,72,33.74,2,0,Month-to-month,Fiber,Electronic check,North,0,0,1,0,1,0
+CUST-102434,24,27.9,2,2,One year,DSL,Electronic check,East,0,0,0,1,1,1
+CUST-102435,53,110.31,0,0,Two year,Fiber,Mailed check,North,1,0,1,1,1,0
+CUST-102436,41,18.0,1,0,One year,Fiber,Electronic check,North,0,1,1,1,1,0
+CUST-102437,17,96.65,0,2,One year,DSL,Electronic check,East,0,1,0,1,1,1
+CUST-102438,69,48.3,2,0,Month-to-month,DSL,Electronic check,Central,0,1,1,0,0,0
+CUST-102439,15,96.47,0,0,One year,Fiber,Credit card,North,1,1,0,0,0,0
+CUST-102440,32,18.0,2,0,Two year,DSL,Credit card,East,1,0,1,0,0,0
+CUST-102441,29,62.36,1,1,Month-to-month,Fiber,Credit card,Central,1,0,1,0,0,0
+CUST-102442,31,102.9,0,0,Month-to-month,DSL,Bank transfer,South,1,1,0,0,0,1
+CUST-102444,24,59.91,1,2,Month-to-month,DSL,Electronic check,Central,0,1,1,1,1,1
+CUST-102445,28,21.37,1,1,Month-to-month,DSL,Bank transfer,West,1,1,1,0,1,0
+CUST-102446,29,36.26,2,3,Month-to-month,DSL,Bank transfer,South,1,1,1,1,1,0
+CUST-102447,72,101.34,2,0,Month-to-month,DSL,Mailed check,West,1,0,0,0,1,0
+CUST-102448,51,59.64,2,3,One year,DSL,Mailed check,West,1,1,1,1,0,0
+CUST-102449,6,66.28,0,1,One year,DSL,Mailed check,East,1,1,0,1,0,0
+CUST-102450,15,74.8,2,0,One year,Fiber,Electronic check,East,0,0,0,0,1,1
+CUST-102451,25,36.73,1,1,One year,DSL,Electronic check,Central,0,1,0,0,0,0
+CUST-102452,60,77.77,0,1,One year,Fiber,Mailed check,Central,1,0,1,1,1,0
+CUST-102454,23,75.05,2,2,One year,Fiber,Credit card,West,1,1,0,0,0,1
+CUST-102455,15,54.13,2,3,Month-to-month,Fiber,Mailed check,South,1,0,1,0,0,1
+CUST-102456,21,30.25,0,2,One year,DSL,Bank transfer,North,1,0,1,0,1,0
+CUST-102457,26,57.74,2,0,Month-to-month,Fiber,Credit card,North,1,1,0,0,1,1
+CUST-102458,20,83.38,0,0,Month-to-month,Fiber,Electronic check,Central,0,1,0,1,0,1
+CUST-102459,54,77.46,3,1,Month-to-month,DSL,Bank transfer,South,1,0,0,0,0,1
+CUST-102460,18,68.74,1,1,Two year,Fiber,Mailed check,North,1,1,0,0,1,0
+CUST-102461,12,89.56,0,1,One year,Fiber,Bank transfer,South,1,1,0,1,0,1
+CUST-102462,20,63.11,1,2,Month-to-month,Fiber,Electronic check,North,0,1,1,1,1,1
+CUST-102463,30,69.35,0,0,One year,Fiber,Credit card,East,1,1,0,0,1,0
+CUST-102464,55,56.49,0,3,Month-to-month,Fiber,Credit card,East,1,0,1,1,1,1
+CUST-102465,11,90.96,1,2,One year,Fiber,Electronic check,South,0,0,1,1,0,1
+CUST-102466,30,75.0,2,1,Two year,Fiber,Electronic check,West,0,0,0,0,1,1
+CUST-102467,31,54.63,4,2,One year,Fiber,Electronic check,East,0,1,0,0,1,0
+CUST-102468,35,32.26,4,0,One year,Fiber,Credit card,Central,1,0,0,1,0,0
+CUST-102469,18,94.52,0,0,Month-to-month,DSL,Bank transfer,West,1,1,1,0,1,0
+CUST-102470,34,50.14,2,0,Month-to-month,DSL,Electronic check,North,0,1,0,0,0,1
+CUST-102471,40,69.73,0,2,Two year,Fiber,Credit card,South,1,1,1,1,1,0
+CUST-102472,18,124.46,1,0,One year,Fiber,Electronic check,West,0,1,1,0,0,1
+CUST-102473,28,87.24,1,0,Month-to-month,DSL,Mailed check,East,1,0,1,0,0,1
+CUST-102474,21,106.67,2,1,Month-to-month,DSL,Mailed check,West,1,1,0,0,0,1
+CUST-102475,13,55.09,1,0,Month-to-month,Fiber,Mailed check,South,1,1,1,0,1,0
+CUST-102476,8,93.7,2,3,Month-to-month,Fiber,Mailed check,North,1,1,1,1,0,0
+CUST-102477,15,68.64,2,0,Month-to-month,Fiber,Electronic check,West,0,0,1,0,0,1
+CUST-102478,16,76.78,1,3,Month-to-month,DSL,Mailed check,West,1,0,0,0,0,1
+CUST-102481,42,68.46,0,0,Month-to-month,Fiber,Credit card,North,1,1,1,0,0,0
+CUST-102482,21,46.32,1,1,Month-to-month,Fiber,Bank transfer,West,1,1,1,0,0,1
+CUST-102483,23,89.32,1,0,Month-to-month,Fiber,Credit card,West,1,1,0,0,1,0
+CUST-102484,17,54.54,1,0,One year,Fiber,Electronic check,West,0,1,0,1,0,0
+CUST-102485,22,92.55,2,0,Month-to-month,Fiber,Credit card,North,1,1,1,0,1,0
+CUST-102486,35,28.4,4,2,One year,DSL,Electronic check,West,0,1,1,0,0,0
+CUST-102487,30,81.17,1,0,One year,Fiber,Electronic check,West,0,1,0,1,0,0
+CUST-102489,16,85.53,3,1,One year,Fiber,Electronic check,East,0,0,0,1,0,0
+CUST-102490,40,67.67,2,1,Two year,Fiber,Credit card,West,1,1,0,0,0,0
+CUST-102491,17,55.15,2,1,Month-to-month,DSL,Credit card,East,1,0,1,1,0,0
+CUST-102492,8,58.72,1,0,Month-to-month,DSL,Credit card,West,1,1,0,0,1,1
+CUST-102493,26,47.59,2,0,Two year,Fiber,Electronic check,West,0,1,1,1,1,0
+CUST-102494,5,88.11,3,2,Two year,DSL,Credit card,West,1,1,0,0,0,0
+CUST-102495,29,42.83,1,0,Month-to-month,Fiber,Bank transfer,Central,1,0,1,1,1,0
+CUST-102496,31,61.59,1,1,Month-to-month,Fiber,Electronic check,North,0,1,0,1,1,0
+CUST-102497,15,76.29,1,2,Month-to-month,Fiber,Mailed check,West,1,0,1,1,1,0
+CUST-102498,16,106.72,2,2,One year,Fiber,Bank transfer,West,1,0,0,1,0,1
+CUST-102499,44,67.78,0,1,Month-to-month,DSL,Electronic check,East,0,0,0,0,0,1

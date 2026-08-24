@@ -1,0 +1,85 @@
+superhumanlythoughts.com {
+    root * /home/ec2-user/dist
+    
+    # API endpoints: proxy to backend on port 8000
+    handle /api/* {
+        reverse_proxy 127.0.0.1:8000 {
+            header_up X-Forwarded-For {http.request.remote.host}
+            header_up X-Forwarded-Proto {http.request.proto}
+        }
+    }
+    
+    # Health check endpoints
+    handle /health* {
+        reverse_proxy 127.0.0.1:8000 {
+            header_up X-Forwarded-For {http.request.remote.host}
+            header_up X-Forwarded-Proto {http.request.proto}
+        }
+    }
+    
+    # FastAPI docs
+    handle /docs* {
+        reverse_proxy 127.0.0.1:8000 {
+            header_up X-Forwarded-For {http.request.remote.host}
+            header_up X-Forwarded-Proto {http.request.proto}
+        }
+    }
+    
+    handle /openapi.json {
+        reverse_proxy 127.0.0.1:8000 {
+            header_up X-Forwarded-For {http.request.remote.host}
+            header_up X-Forwarded-Proto {http.request.proto}
+        }
+    }
+    
+    # WebSocket support for streaming
+    handle /ws* {
+        reverse_proxy 127.0.0.1:8000 {
+            header_up Upgrade websocket
+            header_up Connection Upgrade
+            header_up X-Forwarded-For {http.request.remote.host}
+            header_up X-Forwarded-Proto {http.request.proto}
+        }
+    }
+    
+    # Serve static frontend files
+    file_server
+    encode gzip zstd
+    
+    # Enable compression
+    header {
+        -Server
+        Cache-Control "public, max-age=3600"
+    }
+    
+    # Handle SPA routing - rewrite unknown paths to index.html
+    @notfile {
+        not path /api/*
+        not path /health*
+        not path /docs*
+        not path /openapi.json
+        not path /ws*
+        not path /assets/*
+        not path /js/*
+        not path /*.svg
+        not path /*.css
+        not path *.js
+        not path *.css
+        not path *.jpg
+        not path *.jpeg
+        not path *.png
+        not path *.gif
+        not path *.webp
+        not path *.ico
+    }
+    
+    rewrite @notfile /index.html
+}
+
+# API subdomain - routes all requests to backend
+api.superhumanlythoughts.com {
+    reverse_proxy 127.0.0.1:8000 {
+        header_up X-Forwarded-For {http.request.remote.host}
+        header_up X-Forwarded-Proto {http.request.proto}
+    }
+}
